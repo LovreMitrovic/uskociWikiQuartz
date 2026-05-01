@@ -1,6 +1,7 @@
 ---
 type: person
-given_name: nullsurname: Palikuća
+given_name: null
+surname: Palikuća
 attested_period: "1686"
 attested_place: "[[Sibenik]] / [[Skradin]]"
 title: "capo Morlach of Šibenik–Skradin"

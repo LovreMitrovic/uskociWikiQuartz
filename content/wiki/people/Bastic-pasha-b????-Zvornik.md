@@ -1,6 +1,7 @@
 ---
 type: person
-given_name: nullsurname: Bastić
+given_name: null
+surname: Bastić
 attested_period: "1686"
 attested_place: "[[Zvornik]] (sandžak); [[Cliuno|Livno]] (raid)"
 title: "newly-named pasha of Zvornik (1686)"

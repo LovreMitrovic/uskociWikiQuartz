@@ -1,7 +1,8 @@
 ---
 type: person
 given_name: Šakija-aga
-surname: nullattested_place: "[[Sinj]] → [[Zadar]] (captive)"
+surname: null
+attested_place: "[[Sinj]] → [[Zadar]] (captive)"
 sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
 confidence: high
 ---
