@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>index</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Quartz 4"/><meta property="og:title" content="index"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="index"/><meta name="twitter:description" content="Wiki Index Last updated: 2026-05-01 (after ingest of Desnica-1951-Kotarski-Uskoci-II)."/><meta property="og:description" content="Wiki Index Last updated: 2026-05-01 (after ingest of Desnica-1951-Kotarski-Uskoci-II)."/><meta property="og:image:alt" content="Wiki Index Last updated: 2026-05-01 (after ingest of Desnica-1951-Kotarski-Uskoci-II)."/><meta property="twitter:domain" content="lovremitrovic.github.io/uskociWikiQuartz"/><meta property="og:url" content="https://lovremitrovic.github.io/uskociWikiQuartz/index"/><meta property="twitter:url" content="https://lovremitrovic.github.io/uskociWikiQuartz/index"/><link rel="icon" href="./static/icon.png"/><meta name="description" content="Wiki Index Last updated: 2026-05-01 (after ingest of Desnica-1951-Kotarski-Uskoci-II)."/><meta name="generator" content="Quartz"/><link href="./index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvcnVubmVyL3dvcmsvdXNrb2NpV2lraVF1YXJ0ei91c2tvY2lXaWtpUXVhcnR6L3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="./prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("./static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://lovremitrovic.github.io/uskociWikiQuartz/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://lovremitrovic.github.io/uskociWikiQuartz/index-og-image.webp"/><meta property="og:image:url" content="https://lovremitrovic.github.io/uskociWikiQuartz/index-og-image.webp"/><meta name="twitter:image" content="https://lovremitrovic.github.io/uskociWikiQuartz/index-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="index"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href=".">Quartz 4</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-88"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-88" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><h1 class="article-title">index</h1><p show-comma="true" class="content-meta"><time datetime="2026-05-01T21:32:53.000Z">May 01, 2026</time><span>12 min read</span></p></div></div><article class="popover-hint"><h1 id="wiki-index">Wiki Index<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#wiki-index" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Last updated: 2026-05-01 (after ingest of <a href="./sources/Desnica-1951-Kotarski-Uskoci-II" class="internal" data-slug="sources/Desnica-1951-Kotarski-Uskoci-II">Desnica-1951-Kotarski-Uskoci-II</a>).</p>
+<p>Counts (post-ingest, partial): <strong>4 sources · 28 events · 158 places · 240 surnames · 372 persons · 2 families</strong> ≈ 800 wiki pages. <em>Note: this ingest added the Person and Source pages; the Surname/Place/Event sweep for Desnica II is partial — see <a href="./log#2026-05-01" class="internal alias" data-slug="log">2026-05-01</a>.</em></p>
+<hr/>
+<h2 id="sources">Sources<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#sources" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="./sources/Saric-2024-Vlasi-Istre" class="internal" data-slug="sources/Saric-2024-Vlasi-Istre">Saric-2024-Vlasi-Istre</a> — Marko Šarić, “Osmanski Vlasi Istre na izvornoj Tromeđi” (2024). Secondary, scholarly article. Period c. 1500–1585.</li>
+<li><a href="./sources/Saric-2008-Bunjevci" class="internal" data-slug="sources/Saric-2008-Bunjevci">Saric-2008-Bunjevci</a> — Marko Šarić, “Bunjevci u ranom novom vijeku” (2008). Secondary, scholarly synthesis on Catholic Vlach Bunjevac formation.</li>
+<li><a href="./sources/Desnica-1950-Kotarski-Uskoci-I" class="internal" data-slug="sources/Desnica-1950-Kotarski-Uskoci-I">Desnica-1950-Kotarski-Uskoci-I</a> — Boško Desnica, “Istorija kotarskih uskoka 1646–1684, sveska I” (1950). Primary archival anthology of 399 documents — the canonical documentary base for the Kotarski Uskoci.</li>
+<li><a href="./sources/Desnica-1951-Kotarski-Uskoci-II" class="internal" data-slug="sources/Desnica-1951-Kotarski-Uskoci-II">Desnica-1951-Kotarski-Uskoci-II</a> — Boško Desnica, “Istorija kotarskih uskoka 1684–1749, sveska II” (1951). Primary archival anthology of 392 documents covering the Morean War, Sinj/Knin conquests, Pertinenze reform, and the long Venetian administration through 1749.</li>
+</ul>
+<h2 id="events">Events<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#events" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="./events/Cyprus-War-1570-1573" class="internal" data-slug="events/Cyprus-War-1570-1573">Cyprus-War-1570-1573</a> — Cyprus War; Ottoman capture of Zemunik, Tinj, Vrana</li>
+<li><a href="./events/Ottoman-Conquest-of-Croatia-1522-1527" class="internal" data-slug="events/Ottoman-Conquest-of-Croatia-1522-1527">Ottoman-Conquest-of-Croatia-1522-1527</a> — Conquest creating Vilajet Hrvati</li>
+<li><a href="./events/Pazin-Peasant-Revolt-1570" class="internal" data-slug="events/Pazin-Peasant-Revolt-1570">Pazin-Peasant-Revolt-1570</a> — Drove ~2,000 Ćići back to Ottoman territory</li>
+<li><a href="./events/Venetian-Ottoman-War-1537-1540" class="internal" data-slug="events/Venetian-Ottoman-War-1537-1540">Venetian-Ottoman-War-1537-1540</a> — War; capture of Klis and Obrovac</li>
+<li><a href="./events/Vlach-Migration-to-Istria-1518-1523" class="internal" data-slug="events/Vlach-Migration-to-Istria-1518-1523">Vlach-Migration-to-Istria-1518-1523</a> — First wave of Croatian Vlach refugees to Habsburg lands</li>
+<li><a href="./events/Vlach-Return-to-Klis-1528-1530" class="internal" data-slug="events/Vlach-Return-to-Klis-1528-1530">Vlach-Return-to-Klis-1528-1530</a> — Vlasi Istre return migration under istimâlet</li>
+<li><a href="./events/Vlasi-Istre-Migration-to-Venice-1538" class="internal" data-slug="events/Vlasi-Istre-Migration-to-Venice-1538">Vlasi-Istre-Migration-to-Venice-1538</a> — Mass defection during Venetian-Ottoman War</li>
+</ul>
+<h3 id="morean-war-period-16841699--from-desnica-ii">Morean War period (1684–1699) — from Desnica II<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#morean-war-period-16841699--from-desnica-ii" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./events/Sinj-Battle-1685" class="internal" data-slug="events/Sinj-Battle-1685">Sinj-Battle-1685</a> — Venetian disaster, 7 April 1685</li>
+<li><a href="./events/Lika-Settlement-Census-1685" class="internal" data-slug="events/Lika-Settlement-Census-1685">Lika-Settlement-Census-1685</a> — 3,051 families / 10,290 fighters into Venetian Kotari</li>
+<li><a href="./events/Sinj-Conquest-1686" class="internal" data-slug="events/Sinj-Conquest-1686">Sinj-Conquest-1686</a> — Cornaro takes Sinj, 25–30 Sept 1686</li>
+<li><a href="./events/Jankovic-Regiment-Authorisation-1686" class="internal" data-slug="events/Jankovic-Regiment-Authorisation-1686">Jankovic-Regiment-Authorisation-1686</a> — Doge Giustinian’s dukal of 7 Nov 1686</li>
+<li><a href="./events/Stojan-Jankovic-Death-Duvno-1687" class="internal" data-slug="events/Stojan-Jankovic-Death-Duvno-1687">Stojan-Jankovic-Death-Duvno-1687</a> — Stojan Janković killed at Duvno, 23 Aug 1687</li>
+<li><a href="./events/Knin-Conquest-1688" class="internal" data-slug="events/Knin-Conquest-1688">Knin-Conquest-1688</a> — Cornaro’s 15-day siege ends 11 Sept 1688</li>
+<li><a href="./events/Kotari-Pertinenze-Reform-1689" class="internal" data-slug="events/Kotari-Pertinenze-Reform-1689">Kotari-Pertinenze-Reform-1689</a> — Cornaro divides Zadar contado into 9 pertinenze, 11 Mar 1689</li>
+<li><a href="./events/Bortulacic-Murder-Vrana-1692" class="internal" data-slug="events/Bortulacic-Murder-Vrana-1692">Bortulacic-Murder-Vrana-1692</a> — Šimun Bortulačić killed at Vrana, 16 Jan 1692</li>
+<li><a href="./events/Bjelaj-Migration-1692" class="internal" data-slug="events/Bjelaj-Migration-1692">Bjelaj-Migration-1692</a> — 5,000 souls to Plavno, Zrmanja, Pađene, Mokro Polje, Oton</li>
+<li><a href="./events/Bukovica-Revolt-1704" class="internal" data-slug="events/Bukovica-Revolt-1704">Bukovica-Revolt-1704</a> — Pop Petar Jagodić-Kuridža uprising; suppressed 1704; Jagodić imprisoned 40 years</li>
+</ul>
+<h2 id="places-regions-jurisdictions-towns-villages">Places (regions, jurisdictions, towns, villages)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#places-regions-jurisdictions-towns-villages" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="regions-and-natural-features">Regions and natural features<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#regions-and-natural-features" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./places/Bukovica" class="internal" data-slug="places/Bukovica">Bukovica</a> — Karst region, core of Vlasi Istre settlement</li>
+<li><a href="./places/Cetina" class="internal" data-slug="places/Cetina">Cetina</a> — River and frontier region</li>
+<li><a href="./places/Cicarija" class="internal" data-slug="places/Cicarija">Cicarija</a> — Ćićarija; last Istro-Romanian-speaking area</li>
+<li><a href="./places/Hercegovina" class="internal" data-slug="places/Hercegovina">Hercegovina</a> — Source area of Vlach migrations</li>
+<li><a href="./places/Kras" class="internal" data-slug="places/Kras">Kras</a> — Karst plateau, Habsburg refuge area</li>
+<li><a href="./places/Krbava" class="internal" data-slug="places/Krbava">Krbava</a> — Pre-Ottoman knežstvo</li>
+<li><a href="./places/Lika" class="internal" data-slug="places/Lika">Lika</a> — Pasture region; royal Vlach lands</li>
+<li><a href="./places/Morlakija" class="internal" data-slug="places/Morlakija">Morlakija</a> — Imagological-cartographic borderland</li>
+<li><a href="./places/Notranjska" class="internal" data-slug="places/Notranjska">Notranjska</a> — Inner Carniola</li>
+<li><a href="./places/Podgorje" class="internal" data-slug="places/Podgorje">Podgorje</a> — Velebit foothills</li>
+<li><a href="./places/Ravni-Kotari" class="internal" data-slug="places/Ravni-Kotari">Ravni-Kotari</a> — Plain in Zadar hinterland</li>
+<li><a href="./places/Tromedja" class="internal" data-slug="places/Tromedja">Tromedja</a> — Triplex Confinium / original tripoint</li>
+<li><a href="./places/Velebit" class="internal" data-slug="places/Velebit">Velebit</a> — Mountain range with major <em>yaylak</em> pastures</li>
+<li><a href="./places/Zrmanja" class="internal" data-slug="places/Zrmanja">Zrmanja</a> — River and region</li>
+</ul>
+<h3 id="polities-and-jurisdictions">Polities and jurisdictions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#polities-and-jurisdictions" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./places/Banadego" class="internal" data-slug="places/Banadego">Banadego</a> — Old “banska zemlja” of Croatia</li>
+<li><a href="./places/Bela-Krajina" class="internal" data-slug="places/Bela-Krajina">Bela-Krajina</a> — Habsburg Kranjska, uskok reception zone</li>
+<li><a href="./places/Burgenland-Vlahija" class="internal" data-slug="places/Burgenland-Vlahija">Burgenland-Vlahija</a> — 12 Vlach-settled villages in southern Burgenland</li>
+<li><a href="./places/Habsburska-Istra" class="internal" data-slug="places/Habsburska-Istra">Habsburska-Istra</a> — Habsburg Istria (NE)</li>
+<li><a href="./places/Kranjska" class="internal" data-slug="places/Kranjska">Kranjska</a> — Carniola</li>
+<li><a href="./places/Mletacka-Dalmacija" class="internal" data-slug="places/Mletacka-Dalmacija">Mletacka-Dalmacija</a> — Venetian Dalmatia</li>
+<li><a href="./places/Mletacka-Istra" class="internal" data-slug="places/Mletacka-Istra">Mletacka-Istra</a> — Venetian Istria</li>
+<li><a href="./places/Pazinska-Grofovija" class="internal" data-slug="places/Pazinska-Grofovija">Pazinska-Grofovija</a> — Habsburg County of Pazin</li>
+<li><a href="./places/Sandzak-Bosna" class="internal" data-slug="places/Sandzak-Bosna">Sandzak-Bosna</a> — Ottoman sandžak Bosna</li>
+<li><a href="./places/Sandzak-Hercegovina" class="internal" data-slug="places/Sandzak-Hercegovina">Sandzak-Hercegovina</a> — Ottoman sandžak Hercegovina</li>
+<li><a href="./places/Sandzak-Klis" class="internal" data-slug="places/Sandzak-Klis">Sandzak-Klis</a> — Ottoman sandžak Klis from 1537</li>
+<li><a href="./places/Sandzak-Krka" class="internal" data-slug="places/Sandzak-Krka">Sandzak-Krka</a> — Ottoman sandžak Krka (Lika), c. 1580+</li>
+<li><a href="./places/Senjska-Kapetanija" class="internal" data-slug="places/Senjska-Kapetanija">Senjska-Kapetanija</a> — Habsburg captaincy at Senj</li>
+<li><a href="./places/Vilajet-Hrvati" class="internal" data-slug="places/Vilajet-Hrvati">Vilajet-Hrvati</a> — Ottoman vilayet 1522–1537</li>
+<li><a href="./places/Zumberak" class="internal" data-slug="places/Zumberak">Zumberak</a> — Žumberak Habsburg uskok area</li>
+</ul>
+<h3 id="cities-and-fortresses">Cities and fortresses<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#cities-and-fortresses" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./places/Benkovac" class="internal" data-slug="places/Benkovac">Benkovac</a> — Town in Ravni Kotari</li>
+<li><a href="./places/Bihac" class="internal" data-slug="places/Bihac">Bihac</a> — NW Bosnia, Habsburg captaincy</li>
+<li><a href="./places/Buzet" class="internal" data-slug="places/Buzet">Buzet</a> — Venetian Istrian town (Buzetski Kras)</li>
+<li><a href="./places/Karin" class="internal" data-slug="places/Karin">Karin</a> — Ottoman fortress and Vlach nahija</li>
+<li><a href="./places/Karlobag" class="internal" data-slug="places/Karlobag">Karlobag</a> — Habsburg coastal town</li>
+<li><a href="./places/Klicevac" class="internal" data-slug="places/Klicevac">Klicevac</a> — Ottoman vlach nahija</li>
+<li><a href="./places/Klis" class="internal" data-slug="places/Klis">Klis</a> — Croatian fortress, Ottoman from 1537</li>
+<li><a href="./places/Knin" class="internal" data-slug="places/Knin">Knin</a> — Croatian fortress, later sandžak Krka seat</li>
+<li><a href="./places/Koper" class="internal" data-slug="places/Koper">Koper</a> — Venetian Capodistria</li>
+<li><a href="./places/Kozulova-Polje" class="internal" data-slug="places/Kozulova-Polje">Kozulova-Polje</a> — Husrev-beg vakuf</li>
+<li><a href="./places/Mostar" class="internal" data-slug="places/Mostar">Mostar</a> — Hercegovinian fortress</li>
+<li><a href="./places/Nin" class="internal" data-slug="places/Nin">Nin</a> — Croatian episcopal town</li>
+<li><a href="./places/Obrovac" class="internal" data-slug="places/Obrovac">Obrovac</a> — Ottoman fortress on Zrmanja</li>
+<li><a href="./places/Ostrovica" class="internal" data-slug="places/Ostrovica">Ostrovica</a> — Ottoman fortress, vlach nahija</li>
+<li><a href="./places/Pazin" class="internal" data-slug="places/Pazin">Pazin</a> — Pazinska grofovija seat</li>
+<li><a href="./places/Plavna" class="internal" data-slug="places/Plavna">Plavna</a> — Region/nahija near Knin</li>
+<li><a href="./places/Polaca" class="internal" data-slug="places/Polaca">Polaca</a> — Village near Benkovac (Ravni Kotari)</li>
+<li><a href="./places/Poljica" class="internal" data-slug="places/Poljica">Poljica</a> — Autonomous principality</li>
+<li><a href="./places/Porec" class="internal" data-slug="places/Porec">Porec</a> — Venetian Istrian town</li>
+<li><a href="./places/Pula" class="internal" data-slug="places/Pula">Pula</a> — Major Venetian S Istrian port</li>
+<li><a href="./places/Rijeka" class="internal" data-slug="places/Rijeka">Rijeka</a> — Habsburg port (Fiume)</li>
+<li><a href="./places/Senj" class="internal" data-slug="places/Senj">Senj</a> — Habsburg port; uskok base</li>
+<li><a href="./places/Sibenik" class="internal" data-slug="places/Sibenik">Sibenik</a> — Venetian Dalmatian city</li>
+<li><a href="./places/Skradin" class="internal" data-slug="places/Skradin">Skradin</a> — Ottoman fortress, kadiluk seat</li>
+<li><a href="./places/Trst" class="internal" data-slug="places/Trst">Trst</a> — Trieste, Habsburg port</li>
+<li><a href="./places/Vrana" class="internal" data-slug="places/Vrana">Vrana</a> — Pre-Ottoman district by Vransko jezero</li>
+<li><a href="./places/Zadar" class="internal" data-slug="places/Zadar">Zadar</a> — Major Venetian Adriatic port</li>
+<li><a href="./places/Zecevo" class="internal" data-slug="places/Zecevo">Zecevo</a> — Ottoman vlach nahija</li>
+</ul>
+<h3 id="villages-and-smaller-places">Villages and smaller places<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#villages-and-smaller-places" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./places/Bjeline" class="internal" data-slug="places/Bjeline">Bjeline</a> — Stara Bilina, kod Benkovca</li>
+<li><a href="./places/Brgud" class="internal" data-slug="places/Brgud">Brgud</a> — Bukovica village</li>
+<li><a href="./places/Bruska" class="internal" data-slug="places/Bruska">Bruska</a> — Last village of nahija Bukovica 1540</li>
+<li><a href="./places/Dobruca-Vas" class="internal" data-slug="places/Dobruca-Vas">Dobruca-Vas</a> — Najčinović residence</li>
+<li><a href="./places/Dracevac" class="internal" data-slug="places/Dracevac">Dracevac</a> — kod Jasenica; Frletić convert/uskok area</li>
+<li><a href="./places/Dragomirani" class="internal" data-slug="places/Dragomirani">Dragomirani</a> — Donji Karin area</li>
+<li><a href="./places/Erdelja" class="internal" data-slug="places/Erdelja">Erdelja</a> — Frankapan Bosiljevsko Vlach settlement</li>
+<li><a href="./places/Ervenik" class="internal" data-slug="places/Ervenik">Ervenik</a> — Zrmanja village</li>
+<li><a href="./places/Glucje" class="internal" data-slug="places/Glucje">Glucje</a> — Najčinović relatives’ residence</li>
+<li><a href="./places/Golubic" class="internal" data-slug="places/Golubic">Golubic</a> — kod Obrovca</li>
+<li><a href="./places/Jagodnja" class="internal" data-slug="places/Jagodnja">Jagodnja</a> — Ružić dzemat village</li>
+<li><a href="./places/Korlat" class="internal" data-slug="places/Korlat">Korlat</a> — kod Benkovca</li>
+<li><a href="./places/Krupa" class="internal" data-slug="places/Krupa">Krupa</a> — na Zrmanji</li>
+<li><a href="./places/Krusevo" class="internal" data-slug="places/Krusevo">Krusevo</a> — kod Obrovca</li>
+<li><a href="./places/Kula-Atlagica" class="internal" data-slug="places/Kula-Atlagica">Kula-Atlagica</a> — formerly Tihlić / Opatija</li>
+<li><a href="./places/Marcana" class="internal" data-slug="places/Marcana">Marcana</a> — S Istrian Vlach settlement 1583</li>
+<li><a href="./places/Marindol" class="internal" data-slug="places/Marindol">Marindol</a> — Bela krajina uskok village</li>
+<li><a href="./places/Medvidja" class="internal" data-slug="places/Medvidja">Medvidja</a> — Milovanić residence (Bukovica)</li>
+<li><a href="./places/Miranje" class="internal" data-slug="places/Miranje">Miranje</a> — Ružić dzemat village</li>
+<li><a href="./places/Mokro-Polje" class="internal" data-slug="places/Mokro-Polje">Mokro-Polje</a> — orthodox Vlach concentration</li>
+<li><a href="./places/Muskovci" class="internal" data-slug="places/Muskovci">Muskovci</a> — kod Obrovca; Mušković katun seat</li>
+<li><a href="./places/Nova-Vas" class="internal" data-slug="places/Nova-Vas">Nova-Vas</a> — kraj Poreča; Milohanović origin</li>
+<li><a href="./places/Nunic" class="internal" data-slug="places/Nunic">Nunic</a> — east of Benkovac</li>
+<li><a href="./places/Padene" class="internal" data-slug="places/Padene">Padene</a> — orthodox Vlach concentration</li>
+<li><a href="./places/Podnovje" class="internal" data-slug="places/Podnovje">Podnovje</a> — Vlasi Istre defectors’ Venetian resettlement</li>
+<li><a href="./places/Premantura" class="internal" data-slug="places/Premantura">Premantura</a> — S Istrian Vlach colony 1585</li>
+<li><a href="./places/Prilisce" class="internal" data-slug="places/Prilisce">Prilisce</a> — Mušković Vlach Habsburg colony 1544</li>
+<li><a href="./places/Pristeg" class="internal" data-slug="places/Pristeg">Pristeg</a> — Ravni Kotari village</li>
+<li><a href="./places/Radovin" class="internal" data-slug="places/Radovin">Radovin</a> — Rudelić concentration in Zadar district</li>
+<li><a href="./places/Sikici" class="internal" data-slug="places/Sikici">Sikici</a> — S Istria, Šikić colony 1586</li>
+<li><a href="./places/Surozani" class="internal" data-slug="places/Surozani">Surozani</a> — Zrmanja → Ostrovica village</li>
+<li><a href="./places/Tinj" class="internal" data-slug="places/Tinj">Tinj</a> — Ferhat-beg vakuf, Vojnić resettlement</li>
+<li><a href="./places/Tornik" class="internal" data-slug="places/Tornik">Tornik</a> — Frletić origin in Podgorje</li>
+<li><a href="./places/Vodice-na-Krasu" class="internal" data-slug="places/Vodice-na-Krasu">Vodice-na-Krasu</a> — Tomaš Ružić’s Habsburg refuge</li>
+<li><a href="./places/Vuksic" class="internal" data-slug="places/Vuksic">Vuksic</a> — Kožulova vakuf village</li>
+<li><a href="./places/Zacadje" class="internal" data-slug="places/Zacadje">Zacadje</a> — Poropat residence</li>
+<li><a href="./places/Zbandalj" class="internal" data-slug="places/Zbandalj">Zbandalj</a> — kraj Poreča; Filipini retreat 1570</li>
+<li><a href="./places/Zegar" class="internal" data-slug="places/Zegar">Zegar</a> — Zrmanja village; later orthodox center</li>
+<li><a href="./places/Zejane" class="internal" data-slug="places/Zejane">Zejane</a> — Last Istro-Romanian speakers</li>
+<li><a href="./places/Zelengrad" class="internal" data-slug="places/Zelengrad">Zelengrad</a> — Pre-Ottoman, Milovanić 1518 attestation</li>
+<li><a href="./places/Zemunik" class="internal" data-slug="places/Zemunik">Zemunik</a> — Lost in Cyprus War; Miljacki founded 1561</li>
+</ul>
+<h2 id="surnames">Surnames<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#surnames" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="major-vlach-lineages-substantive-treatment">Major Vlach lineages (substantive treatment)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#major-vlach-lineages-substantive-treatment" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./surnames/Frletic" class="internal" data-slug="surnames/Frletic">Frletic</a> — Tornik origin → Senj uskoks; Hasan-aga convert</li>
+<li><a href="./surnames/Gledjevac" class="internal" data-slug="surnames/Gledjevac">Gledjevac</a> — Karin nahija; led 1538 defection</li>
+<li><a href="./surnames/Krmpotic" class="internal" data-slug="surnames/Krmpotic">Krmpotic</a> — Catholic Bunjevac, Hercegovinian origin</li>
+<li><a href="./surnames/Milohanic" class="internal" data-slug="surnames/Milohanic">Milohanic</a> — Both sides of Habsburg-Ottoman frontier</li>
+<li><a href="./surnames/Milovanic" class="internal" data-slug="surnames/Milovanic">Milovanic</a> — 1518 Zelengrad → Medviđa → Venice 1538</li>
+<li><a href="./surnames/Muskovic" class="internal" data-slug="surnames/Muskovic">Muskovic</a> — Old kraljevski Vlasi; 1544 to Habsburg</li>
+<li><a href="./surnames/Najcinovic" class="internal" data-slug="surnames/Najcinovic">Najcinovic</a> — Jančić; Benković dzemat</li>
+<li><a href="./surnames/Poropat" class="internal" data-slug="surnames/Poropat">Poropat</a> — Old kindred; Začađe; Buzetski Kras</li>
+<li><a href="./surnames/Prejic" class="internal" data-slug="surnames/Prejic">Prejic</a> — High-status timar holders; some converts to Islam</li>
+<li><a href="./surnames/Rudelic" class="internal" data-slug="surnames/Rudelic">Rudelic</a> — Obrovac → Radovin → Karlobag → Lika</li>
+<li><a href="./surnames/Ruzic" class="internal" data-slug="surnames/Ruzic">Ruzic</a> — Šibenik / Vodice na Krasu / Miranje</li>
+<li><a href="./surnames/Siljanovic" class="internal" data-slug="surnames/Siljanovic">Siljanovic</a> — Possible continuity with medieval Šiglanovići</li>
+</ul>
+<h3 id="other-named-vlach--starešina-lineages">Other named Vlach / starešina lineages<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#other-named-vlach--starešina-lineages" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./surnames/Banjani" class="internal" data-slug="surnames/Banjani">Banjani</a> — Hercegovinian Vlach group</li>
+<li><a href="./surnames/Bjelajac" class="internal" data-slug="surnames/Bjelajac">Bjelajac</a> — Last 1690 Vlach migration from Bosnia</li>
+<li><a href="./surnames/Blazic" class="internal" data-slug="surnames/Blazic">Blazic</a> — Zečevo dzemat head</li>
+<li><a href="./surnames/Bratic" class="internal" data-slug="surnames/Bratic">Bratic</a> — Vojvoda Strahinja (Unac); primićur Grgur</li>
+<li><a href="./surnames/Culina" class="internal" data-slug="surnames/Culina">Culina</a> — Bjeline 1528, possibly continuous to 17th c.</li>
+<li><a href="./surnames/Heracic" class="internal" data-slug="surnames/Heracic">Heracic</a> — Ružić katun successor 1553</li>
+<li><a href="./surnames/Husrev-beg" class="internal" data-slug="surnames/Husrev-beg">Husrev-beg</a> — Bosnian Ottoman; Kožulova vakuf founder</li>
+<li><a href="./surnames/Jakovic" class="internal" data-slug="surnames/Jakovic">Jakovic</a> — Brgud, Muslim convert</li>
+<li><a href="./surnames/Karlovic" class="internal" data-slug="surnames/Karlovic">Karlovic</a> — Krbavski knezovi</li>
+<li><a href="./surnames/Klokocic" class="internal" data-slug="surnames/Klokocic">Klokocic</a> — Knez Damjan, Muslim convert 1523</li>
+<li><a href="./surnames/Kozulic" class="internal" data-slug="surnames/Kozulic">Kozulic</a> — Pre-Ottoman owners of Kožulova polje</li>
+<li><a href="./surnames/Krstivojevic" class="internal" data-slug="surnames/Krstivojevic">Krstivojevic</a> — 1530 primićur</li>
+<li><a href="./surnames/Lipovic" class="internal" data-slug="surnames/Lipovic">Lipovic</a> — Marko sin Lipovića, Vrbljani timar</li>
+<li><a href="./surnames/Livoja" class="internal" data-slug="surnames/Livoja">Livoja</a> — Slade Livoja, Zrmanja primićur</li>
+<li><a href="./surnames/Matkovic" class="internal" data-slug="surnames/Matkovic">Matkovic</a> — Biograd kapetani lineage</li>
+<li><a href="./surnames/Mivcanica" class="internal" data-slug="surnames/Mivcanica">Mivcanica</a> — Pejan, Podgorje primićur</li>
+<li><a href="./surnames/Posedarski" class="internal" data-slug="surnames/Posedarski">Posedarski</a> — Stjepan addressed Pope Leo X 1519</li>
+<li><a href="./surnames/Rojic" class="internal" data-slug="surnames/Rojic">Rojic</a> — Mate, largest 1528 dzemat (80 houses)</li>
+<li><a href="./surnames/Rojnovic" class="internal" data-slug="surnames/Rojnovic">Rojnovic</a> — Mikula, 57-house Podgorje dzemat</li>
+<li><a href="./surnames/Sikic" class="internal" data-slug="surnames/Sikic">Sikic</a> — Šikići founders 1586</li>
+<li><a href="./surnames/Sokolovic" class="internal" data-slug="surnames/Sokolovic">Sokolovic</a> — Ferhat-beg, Klis sandžakbeg</li>
+<li><a href="./surnames/Tardic" class="internal" data-slug="surnames/Tardic">Tardic</a> — Murat-beg Gajdić’s origin family (Šibenik)</li>
+<li><a href="./surnames/Ugarci" class="internal" data-slug="surnames/Ugarci">Ugarci</a> — Hercegovinian Vlach group, Pozrmanje</li>
+<li><a href="./surnames/Vlasi-Uskoplja" class="internal" data-slug="surnames/Vlasi-Uskoplja">Vlasi-Uskoplja</a> — Bosnian Vlach group, c. 1528 Plavno</li>
+<li><a href="./surnames/Vojnic" class="internal" data-slug="surnames/Vojnic">Vojnic</a> — Catholic Bunjevac; Sinj → Tinj</li>
+<li><a href="./surnames/Zirovac" class="internal" data-slug="surnames/Zirovac">Zirovac</a> — Vičko, Kistanje 1550</li>
+<li><a href="./surnames/Zupanovic" class="internal" data-slug="surnames/Zupanovic">Zupanovic</a> — Vojnić starešina line, Tinj area</li>
+</ul>
+<h3 id="croatian-noble--clergy--habsburg--venetian">Croatian noble / clergy / Habsburg / Venetian<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#croatian-noble--clergy--habsburg--venetian" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./surnames/Danilovic" class="internal" data-slug="surnames/Danilovic">Danilovic</a> — Don Matej, Polača župnik 1591</li>
+<li><a href="./surnames/Filipovic" class="internal" data-slug="surnames/Filipovic">Filipovic</a> — Franjo, Zagreb canon, Muslim convert 1578</li>
+<li><a href="./surnames/Frankapan" class="internal" data-slug="surnames/Frankapan">Frankapan</a> — Krsto I., lost Istria/Kras 1527</li>
+<li><a href="./surnames/Jurisic" class="internal" data-slug="surnames/Jurisic">Jurisic</a> — Nikola, Habsburg captain</li>
+<li><a href="./surnames/Lenkovic" class="internal" data-slug="surnames/Lenkovic">Lenkovic</a> — Ivan, senjski kapetan 1560</li>
+<li><a href="./surnames/Matasovic" class="internal" data-slug="surnames/Matasovic">Matasovic</a> — Don Jure, ninski arhiprezbiter 1579</li>
+<li><a href="./surnames/Nenadic" class="internal" data-slug="surnames/Nenadic">Nenadic</a> — Ivaniš, Poljica defector 1506</li>
+<li><a href="./surnames/Saric" class="internal" data-slug="surnames/Saric">Saric</a> — Author, Marko Šarić 2024</li>
+<li><a href="./surnames/Soric" class="internal" data-slug="surnames/Soric">Soric</a> — Don Stipan, Gorica župnik 1636</li>
+<li><a href="./surnames/Svetacki" class="internal" data-slug="surnames/Svetacki">Svetacki</a> — Slavonian noble, Ottoman service 1540</li>
+<li><a href="./surnames/Vlatkovic" class="internal" data-slug="surnames/Vlatkovic">Vlatkovic</a> — Fra Augustin, Ottoman service ~1482</li>
+<li><a href="./surnames/Zrinski" class="internal" data-slug="surnames/Zrinski">Zrinski</a> — Nikola, granted Mušković libertini 1544</li>
+</ul>
+<h3 id="continuity-list-šarić-footnote-177-16th17th-c-zadar-zaleđe-surnames-with-possible-medieval-roots">Continuity-list (Šarić footnote 177): 16th–17th c. Zadar zaleđe surnames with possible medieval roots<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#continuity-list-šarić-footnote-177-16th17th-c-zadar-zaleđe-surnames-with-possible-medieval-roots" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./surnames/Bacic" class="internal" data-slug="surnames/Bacic">Bacic</a>, <a href="./surnames/Bajcinovic" class="internal" data-slug="surnames/Bajcinovic">Bajcinovic</a>, <a href="./surnames/Batovic" class="internal" data-slug="surnames/Batovic">Batovic</a>, <a href="./surnames/Bracic" class="internal" data-slug="surnames/Bracic">Bracic</a>, <a href="./surnames/Brajnovic" class="internal" data-slug="surnames/Brajnovic">Brajnovic</a>, <a href="./surnames/Bubonja" class="internal" data-slug="surnames/Bubonja">Bubonja</a>, <a href="./surnames/Busljetic" class="internal" data-slug="surnames/Busljetic">Busljetic</a>, <a href="./surnames/Butkovic" class="internal" data-slug="surnames/Butkovic">Butkovic</a>, <a href="./surnames/Ceprnja" class="internal" data-slug="surnames/Ceprnja">Ceprnja</a>, <a href="./surnames/Cirjak" class="internal" data-slug="surnames/Cirjak">Cirjak</a>, <a href="./surnames/Devic" class="internal" data-slug="surnames/Devic">Devic</a>, <a href="./surnames/Dupor" class="internal" data-slug="surnames/Dupor">Dupor</a>, <a href="./surnames/Erlic" class="internal" data-slug="surnames/Erlic">Erlic</a>, <a href="./surnames/Galesic" class="internal" data-slug="surnames/Galesic">Galesic</a>, <a href="./surnames/Gambiroza" class="internal" data-slug="surnames/Gambiroza">Gambiroza</a>, <a href="./surnames/Grubic" class="internal" data-slug="surnames/Grubic">Grubic</a>, <a href="./surnames/Kalcic" class="internal" data-slug="surnames/Kalcic">Kalcic</a>, <a href="./surnames/Kalcina" class="internal" data-slug="surnames/Kalcina">Kalcina</a>, <a href="./surnames/Lepur" class="internal" data-slug="surnames/Lepur">Lepur</a>, <a href="./surnames/Radasinovic" class="internal" data-slug="surnames/Radasinovic">Radasinovic</a>, <a href="./surnames/Segotic" class="internal" data-slug="surnames/Segotic">Segotic</a>, <a href="./surnames/Skulic" class="internal" data-slug="surnames/Skulic">Skulic</a>, <a href="./surnames/Smolic" class="internal" data-slug="surnames/Smolic">Smolic</a>, <a href="./surnames/Stanisic" class="internal" data-slug="surnames/Stanisic">Stanisic</a>, <a href="./surnames/Sugaric" class="internal" data-slug="surnames/Sugaric">Sugaric</a>, <a href="./surnames/Vrsaljko" class="internal" data-slug="surnames/Vrsaljko">Vrsaljko</a></li>
+</ul>
+<h2 id="people">People<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#people" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="vlach-starešine-and-dzemat-heads-15281550">Vlach starešine and dzemat heads (1528–1550)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#vlach-starešine-and-dzemat-heads-15281550" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Bijovce-sin-Vuckov-b-Ostrovica" class="internal" data-slug="people/Bijovce-sin-Vuckov-b-Ostrovica">Bijovce-sin-Vuckov-b????-Ostrovica</a> — knez, gives name to Biovičino Selo (1550)</li>
+<li><a href="./people/Culina-sin-Milica-b-Bjeline" class="internal" data-slug="people/Culina-sin-Milica-b-Bjeline">Culina-sin-Milica-b????-Bjeline</a> — knez, Bjeline + timar in Lika (1528)</li>
+<li><a href="./people/Dragisa-sin-Dragoja-b-Plavna" class="internal" data-slug="people/Dragisa-sin-Dragoja-b-Plavna">Dragisa-sin-Dragoja-b????-Plavna</a> — vojvoda, Plavna (1540)</li>
+<li><a href="./people/Grgur-Bratic-b-Ostrovica" class="internal" data-slug="people/Grgur-Bratic-b-Ostrovica">Grgur-Bratic-b????-Ostrovica</a> — primićur (1530)</li>
+<li><a href="./people/Herak-sin-Radice-b-Zrmanja" class="internal" data-slug="people/Herak-sin-Radice-b-Zrmanja">Herak-sin-Radice-b????-Zrmanja</a> — knez, Zrmanja+Bukovica (1540)</li>
+<li><a href="./people/Hlapac-sin-Radovana-b-Plavna" class="internal" data-slug="people/Hlapac-sin-Radovana-b-Plavna">Hlapac-sin-Radovana-b????-Plavna</a> — primićur, Plavna Istrija (1540)</li>
+<li><a href="./people/Ivanis-Poropat-b-Mirko" class="internal" data-slug="people/Ivanis-Poropat-b-Mirko">Ivanis-Poropat-b????-Mirko</a> — timarnik, Donje/Gornje Miranje (1528)</li>
+<li><a href="./people/Jakov-Poropat-b-Zacadje" class="internal" data-slug="people/Jakov-Poropat-b-Zacadje">Jakov-Poropat-b????-Zacadje</a> — primićur, Začađe / Zrmanja (1528)</li>
+<li><a href="./people/Maljko-b-Karin" class="internal" data-slug="people/Maljko-b-Karin">Maljko-b????-Karin</a> — primićur, Karin (1540)</li>
+<li><a href="./people/Marko-sin-Lipovica-b" class="internal" data-slug="people/Marko-sin-Lipovica-b">Marko-sin-Lipovica-b????</a> — knez, shared timar Vrbljani (1528)</li>
+<li><a href="./people/Martin-sin-Vrbaca-b" class="internal" data-slug="people/Martin-sin-Vrbaca-b">Martin-sin-Vrbaca-b????</a> — primićur (1530)</li>
+<li><a href="./people/Mate-Krstivojevic-b" class="internal" data-slug="people/Mate-Krstivojevic-b">Mate-Krstivojevic-b????</a> — primićur (1530)</li>
+<li><a href="./people/Mate-Rojic-b-Podgorje" class="internal" data-slug="people/Mate-Rojic-b-Podgorje">Mate-Rojic-b????-Podgorje</a> — primićur, <strong>largest</strong> Vlasi Istre dzemat 80 houses (1528)</li>
+<li><a href="./people/Mihovil-Vojihnic-b-Sinj" class="internal" data-slug="people/Mihovil-Vojihnic-b-Sinj">Mihovil-Vojihnic-b????-Sinj</a> — knez, Sinj Vojnić dzemat (1550)</li>
+<li><a href="./people/Mikula-Blazic-b-Zecevo" class="internal" data-slug="people/Mikula-Blazic-b-Zecevo">Mikula-Blazic-b????-Zecevo</a> — knez, Zečevo (1528)</li>
+<li><a href="./people/Mikula-Rojnovic-b-Podgorje" class="internal" data-slug="people/Mikula-Rojnovic-b-Podgorje">Mikula-Rojnovic-b????-Podgorje</a> — primićur, Podgorje 57 houses (1528)</li>
+<li><a href="./people/Milan-sin-Radka-b-Ostrovica" class="internal" data-slug="people/Milan-sin-Radka-b-Ostrovica">Milan-sin-Radka-b????-Ostrovica</a> — primićur, Ostrovica 154 houses (1540)</li>
+<li><a href="./people/Pavel-Rudelja-b-Obrovac" class="internal" data-slug="people/Pavel-Rudelja-b-Obrovac">Pavel-Rudelja-b????-Obrovac</a> — knez, Obrovac smallest dzemat (1528)</li>
+<li><a href="./people/Pejan-Mivcanica-b-Podgorje" class="internal" data-slug="people/Pejan-Mivcanica-b-Podgorje">Pejan-Mivcanica-b????-Podgorje</a> — primićur, Podgorje (1530)</li>
+<li><a href="./people/Petar-Milovanic-b-Medvidja" class="internal" data-slug="people/Petar-Milovanic-b-Medvidja">Petar-Milovanic-b????-Medvidja</a> — knez, Bukovica/Medviđa (attested 1518)</li>
+<li><a href="./people/Petar-Najcinovic-b-Dobruca-Vas" class="internal" data-slug="people/Petar-Najcinovic-b-Dobruca-Vas">Petar-Najcinovic-b????-Dobruca-Vas</a> — knez, Benković/Dobruča Vas; led 1538 defection</li>
+<li><a href="./people/Petar-Prejic-b" class="internal" data-slug="people/Petar-Prejic-b">Petar-Prejic-b????</a> — knez, <strong>largest non-Muslim timar</strong> in vilajet Hrvati (1530)</li>
+<li><a href="./people/Petar-sin-Jancica-b-Ostrovica" class="internal" data-slug="people/Petar-sin-Jancica-b-Ostrovica">Petar-sin-Jancica-b????-Ostrovica</a> — primićur, Ostrovica (1530); likely = Petar Najčinović</li>
+<li><a href="./people/Radic-knez-b" class="internal" data-slug="people/Radic-knez-b">Radic-knez-b????</a> — knez, Kličevac 123 houses (1528)</li>
+<li><a href="./people/Samil-Jakovic-b-Brgud" class="internal" data-slug="people/Samil-Jakovic-b-Brgud">Samil-Jakovic-b????-Brgud</a> — Brgud, Muslim convert by 1530</li>
+<li><a href="./people/Slade-Livoja-b-Zrmanja" class="internal" data-slug="people/Slade-Livoja-b-Zrmanja">Slade-Livoja-b????-Zrmanja</a> — primićur, Zrmanja (1530)</li>
+<li><a href="./people/Stepan-sin-Radovana-b-Zrmanja" class="internal" data-slug="people/Stepan-sin-Radovana-b-Zrmanja">Stepan-sin-Radovana-b????-Zrmanja</a> — primićur, new Zrmanja Istrija (1550)</li>
+<li><a href="./people/Strahinja-Bratic-b-Unac" class="internal" data-slug="people/Strahinja-Bratic-b-Unac">Strahinja-Bratic-b????-Unac</a> — vojvoda, Unac; Zrmanja timar</li>
+<li><a href="./people/Tomas-Milovanic-b-Medvidja" class="internal" data-slug="people/Tomas-Milovanic-b-Medvidja">Tomas-Milovanic-b????-Medvidja</a> — knez, brother of Petar (1528)</li>
+<li><a href="./people/Tomas-Ruzic-b-Sibenik" class="internal" data-slug="people/Tomas-Ruzic-b-Sibenik">Tomas-Ruzic-b????-Sibenik</a> — knez, Kličevac 26 houses; born Šibenik area, Vodice 1518</li>
+<li><a href="./people/Vicko-Zirovac-b-Kistanje" class="internal" data-slug="people/Vicko-Zirovac-b-Kistanje">Vicko-Zirovac-b????-Kistanje</a> — vojvoda i knez (1550)</li>
+<li><a href="./people/Zakman-Gledjevac-b-Karin" class="internal" data-slug="people/Zakman-Gledjevac-b-Karin">Zakman-Gledjevac-b????-Karin</a> — vojvoda, Karin → Podnovje (1528–1559)</li>
+</ul>
+<h3 id="najčinović-jančić-family">Najčinović (Jančić) family<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#najčinović-jančić-family" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Biljan-Jancic-b-Kucista" class="internal" data-slug="people/Biljan-Jancic-b-Kucista">Biljan-Jancic-b????-Kucista</a>, <a href="./people/Mihovil-Jancic-b-Kucista" class="internal" data-slug="people/Mihovil-Jancic-b-Kucista">Mihovil-Jancic-b????-Kucista</a>, <a href="./people/Milic-Jancic-b-Kucista" class="internal" data-slug="people/Milic-Jancic-b-Kucista">Milic-Jancic-b????-Kucista</a>, <a href="./people/Martin-Jancic-b-Kucista" class="internal" data-slug="people/Martin-Jancic-b-Kucista">Martin-Jancic-b????-Kucista</a> — Kućišta (1528)</li>
+<li><a href="./people/Juraj-Jancic-b-Glucje" class="internal" data-slug="people/Juraj-Jancic-b-Glucje">Juraj-Jancic-b????-Glucje</a>, <a href="./people/Pavel-Jancic-b-Glucje" class="internal" data-slug="people/Pavel-Jancic-b-Glucje">Pavel-Jancic-b????-Glucje</a>, <a href="./people/Radul-Jancic-b-Glucje" class="internal" data-slug="people/Radul-Jancic-b-Glucje">Radul-Jancic-b????-Glucje</a> — Glučje (1528)</li>
+<li><a href="./people/Nenad-Jancic-b-Dobruca-Vas" class="internal" data-slug="people/Nenad-Jancic-b-Dobruca-Vas">Nenad-Jancic-b????-Dobruca-Vas</a> — Dobruča Vas (1528)</li>
+<li><a href="./people/Pavel-Najcinovic-b" class="internal" data-slug="people/Pavel-Najcinovic-b">Pavel-Najcinovic-b????</a> — kapetan, brother of Petar</li>
+</ul>
+<h3 id="gleđevac-family">Gleđevac family<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gleđevac-family" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Ivan-Gledjevac-b-Karin" class="internal" data-slug="people/Ivan-Gledjevac-b-Karin">Ivan-Gledjevac-b????-Karin</a>, <a href="./people/Milanko-Gledjevac-b-Karin" class="internal" data-slug="people/Milanko-Gledjevac-b-Karin">Milanko-Gledjevac-b????-Karin</a>, <a href="./people/Pavle-Gledjevac-b-Karin" class="internal" data-slug="people/Pavle-Gledjevac-b-Karin">Pavle-Gledjevac-b????-Karin</a>, <a href="./people/Radic-Gledjevac-b-Karin" class="internal" data-slug="people/Radic-Gledjevac-b-Karin">Radic-Gledjevac-b????-Karin</a> — Dasidžmani / Karin (1528)</li>
+</ul>
+<h3 id="frletić--firultić">Frletić / Firultić<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#frletić--firultić" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Andrija-Frletic-b-Dracevac" class="internal" data-slug="people/Andrija-Frletic-b-Dracevac">Andrija-Frletic-b????-Dracevac</a> — uskok kapetan (“Andre kapetan”)</li>
+<li><a href="./people/Hasan-aga-Frletic-b-Dracevac" class="internal" data-slug="people/Hasan-aga-Frletic-b-Dracevac">Hasan-aga-Frletic-b????-Dracevac</a> — Muslim, Venetian informant 1590</li>
+<li><a href="./people/Juraj-Firultic-b-Tornik" class="internal" data-slug="people/Juraj-Firultic-b-Tornik">Juraj-Firultic-b????-Tornik</a>, <a href="./people/Milovan-Firultic-b-Tornik" class="internal" data-slug="people/Milovan-Firultic-b-Tornik">Milovan-Firultic-b????-Tornik</a>, <a href="./people/Pavko-Firultic-b-Tornik" class="internal" data-slug="people/Pavko-Firultic-b-Tornik">Pavko-Firultic-b????-Tornik</a>, <a href="./people/Vojo-Firultic-b-Tornik" class="internal" data-slug="people/Vojo-Firultic-b-Tornik">Vojo-Firultic-b????-Tornik</a> — sons of Firultić, Tornik (1528)</li>
+<li><a href="./people/Vuk-Frletic-b-Dracevac" class="internal" data-slug="people/Vuk-Frletic-b-Dracevac">Vuk-Frletic-b????-Dracevac</a> — Senj uskok</li>
+</ul>
+<h3 id="prejić-family">Prejić family<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#prejić-family" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Bogdan-Prejic-b" class="internal" data-slug="people/Bogdan-Prejic-b">Bogdan-Prejic-b????</a> — son of Petar; Muslim convert; timar 1557</li>
+<li><a href="./people/Ferhad-Prejic-b-Novosel" class="internal" data-slug="people/Ferhad-Prejic-b-Novosel">Ferhad-Prejic-b????-Novosel</a> — Muslim convert (1528)</li>
+<li><a href="./people/Fran-Prejic-b-Opatija" class="internal" data-slug="people/Fran-Prejic-b-Opatija">Fran-Prejic-b????-Opatija</a> — Opatija (1528)</li>
+<li><a href="./people/Hasan-Prejic-b-Surozani" class="internal" data-slug="people/Hasan-Prejic-b-Surozani">Hasan-Prejic-b????-Surozani</a> — Muslim convert, Surožani (1540)</li>
+<li><a href="./people/Ivan-Prejic-b-Zacadje" class="internal" data-slug="people/Ivan-Prejic-b-Zacadje">Ivan-Prejic-b????-Zacadje</a> — Začađe (1540)</li>
+<li><a href="./people/Martin-Prejic-b-Nunic" class="internal" data-slug="people/Martin-Prejic-b-Nunic">Martin-Prejic-b????-Nunic</a> — Nunić (1528)</li>
+<li><a href="./people/Prejic-sin-Matijasa-b-Brdar" class="internal" data-slug="people/Prejic-sin-Matijasa-b-Brdar">Prejic-sin-Matijasa-b????-Brdar</a> — Brdar (1540)</li>
+<li><a href="./people/Stanoje-Prijic-b-Marindol" class="internal" data-slug="people/Stanoje-Prijic-b-Marindol">Stanoje-Prijic-b????-Marindol</a> — desetnik in Marindol (1551)</li>
+</ul>
+<h3 id="poropat-family">Poropat family<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#poropat-family" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Alija-sin-Poropata-b-Karin" class="internal" data-slug="people/Alija-sin-Poropata-b-Karin">Alija-sin-Poropata-b????-Karin</a> — Muslim convert (1528)</li>
+<li><a href="./people/Husein-sin-Poropata-b-Krupa" class="internal" data-slug="people/Husein-sin-Poropata-b-Krupa">Husein-sin-Poropata-b????-Krupa</a> — Muslim convert (1528)</li>
+<li><a href="./people/Jakov-Poropatic-b-Rezane" class="internal" data-slug="people/Jakov-Poropatic-b-Rezane">Jakov-Poropatic-b????-Rezane</a> — kmet (1562)</li>
+<li><a href="./people/Juraj-Poropatic-b" class="internal" data-slug="people/Juraj-Poropatic-b">Juraj-Poropatic-b????</a> — kapetan; brought Morlachs to Istria</li>
+</ul>
+<h3 id="late-persons-midlate-16th-c-17th-c">Late persons (mid–late 16th c., 17th c.)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#late-persons-midlate-16th-c-17th-c" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Grgur-Milohanovic-b-Nova-Vas" class="internal" data-slug="people/Grgur-Milohanovic-b-Nova-Vas">Grgur-Milohanovic-b????-Nova-Vas</a> — Miljacki founder 1561</li>
+<li><a href="./people/Ivan-Filipini-b" class="internal" data-slug="people/Ivan-Filipini-b">Ivan-Filipini-b????</a> — led 40 families to Žbandalj 1570</li>
+<li><a href="./people/Jure-Heracic-b" class="internal" data-slug="people/Jure-Heracic-b">Jure-Heracic-b????</a> — katunar morlački katun “Ružić” 1553</li>
+<li><a href="./people/Juraj-Matkovic-b-Biograd" class="internal" data-slug="people/Juraj-Matkovic-b-Biograd">Juraj-Matkovic-b????-Biograd</a> — biogradski kapetan 1581</li>
+<li><a href="./people/Mate-Milkovic-b-Krusevo" class="internal" data-slug="people/Mate-Milkovic-b-Krusevo">Mate-Milkovic-b????-Krusevo</a> — Ottoman-side Vlach 1554</li>
+<li><a href="./people/Mate-Sikic-b" class="internal" data-slug="people/Mate-Sikic-b">Mate-Sikic-b????</a> — Šikići founder 1586</li>
+<li><a href="./people/Nikola-Milokanic-b1521" class="internal" data-slug="people/Nikola-Milokanic-b1521">Nikola-Milokanic-b1521</a> — Istria-born former Muslim, testified 1591</li>
+<li><a href="./people/Pavo-Rudelic-b-Smiljan" class="internal" data-slug="people/Pavo-Rudelic-b-Smiljan">Pavo-Rudelic-b????-Smiljan</a> — Smiljan, Lika (1686)</li>
+<li><a href="./people/Rade-Siljanovic-b" class="internal" data-slug="people/Rade-Siljanovic-b">Rade-Siljanovic-b????</a> — Vrana zakup leader 1549</li>
+<li><a href="./people/Sime-Sikic-b" class="internal" data-slug="people/Sime-Sikic-b">Sime-Sikic-b????</a> — Šikići founder 1586</li>
+<li><a href="./people/Slade-Milovanic-b" class="internal" data-slug="people/Slade-Milovanic-b">Slade-Milovanic-b????</a> — kapetan, Zadar 1570</li>
+<li><a href="./people/Vukoslav-Carapotic-b-Krusevo" class="internal" data-slug="people/Vukoslav-Carapotic-b-Krusevo">Vukoslav-Carapotic-b????-Krusevo</a> — Ottoman-side Vlach 1554</li>
+</ul>
+<h3 id="croatian--bosnian-catholic-clergy">Croatian / Bosnian Catholic clergy<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#croatian--bosnian-catholic-clergy" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Augustin-Vlatkovic-b" class="internal" data-slug="people/Augustin-Vlatkovic-b">Augustin-Vlatkovic-b????</a> — fra, Ottoman service ~1482</li>
+<li><a href="./people/Jure-Matasovic-b-Nin" class="internal" data-slug="people/Jure-Matasovic-b-Nin">Jure-Matasovic-b????-Nin</a> — don, ninski arhiprezbiter 1579</li>
+<li><a href="./people/Matej-Danilovic-b-Polaca" class="internal" data-slug="people/Matej-Danilovic-b-Polaca">Matej-Danilovic-b????-Polaca</a> — don, Polača župnik 1591</li>
+<li><a href="./people/Mato-iz-Kresevo-b" class="internal" data-slug="people/Mato-iz-Kresevo-b">Mato-iz-Kresevo-b????</a> — fra, took over Karin samostan 1550</li>
+<li><a href="./people/Mijo-Radnic-b" class="internal" data-slug="people/Mijo-Radnic-b">Mijo-Radnic-b????</a> — fra, vizitator Bosne Srebrene 1684</li>
+<li><a href="./people/Stipan-Soric-b-Gorica" class="internal" data-slug="people/Stipan-Soric-b-Gorica">Stipan-Soric-b????-Gorica</a> — don, Gorica župnik 1636</li>
+</ul>
+<h3 id="croatian--hungarian-nobility-defectors-converts">Croatian / Hungarian nobility, defectors, converts<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#croatian--hungarian-nobility-defectors-converts" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Damjan-Klokocic-b" class="internal" data-slug="people/Damjan-Klokocic-b">Damjan-Klokocic-b????</a> — knez, Muslim convert 1523</li>
+<li><a href="./people/Frane-Posedarski-b" class="internal" data-slug="people/Frane-Posedarski-b">Frane-Posedarski-b????</a> — knez, Muslim convert</li>
+<li><a href="./people/Franjo-Filipovic-b-Zagreb" class="internal" data-slug="people/Franjo-Filipovic-b-Zagreb">Franjo-Filipovic-b????-Zagreb</a> — Zagreb canon, Muslim convert 1578</li>
+<li><a href="./people/Ivan-Karlovic-b-Krbava" class="internal" data-slug="people/Ivan-Karlovic-b-Krbava">Ivan-Karlovic-b????-Krbava</a> — krbavski knez, active 1514–c. 1531</li>
+<li><a href="./people/Ivanis-Nenadic-b-Poljica" class="internal" data-slug="people/Ivanis-Nenadic-b-Poljica">Ivanis-Nenadic-b????-Poljica</a> — Poljica defector 1506</li>
+<li><a href="./people/Krsto-I-Frankapan-b" class="internal" data-slug="people/Krsto-I-Frankapan-b">Krsto-I-Frankapan-b????</a> — magnate; lost Istria/Kras 1527</li>
+<li><a href="./people/Stjepan-Posedarski-b" class="internal" data-slug="people/Stjepan-Posedarski-b">Stjepan-Posedarski-b????</a> — chaplain, addressed Pope Leo X 1519</li>
+</ul>
+<h3 id="habsburg-captains-and-magnates">Habsburg captains and magnates<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#habsburg-captains-and-magnates" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Gaspar-Mauric-b" class="internal" data-slug="people/Gaspar-Mauric-b">Gaspar-Mauric-b????</a> — pazinski kapetan 1571</li>
+<li><a href="./people/Ivan-Lenkovic-b" class="internal" data-slug="people/Ivan-Lenkovic-b">Ivan-Lenkovic-b????</a> — senjski kapetan 1560</li>
+<li><a href="./people/Nikola-Jurisic-b" class="internal" data-slug="people/Nikola-Jurisic-b">Nikola-Jurisic-b????</a> — Habsburg captain</li>
+<li><a href="./people/Nikola-Rauber-b" class="internal" data-slug="people/Nikola-Rauber-b">Nikola-Rauber-b????</a> — tršćanski kapetan 1523</li>
+<li><a href="./people/Nikola-Zrinski-b" class="internal" data-slug="people/Nikola-Zrinski-b">Nikola-Zrinski-b????</a> — magnate, Mušković libertini 1544</li>
+<li><a href="./people/Vuk-Popovic-b" class="internal" data-slug="people/Vuk-Popovic-b">Vuk-Popovic-b????</a> — uskok vojvoda</li>
+</ul>
+<h3 id="venetian-rectors-and-officials">Venetian rectors and officials<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#venetian-rectors-and-officials" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Alexandro-Bondumier-b-Venice" class="internal" data-slug="people/Alexandro-Bondumier-b-Venice">Alexandro-Bondumier-b????-Venice</a> — kapetan, 1532</li>
+<li><a href="./people/Alvise-Badoer-b-Venice" class="internal" data-slug="people/Alvise-Badoer-b-Venice">Alvise-Badoer-b????-Venice</a> — providur Dalmacije, c. 1538</li>
+<li><a href="./people/Alvise-Barbaro-b-Venice" class="internal" data-slug="people/Alvise-Barbaro-b-Venice">Alvise-Barbaro-b????-Venice</a> — trogirski knez, 1588</li>
+<li><a href="./people/Alvise-Renier-b-Venice" class="internal" data-slug="people/Alvise-Renier-b-Venice">Alvise-Renier-b????-Venice</a> — bailo, 1550</li>
+<li><a href="./people/Andrea-Civran-b-Venice" class="internal" data-slug="people/Andrea-Civran-b-Venice">Andrea-Civran-b????-Venice</a> — providur Dalmacije, 1524</li>
+<li><a href="./people/Antonio-de-Mula-b-Venice" class="internal" data-slug="people/Antonio-de-Mula-b-Venice">Antonio-de-Mula-b????-Venice</a> — zadarski knez, 1540</li>
+<li><a href="./people/Antonio-Michielo-b-Venice" class="internal" data-slug="people/Antonio-Michielo-b-Venice">Antonio-Michielo-b????-Venice</a> — zadarski knez, 1557</li>
+<li><a href="./people/Bernardo-Balbi-b-Venice" class="internal" data-slug="people/Bernardo-Balbi-b-Venice">Bernardo-Balbi-b????-Venice</a> — šibenski knez i kapetan, 1532</li>
+<li><a href="./people/Giovanni-Antonio-Novelo-b-Venice" class="internal" data-slug="people/Giovanni-Antonio-Novelo-b-Venice">Giovanni-Antonio-Novelo-b????-Venice</a> — providur Sopraintendanture, 1559</li>
+<li><a href="./people/Jakob-Foscari-b-Venice" class="internal" data-slug="people/Jakob-Foscari-b-Venice">Jakob-Foscari-b????-Venice</a> — providur Dalmacije, 1572</li>
+<li><a href="./people/Marin-Cavalli-b-Venice" class="internal" data-slug="people/Marin-Cavalli-b-Venice">Marin-Cavalli-b????-Venice</a> — bailo, 1560</li>
+<li><a href="./people/Nikola-Klacic-b" class="internal" data-slug="people/Nikola-Klacic-b">Nikola-Klacic-b????</a> — kapetan, 1572</li>
+<li><a href="./people/Vincenzo-Forza-b" class="internal" data-slug="people/Vincenzo-Forza-b">Vincenzo-Forza-b????</a> — vikar zadarskoga nadbiskupa, 1636</li>
+<li><a href="./people/Vittorio-Barbadico-b-Venice" class="internal" data-slug="people/Vittorio-Barbadico-b-Venice">Vittorio-Barbadico-b????-Venice</a> — zadarski knez, 1528</li>
+<li><a href="./people/Zuane-Minoto-b-Venice" class="internal" data-slug="people/Zuane-Minoto-b-Venice">Zuane-Minoto-b????-Venice</a> — capitano of Koper, 1524</li>
+<li><a href="./people/Zuan-Moro-b-Venice" class="internal" data-slug="people/Zuan-Moro-b-Venice">Zuan-Moro-b????-Venice</a> — udinski providur, 1528</li>
+</ul>
+<h3 id="ottoman-officials-vlach-contracts-istimâlet-sandžakbegovi">Ottoman officials (Vlach contracts, istimâlet, sandžakbegovi)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ottoman-officials-vlach-contracts-istimâlet-sandžakbegovi" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Cejvan-beg-b" class="internal" data-slug="people/Cejvan-beg-b">Cejvan-beg-b????</a> — Klis sandžak demarcation correspondence</li>
+<li><a href="./people/Ferhat-beg-Sokolovic-b" class="internal" data-slug="people/Ferhat-beg-Sokolovic-b">Ferhat-beg-Sokolovic-b????</a> — kliški sandžakbeg 1568+</li>
+<li><a href="./people/Gazi-Husrev-beg" class="internal" data-slug="people/Gazi-Husrev-beg">Gazi-Husrev-beg</a> — bosanski sandžakbeg, vakuf founder 1531</li>
+<li><a href="./people/Hamza-beg-b" class="internal" data-slug="people/Hamza-beg-b">Hamza-beg-b????</a> — hercegovački sandžakbeg, 1477 istimâlet</li>
+<li><a href="./people/Malkoc-beg-b" class="internal" data-slug="people/Malkoc-beg-b">Malkoc-beg-b????</a> — kliški sandžakbeg 1557</li>
+<li><a href="./people/Mehmed-beg-b-Poljica" class="internal" data-slug="people/Mehmed-beg-b-Poljica">Mehmed-beg-b????-Poljica</a> — hercegovački sandžakbeg, born Poljica</li>
+<li><a href="./people/Murat-beg-Gajdic-b-Sibenik" class="internal" data-slug="people/Murat-beg-Gajdic-b-Sibenik">Murat-beg-Gajdic-b????-Sibenik</a> — first kliški sandžakbeg, born Šibenik area (Tardić)</li>
+<li><a href="./people/Sinan-beg-b-Mostar" class="internal" data-slug="people/Sinan-beg-b-Mostar">Sinan-beg-b????-Mostar</a> — mostarski vojvoda, 1477</li>
+<li><a href="./people/Vladimir-vojvoda-b-Hercegovina" class="internal" data-slug="people/Vladimir-vojvoda-b-Hercegovina">Vladimir-vojvoda-b????-Hercegovina</a> — vlach vojvoda, 1477 istimâlet</li>
+</ul>
+<hr/>
+<h2 id="desnica-1950-ingest-additions-16461684">Desnica 1950 ingest additions (1646–1684)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#desnica-1950-ingest-additions-16461684" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="new-events-kotarski-uskoci-period">New events (Kotarski uskoci period)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#new-events-kotarski-uskoci-period" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./events/Battle-of-Ribnik-1648" class="internal" data-slug="events/Battle-of-Ribnik-1648">Battle-of-Ribnik-1648</a> — 16/17 July 1648 — catastrophic defeat: pop Sorić and Petar Smiljanić killed; the canonical 14-harambaša origin→settlement roster (doc. 39).</li>
+<li><a href="./events/Klis-Conquest-1648" class="internal" data-slug="events/Klis-Conquest-1648">Klis-Conquest-1648</a> — Venetian conquest of Drniš, Klis, Knin</li>
+<li><a href="./events/Cetina-Rotta-1666" class="internal" data-slug="events/Cetina-Rotta-1666">Cetina-Rotta-1666</a> — 5 April 1666; Stojan Janković captured (14 months in Constantinople)</li>
+<li><a href="./events/Bribir-Ambush-1668" class="internal" data-slug="events/Bribir-Ambush-1668">Bribir-Ambush-1668</a> — 9 December 1668; ~104 Knin Turks killed; Soppe + Janković + Smiljanić rewarded</li>
+<li><a href="./events/Vrana-Uprising-1683-1684" class="internal" data-slug="events/Vrana-Uprising-1683-1684">Vrana-Uprising-1683-1684</a> — October 1683 to May 1684, mass Morlach mobilisation</li>
+<li><a href="./events/Grusi-Krajiski-Statut-1654" class="internal" data-slug="events/Grusi-Krajiski-Statut-1654">Grusi-Krajiski-Statut-1654</a> — 5 August 1654, the earliest surviving krajiški statut</li>
+</ul>
+<h3 id="new-persons-kotarski-uskoci-16461684">New persons (Kotarski uskoci 1646–1684)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#new-persons-kotarski-uskoci-16461684" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./people/Janko-Mitrovic-b1605-Zegar" class="internal" data-slug="people/Janko-Mitrovic-b1605-Zegar">Janko-Mitrovic-b1605-Zegar</a> — Žegar harambaša → first Venetian <em>serdar</em> (1656); d. 1659 in Zadar</li>
+<li><a href="./people/Stojan-Jankovic-b1635-Zegar" class="internal" data-slug="people/Stojan-Jankovic-b1635-Zegar">Stojan-Jankovic-b1635-Zegar</a> — kavalier of San Marco 1670; capo de Morlacchi 1681</li>
+<li><a href="./people/Zavisa-Jankovic-b-Zegar" class="internal" data-slug="people/Zavisa-Jankovic-b-Zegar">Zavisa-Jankovic-b????-Zegar</a> — Stojan’s brother (Sabba)</li>
+<li><a href="./people/Janja-Jankovic-b1655-Zadar" class="internal" data-slug="people/Janja-Jankovic-b1655-Zadar">Janja-Jankovic-b1655-Zadar</a> — Stojan’s sister; m. Mitar Pivljanin</li>
+<li><a href="./people/Ilija-Mitrovic-b-Zegar" class="internal" data-slug="people/Ilija-Mitrovic-b-Zegar">Ilija-Mitrovic-b????-Zegar</a> — Stojan’s brother; principal <em>fomentatore</em> of Vrana uprising</li>
+<li><a href="./people/Vukadin-Mitrovic-b-Zegar" class="internal" data-slug="people/Vukadin-Mitrovic-b-Zegar">Vukadin-Mitrovic-b????-Zegar</a> — d. defending Novigrad 1653</li>
+<li><a href="./people/Petar-Smiljanic-b-Udbina" class="internal" data-slug="people/Petar-Smiljanic-b-Udbina">Petar-Smiljanic-b????-Udbina</a> — d. Ribnik 1648 (origin: Udbina, NOT Smiljan!)</li>
+<li><a href="./people/Ilija-Smiljanic-b-Udbina" class="internal" data-slug="people/Ilija-Smiljanic-b-Udbina">Ilija-Smiljanic-b????-Udbina</a> — d. Vučjak 1654</li>
+<li><a href="./people/Filip-Smiljanic-b-Udbina" class="internal" data-slug="people/Filip-Smiljanic-b-Udbina">Filip-Smiljanic-b????-Udbina</a> — d. Šibenik 1656</li>
+<li><a href="./people/Smoljan-Smiljanic-b-Bukovica" class="internal" data-slug="people/Smoljan-Smiljanic-b-Bukovica">Smoljan-Smiljanic-b????-Bukovica</a> — serdar; kavalier 1670</li>
+<li><a href="./people/Vuk-Mandusic-b-Sibenik" class="internal" data-slug="people/Vuk-Mandusic-b-Sibenik">Vuk-Mandusic-b????-Sibenik</a> — d. Zečevo 1648</li>
+<li><a href="./people/Tadija-Vrancic-b-Sibenik" class="internal" data-slug="people/Tadija-Vrancic-b-Sibenik">Tadija-Vrancic-b????-Sibenik</a> — Vuk Mandušić’s nephew</li>
+</ul>
+<h3 id="new-families">New families<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#new-families" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./families/Jankovic-Mitrovic" class="internal" data-slug="families/Jankovic-Mitrovic">Jankovic-Mitrovic</a> — household</li>
+<li><a href="./Smiljanic" class="internal" data-slug="Smiljanic">Smiljanic</a> — household</li>
+</ul>
+<h3 id="major-surname-pages-desnica-1950">Major surname pages (Desnica 1950)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#major-surname-pages-desnica-1950" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./surnames/Mitrovic" class="internal alias" data-slug="surnames/Mitrovic">Mitrović</a> — Žegar → Posedarje → Zadar</li>
+<li><a href="./Smiljanic" class="internal alias" data-slug="Smiljanic">Smiljanić</a> — <em>Udbina origin (Desnica’s correction!)</em></li>
+<li><a href="./surnames/Soric" class="internal alias" data-slug="surnames/Soric">Sorić</a> (updated) — Gorica župnik to Ribnik martyr</li>
+<li><a href="./surnames/Mandusic" class="internal alias" data-slug="surnames/Mandusic">Mandušić</a> / <a href="./surnames/Vrancic" class="internal alias" data-slug="surnames/Vrancic">Vrančić</a> — Šibenik zaleđe</li>
+<li><a href="./surnames/Saric" class="internal alias" data-slug="surnames/Saric">Šarić</a> (updated) — Cvijan + sons in Šibenik</li>
+<li><a href="./surnames/Posedarski" class="internal" data-slug="surnames/Posedarski">Posedarski</a> (updated) — Frano-Žorži-Frano cycle</li>
+<li><a href="./surnames/Bortulacic" class="internal alias" data-slug="surnames/Bortulacic">Bortulačić</a> — Zadar gradski</li>
+<li><a href="./surnames/Movicuna" class="internal alias" data-slug="surnames/Movicuna">Močivuna</a> — Jakorševci → Bokanjac</li>
+<li><a href="./surnames/Pivljanin-Nikolic" class="internal alias" data-slug="surnames/Pivljanin-Nikolic">Pivljanin-Nikolić</a> — Plav → Zadar (Bajo, Mitar, Petar)</li>
+<li><a href="./surnames/Sinobad" class="internal" data-slug="surnames/Sinobad">Sinobad</a> — Budin → Karin</li>
+<li><a href="./surnames/Atlagic" class="internal alias" data-slug="surnames/Atlagic">Atlagić</a> — Knin</li>
+<li><a href="./surnames/Filipovic" class="internal alias" data-slug="surnames/Filipovic">Filipović</a> — Bosanski beg-line</li>
+<li><a href="./surnames/Durakbegovic" class="internal alias" data-slug="surnames/Durakbegovic">Durakbegović</a> — Krčki sandžak; Vrana</li>
+<li><a href="./surnames/Cernizza" class="internal alias" data-slug="surnames/Cernizza">Crnica</a> — Tinj investitura</li>
+<li>(~70 additional surnames with single-mention bearers; see <a href="./log" class="internal" data-slug="log">log</a>)</li>
+</ul>
+<h3 id="new-places">New places<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#new-places" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li><a href="./places/Zegar" class="internal alias" data-slug="places/Zegar">Žegar</a> (updated) — Mitrović origin</li>
+<li><a href="./places/Posedarje" class="internal" data-slug="places/Posedarje">Posedarje</a> — Mitrović Venetian seat</li>
+<li><a href="./places/Udbina" class="internal" data-slug="places/Udbina">Udbina</a> — Smiljanić origin</li>
+<li><a href="./places/Gorica" class="internal" data-slug="places/Gorica">Gorica</a> — Sorić origin</li>
+<li><a href="./places/Vinjerac" class="internal" data-slug="places/Vinjerac">Vinjerac</a> (updated) — Castel Venier; Krmpote settlement</li>
+<li><a href="./places/Otres" class="internal" data-slug="places/Otres">Otres</a> — 1662 Kotarska disaster</li>
+<li><a href="./places/Ribnik" class="internal" data-slug="places/Ribnik">Ribnik</a> (updated) — 1648 Battle</li>
+<li><a href="./places/Vucjak" class="internal alias" data-slug="places/Vucjak">Vučjak</a> — Ilija Smiljanić’s death</li>
+<li><a href="./places/Zecevo" class="internal alias" data-slug="places/Zecevo">Zečevo</a> (updated) — twin battles 1648/1666</li>
+<li><a href="./places/Mokro-Polje" class="internal" data-slug="places/Mokro-Polje">Mokro-Polje</a> (updated) — Bjedov origin</li>
+<li><a href="./places/Knin" class="internal" data-slug="places/Knin">Knin</a> (updated) — Atlagić-Firdusović kapetanija</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-23" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#wiki-index" data-for="wiki-index">Wiki Index</a></li><li class="depth-1"><a href="#sources" data-for="sources">Sources</a></li><li class="depth-1"><a href="#events" data-for="events">Events</a></li><li class="depth-2"><a href="#morean-war-period-16841699--from-desnica-ii" data-for="morean-war-period-16841699--from-desnica-ii">Morean War period (1684–1699) — from Desnica II</a></li><li class="depth-1"><a href="#places-regions-jurisdictions-towns-villages" data-for="places-regions-jurisdictions-towns-villages">Places (regions, jurisdictions, towns, villages)</a></li><li class="depth-2"><a href="#regions-and-natural-features" data-for="regions-and-natural-features">Regions and natural features</a></li><li class="depth-2"><a href="#polities-and-jurisdictions" data-for="polities-and-jurisdictions">Polities and jurisdictions</a></li><li class="depth-2"><a href="#cities-and-fortresses" data-for="cities-and-fortresses">Cities and fortresses</a></li><li class="depth-2"><a href="#villages-and-smaller-places" data-for="villages-and-smaller-places">Villages and smaller places</a></li><li class="depth-1"><a href="#surnames" data-for="surnames">Surnames</a></li><li class="depth-2"><a href="#major-vlach-lineages-substantive-treatment" data-for="major-vlach-lineages-substantive-treatment">Major Vlach lineages (substantive treatment)</a></li><li class="depth-2"><a href="#other-named-vlach--starešina-lineages" data-for="other-named-vlach--starešina-lineages">Other named Vlach / starešina lineages</a></li><li class="depth-2"><a href="#croatian-noble--clergy--habsburg--venetian" data-for="croatian-noble--clergy--habsburg--venetian">Croatian noble / clergy / Habsburg / Venetian</a></li><li class="depth-2"><a href="#continuity-list-šarić-footnote-177-16th17th-c-zadar-zaleđe-surnames-with-possible-medieval-roots" data-for="continuity-list-šarić-footnote-177-16th17th-c-zadar-zaleđe-surnames-with-possible-medieval-roots">Continuity-list (Šarić footnote 177): 16th–17th c. Zadar zaleđe surnames with possible medieval roots</a></li><li class="depth-1"><a href="#people" data-for="people">People</a></li><li class="depth-2"><a href="#vlach-starešine-and-dzemat-heads-15281550" data-for="vlach-starešine-and-dzemat-heads-15281550">Vlach starešine and dzemat heads (1528–1550)</a></li><li class="depth-2"><a href="#najčinović-jančić-family" data-for="najčinović-jančić-family">Najčinović (Jančić) family</a></li><li class="depth-2"><a href="#gleđevac-family" data-for="gleđevac-family">Gleđevac family</a></li><li class="depth-2"><a href="#frletić--firultić" data-for="frletić--firultić">Frletić / Firultić</a></li><li class="depth-2"><a href="#prejić-family" data-for="prejić-family">Prejić family</a></li><li class="depth-2"><a href="#poropat-family" data-for="poropat-family">Poropat family</a></li><li class="depth-2"><a href="#late-persons-midlate-16th-c-17th-c" data-for="late-persons-midlate-16th-c-17th-c">Late persons (mid–late 16th c., 17th c.)</a></li><li class="depth-2"><a href="#croatian--bosnian-catholic-clergy" data-for="croatian--bosnian-catholic-clergy">Croatian / Bosnian Catholic clergy</a></li><li class="depth-2"><a href="#croatian--hungarian-nobility-defectors-converts" data-for="croatian--hungarian-nobility-defectors-converts">Croatian / Hungarian nobility, defectors, converts</a></li><li class="depth-2"><a href="#habsburg-captains-and-magnates" data-for="habsburg-captains-and-magnates">Habsburg captains and magnates</a></li><li class="depth-2"><a href="#venetian-rectors-and-officials" data-for="venetian-rectors-and-officials">Venetian rectors and officials</a></li><li class="depth-2"><a href="#ottoman-officials-vlach-contracts-istimâlet-sandžakbegovi" data-for="ottoman-officials-vlach-contracts-istimâlet-sandžakbegovi">Ottoman officials (Vlach contracts, istimâlet, sandžakbegovi)</a></li><li class="depth-1"><a href="#desnica-1950-ingest-additions-16461684" data-for="desnica-1950-ingest-additions-16461684">Desnica 1950 ingest additions (1646–1684)</a></li><li class="depth-2"><a href="#new-events-kotarski-uskoci-period" data-for="new-events-kotarski-uskoci-period">New events (Kotarski uskoci period)</a></li><li class="depth-2"><a href="#new-persons-kotarski-uskoci-16461684" data-for="new-persons-kotarski-uskoci-16461684">New persons (Kotarski uskoci 1646–1684)</a></li><li class="depth-2"><a href="#new-families" data-for="new-families">New families</a></li><li class="depth-2"><a href="#major-surname-pages-desnica-1950" data-for="major-surname-pages-desnica-1950">Major surname pages (Desnica 1950)</a></li><li class="depth-2"><a href="#new-places" data-for="new-places">New places</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="./log" class="internal">log</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="./postscript.js" type="module" data-persist="true"></script></html>
