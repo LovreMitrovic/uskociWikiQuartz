@@ -1,0 +1,107 @@
+# Wiki Log
+
+## [2026-04-29] note | Wiki initialized
+- Created `CLAUDE.md` schema
+- Created directory skeleton (`raw/`, `wiki/`)
+- Ready for first ingest
+
+## [2026-05-01] ingest | Desnica 1950 — Istorija kotarskih uskoka 1646–1684, sveska I
+- Source page: [[Desnica-1950-Kotarski-Uskoci-I]]
+- Raw file: `raw/articles/desnica1.txt` (~15,303 lines, 399 numbered documents)
+- **Approach**: full-breadth ingest per user instruction "every surname even one mention, especially with place attestation."
+- **Pages created or substantially updated**:
+  - 1 source page
+  - 12 person pages (Janko Mitrović, Stojan Janković, Zaviša Janković, Janja Janković, Ilija Mitrović, Vukadin Mitrović, Petar/Ilija/Filip/Smoljan Smiljanić, Vuk Mandušić, Tadija Vrančić; updates to Stipan Sorić, Cvijan Šarić)
+  - 6 events: Battle of Ribnik 1648 (with the canonical 14-harambaša roster), Battle of Zečevo I 1648 (updated existing Zečevo place), Battle of Zečevo II 1666, Conquest of Klis 1648, Cetina rotta 1666, Bribir ambush 1668, Vrana uprising 1683–84, Grusi krajiški statut 1654
+  - 2 family pages: Janković-Mitrović household, Smiljanić household
+  - ~85 surname pages — every surname mentioned, including single-mention with place. Major lineages: Mitrović, Smiljanić, Sorić, Mandušić, Vrančić, Šarić, Posedarski (Benja-Posedarski), Bortulačić, Močivuna, Pivljanin-Nikolić, Sinobad, Atlagić, Filipović, Durakbegović, Crnica. Single-mention bearers documented with place links: Tadić, Knežević, Vukčević, Rorčić, Tomičić, Miković, Miljanić, Dobrić, Letica, Ivetković, Šušić, Marković, Milić, Mihaljević/Miljević, Glumac, Pletikosić, Punoš, Mirković, Roić, Bobričić, Magačić, Bogdanović, Đerverščović, Grabović, Vićasić, Bušanić, Milović, Milković, Vukobratović, Krešović, Lukin, Dragojl, Kovilović, Nižić, Čipić, Mihelić, Omeljić, Vukdrašinović, Bogetić, Lovrić, Pauković, Šutić, Tintić, Rešinčić, Dragović, Nakić, Mirčetić, Klarić, Gečić, Vlastelica, Soppe, Begna, Civaleli, Detrico, Calcina, Cassio, Pasini, Fanfogna, Harlić, Bućević, Pugnić, Cheuro, Karsolov, Jelušić, Kolić, Capelletto, Garković, Milatović, Katalinić, Banić, Halaburić, Grubišić, Cernizza/Crnica, Renessi, Vlasto, Zarcanin, Kosulović, Lalić, Miagostović, Mistakieli, Stipčević, Busović, Gabrieli, Vuković, Kapuano, Krivelari, Sinčević, Kužinović, Kučić, Marininić, Crekat, Gargurica, Petković, Čačić, Salihagić, Firdusović, Čengić, Vidimlić, Bojičić, Bjedov, Kordić, Jokić, Bogavac, Stojanović, Banenović, Bačić, Radić, Vlatković, Matak, Škulić, Valičić, Ugarković, Dundović, Radobilić, Jović, Vlaković, Lilić, Sikirić, Garkinić, Stiljić, Barićević, Kovač, Šarić, Klanaz, Pačić... (full list above).
+  - ~22 place pages created or expanded: Žegar, Posedarje, Udbina, Gorica, Vinjerac (Castel Venier), Otres, Ribnik, Vučjak, Zečevo, Mokro Polje, Knin (updates to existing). Many Bukovica/Velebit-Podgorje villages also linked.
+  - **Total**: ~70+ new pages, ~30+ updates to existing pages.
+- **Critical genealogical correction recorded** on [[Smiljanic|Smiljanić]] surname page and [[Petar-Smiljanic-b????-Udbina]] person page: per Desnica's footnote on doc. 20, the Smiljanići originated in **[[Udbina]], NOT [[Smiljan-Lika|Smiljan]]** — overrides legend.
+- **Notable pre-existing pages substantially expanded with Desnica material**: [[Stipan-Soric-b????-Gorica]] (Candian War career, death at Ribnik, posthumous relic-cult); [[Cvijan-Saric-b????-Sibenik]] (full multi-decade career with sons Iuan/Žorži/Jovan); [[Posedarski]] (full 17th c. genealogy of Frano-Žorži-Frano cycle); [[Filipovic|Filipović]] (Bosnian beg-line); [[Bunjevac]] (Nikola Bunjevac of Otres 1662 added as concrete bearer); [[Brajnovic|Brajnović]] (Petropolje + Zadar branches); various single-mention surname pages (Bačić, Skulić, Vlatković, Grubić, Brajnović, Dević, Smiljanic — all updated with new bearers).
+- **Migration roster docs digested**: doc. 39 (1648 Ribnik 14-harambaša roster — origin → settlement, the canonical document); doc. 70 (1653 power-of-attorney with 20+ harambaše with origin villages); doc. 84 (1654 Sv. Zulijan 37-name list of šibenski pravoslavni Morlachi); docs. 199 (1671 Dračevac re-settlement of 43 souls in 20 households); doc. 358 (1683 Lazar Dragović's 1500-family roster of Skradin–Vrana area); doc. 381 (1684 Donà's 30+ village-capitano roster); doc. 397 (1684 Tepšinci/Parčići uskakanje, 615 fighters / 5307 souls).
+- **Open questions / lint candidates**:
+  - **Stojan Janković's first wife**: variously *Vinka* and *Vuka* in this corpus; Desnica's footnote on doc. 211 acknowledges this.
+  - **Bartul Banenović** "Germano del carambassà Elia Smiglianich" — *Germano* could mean "(first) cousin" or "kinsman"; precise relation unclear.
+  - **Smoljan Smiljanić's paternal patronymic** — sometimes given as "Mihalevich" (doc. 103). Either this records his father's surname (unattested) or marks a Mihaljević line distinct from the Drniš Mihaljević.
+  - **Ilija Mitrović sentence 1680**: precedes Vrana uprising; Desnica's footnotes treat his role as fully documented but interpretively complex.
+  - **Janko Mitrović's brothers**: Stojan's 1670 supplica names Janko, Giovanni, Stefan, Pavle, Andrija — but only Janko and (probably) Vukadin appear in the pay-records.
+  - **Cvijan Šarić's death-date**: still alive 1668-10-06 (doc. 162); pay had passed to son Jovan in 1662; the 1660 Evlija Çelebi attestation describes him in his prime.
+  - **Senate's name-confusion in doc. 215** (1675-08-24): "Cianco suo frello" of Stojan Janković — but Stojan had no actual brother named Janko (Desnica's fn: probably patronymic for Zaviša or Ilija).
+  - Doc. 397 (Tepšinci/Parčići) ends the volume; the *uskakanje* outcomes are in Sveska II.
+- **Updated**: [[index.md]]
+- **Status check next session**: `comm -23 raw/ vs wiki/sources/*.md location_in_raw` will now show **only `desnica2.txt`** as pending.
+
+## [2026-04-29] ingest | Šarić 2024 — Osmanski Vlasi Istre na izvornoj Tromeđi
+- Source page: [[Saric-2024-Vlasi-Istre]]
+- Raw file: `raw/articles/saric-marko-vlasi-istrije-na-izvornoj-tromedi.txt` (~26k words, 3128 lines)
+- **Approach**: breadth-first / index-card pages per CLAUDE.md "Page depth" convention
+- Pages created (303 total):
+  - 1 source
+  - 7 events: Ottoman Conquest 1522–27, Vlach Migration to Istria 1518–23, Vlach Return to Klis 1528–30, Venetian-Ottoman War 1537–40, Vlasi Istre Migration to Venice 1538, Cyprus War 1570–73, Pazin Peasant Revolt 1570
+  - 98 places: regions, jurisdictions (Tromeđa, Vilajet Hrvati, sandžaci), cities, ~40 villages
+  - 77 surnames: 12 substantive Vlach lineages (Poropat, Gleđevac, Ružić, Najčinović, Milovanić, Rudelić, Frletić, Prejić, Šiljanović, Krmpotić, Milohanić, Mušković), plus 26 footnote-list continuity surnames, 14 starešina/Vlach-group hubs, and 24 Croatian/Habsburg/Venetian/Ottoman / clergy lines
+  - 120 persons: ~32 Vlach starešine 1528–1550, families of Najčinović/Gleđevac/Frletić/Prejić/Poropat (~25), ~12 late-period persons, 6 Catholic clergy, 7 noble defectors/converts, 6 Habsburg captains, 16 Venetian officials, 9 Ottoman officials
+- **Open questions / lint candidates** for future review:
+  - "Petar, sin Jančića" (Ostrovica 1530) and Petar Najčinović (Dobruča Vas) — likely same person, marked confidence: medium; may want to merge.
+  - Stjepan Posedarski as both 1519 chaplain and as Muslim convert — possibly two distinct men.
+  - Many register-only persons have only patronymic; surnames inferred from patronymic stems (e.g. "sin Milovana" → Milovanić). Treat as provisional until cross-referenced.
+  - "Ivaniš sin Mirka" (joint Donje/Gornje Miranje timar with Ivaniš Poropat) — not yet given own Person page; mentioned only in body of Ivaniš Poropat.
+  - Footnote-list continuity surnames have no concrete bearers in this source; pages exist as placeholders.
+- **Updated**: [[index.md]]
+- **Status check next session**: `comm -23` of `raw/` vs `wiki/sources/*.md` `location_in_raw:` should now show 0 pending.
+
+## [2026-05-01] ingest | Desnica 1951 — Istorija kotarskih uskoka 1684–1749, sveska II
+- Source page: [[Desnica-1951-Kotarski-Uskoci-II]]
+- Raw file: `raw/articles/desnica2.txt` (~17,973 lines, 392 numbered documents)
+- **Period**: 6 May 1684 – 9 April 1749
+- **Approach**: full-breadth ingest per user instruction "every surname captured even if mentioned once, with as much info and context as possible." User confirmed expanding farther than the desnica1 pass.
+- **Extraction**: 4 parallel agents read the source in chunks (1–3600, 3600–7200, 7200–10800, 10800–14400, 14400–end) and produced structured entity inventories totaling ~700 person-mentions and ~370 surname-mentions across chunks (with substantial cross-chunk overlap).
+- **Pages created or substantially updated** (this session):
+  - 1 source page: [[Desnica-1951-Kotarski-Uskoci-II]]
+  - **+169 person pages** (people count rose from 203 → 372): Janković family extensions (Antonia Reci, Janko, Marija/Marietta, Liberal, Magdalena, Nikola, Konstantin, Frane Peraica), Filippo Mitrović of Obrovac, Marija Mitrović = Vučen Stojisavljević's wife, Vučen Stojisavljević, Petar Mitrović-Stojisavljević, Lazaro Smiljanić, Maria Bolić-Smiljanić; the Kotari capi extras (dr. Antun Bortulačić); Venetian provveditori (Mocenigo, Donà, Pasqualigo, Valier, Cornaro, Molin (Alessandro and Antonio), Dolfin, Vendramin, Riva, Zane, Diedo, Mocenigo II) and ~40 Venetian/Italian noble surnames as simple records (Loredan, Gritti, Memo, Grimani, Barbarigo, Ruzzini, Marcello, Soranzo, Foscarini, Quirini, Bollani, Spolverino, Pizzamano, dal Borro, Civran, Corner...); Ottoman Knin/Sinj/Bihać families (Atlagić — Mehmed pasha + son + nephew Alibeg, Mandić — Šain-aga + Hasan-aga + Šakija-aga, Pašić of Ripač, Idris-aga of Bihać, Kumalić, Durakbegović expansions); harambase / serdari (Boža Milković, Lazaro Cona, Vukon Cvitanović, Filippo Tintor, Stipan Goreta, Palikuća, Žinović, Vučić Oluić, Ostoja Gagić, Rade Tepšić, Vukosav Kosić, Jovan Sudarović, Pietro/Dimitri/Jovan Sinobad, Mehrem Komanija, Mihael Milinović, Mattio Strmić, vojvoda Ivan Marušić, pop Pavao Žuljević, Mitar/Petar/Bajo/Vuko/Zuane Nikolić of Kotor, Nicolò Corponese, Nikola Blagojević, Jovan Božić, Marco Podgorica, Frane Gaeta, Stipan Garković, Pietro Tartaglia, Razzetini, Geliseo, Casotti, Manzecchi, Pavle Vukčević); Vrana harambase 1684 (Mirčetić, Vučić, Đekić, Mattio Pop, Lepur, Najerlović, Pančić, Bajčić, Parišić, fra Grgur Šutić, Ilija Radašinović); single-mention Žegar/Razanci/Radovin Morlachs (Mihajlo Radmilović, Marko Matak, Ivan Brkljača, Giacomo Bistrić, Mattio Boljač); Avramović brothers; Vukašin Rošić of Čitluk Lički; Vuko Vojkorsić; Hajra/Kosa Lakić; Zelel-aga Babahmetović; the chunk-3 lineages (Đurić brothers, Pirić, Zorić, Prešević, Vidović, Budisalić, Cesare Casanova, Pietro Calčina, Vid Petrović, Ilija Nanić, pop Petar Jagodić-Kuridža (rich page), Mattio Žabetić, Tomaso Tubić, Marlatić); chunk-4 figures (Mede Miljković, Jurašin Vučina, Radoš and Sava Kresović, Modre, Doge Silvestro Valier, Pisani, Contarini, Califfi).
+  - **+8 events**: [[Sinj-Battle-1685]], [[Lika-Settlement-Census-1685]], [[Sinj-Conquest-1686]], [[Jankovic-Regiment-Authorisation-1686]], [[Stojan-Jankovic-Death-Duvno-1687]], [[Knin-Conquest-1688]], [[Kotari-Pertinenze-Reform-1689]], [[Bortulacic-Murder-Vrana-1692]], [[Bjelaj-Migration-1692]], [[Bukovica-Revolt-1704]] (10 created).
+  - **+4 surname pages**: [[Nanic]], [[Zelic]], [[Radmilovic]] (Žegar footnote stubs per Desnica's 1951 editorial note + document body context); [[Vukcevic]] updated with 1951 footnote and 1684 Budin feud context.
+  - **Updated existing major figures**: [[Stojan-Jankovic-b1635-Zegar]] (full Desnica II timeline 1684-1687, including children's deaths, regiment authorisation, Bribir defence, death at Duvno); [[Smoljan-Smiljanic-b????-Bukovica]] (1684–1686 timeline, wife Marica, son Lazar, daughter Margarita); [[Simun-Bortulacic-b????-Zadar]] (extension to 1692-01-16 murder at Vrana); [[Zavisa-Jankovic-b????-Zegar]] (Obrovac kapitan years, 1693–1696 raids attestation, 1697 pay raise, Spanish Succession redeployment); [[Ilija-Mitrovic-b????-Zegar]] (1684 terminacija, 1685 stipend petition, 1693 death; Peraica identity contested-flag note).
+- **User directives applied**:
+  1. Confirmed: Stojan Janković = Stojan Mitrović (same person).
+  2. Burials recorded literally (e.g., "buried at Sv. Ilija in rito greco") with no religious-identity inference.
+  3. Two Obrovacs / two Starigrads / two Poljicas / two Plavnos treated as distinct places with disambiguation notes.
+  4. [[Plavno]] treated as distinct from [[Plavna]] with cross-reference note "may be the same place".
+  5. Lapac complaint (doc 126) recorded on Stojan's page as fact, no resolution.
+  6. Iljanović letter (doc 139) recorded on Stojan's page as fact + flagged as State-Inquisitor-suspicious.
+  7. Marin Michiel kept distinct from existing [[Marin-Cavalli-b????-Venice]].
+  8. Žegar footnote surnames (Zelić, Radmilović, Vukčević, Nanić) recorded with one-line note "still present in Žegar today (1951)" + source link, plus document-body bearers where attested.
+- **Open questions / lint candidates**:
+  - **"Peraica" identity**: Ilija "Peraica" of the March 1685 Cetina migration killed by corsair fusta off Rogoznica (Aug-Sept 1685) is treated as DISTINCT from Ilija Mitrović of Žegar (who died of natural causes 1693 per chunk-3 attestation). The original chunk-1 agent conflated them — flagged on [[Ilija-Mitrovic-b????-Zegar]].
+  - **Iljanović letter (30 July 1686)**: claimant Matija Iljanović of Vienna asserts descent from "signori de Illyanova" of Gabela/Hum/Hercegovina; flagged by Cornaro and Inquisitors as Ragusan intrigue. Page TODO.
+  - **Lapac complaint (1 Feb 1686)**: anonymous Morlach accusations of extortion by Janković + Bortulačić; recorded on both pages, no resolution in source.
+  - **Janko Janković son of Stojan**: died 23 Aug 1685, distinct from Stojan's father Janko Mitrović (d. 1659). Pages disambiguated.
+  - **Marin Michiel**: capitano + provveditor estraordinario commissario 1685, NOT [[Marin-Cavalli-b????-Venice]] — separate page created.
+  - **Two Bortulačićs in Zadar**: kavalier Šimun (capo de Morlacchi, murdered 1692) and dr. Antun (his brother, lawyer, drafted petitions). Both have pages.
+  - **Magdalena Janković** (d. 13 May 1684): source records "sepolta nella chiesa di sant'Elia essendo di rito greco" — literal record only, no religion inference per user directive.
+  - **War of Spanish Succession redeployments (post-1701)**: Zaviša Janković and Lazar Smiljanić deployed to Italy; recorded on pages but no dedicated event page yet.
+- **Coverage gaps (deferred to future passes)**:
+  - **Surname pages**: ~150–200 NEW surnames mentioned in extracts but not yet given dedicated Surname pages. The information is captured on Person pages and via source citations, but the surname-hub pattern is not fully populated for this source. Priority candidates for next pass: Cona, Cvitanović, Tintor, Goreta, Palikuća, Žinović, Karalija, Oluić, Gagić, Tepšić, Kosić, Sudarović, Marušić, Žuljević, Strmić, Milinović, Komanija, Korponež, Marinović, Nuncović, Iljanović, Pašić, Bastić, Kumalić, Mandić, Salomonić, Podgorica, Pierantonii, Grizogono, Cloder, Bardi, Cassio (existing — needs extension), Lantana, Tori, Sorini, Spachioto, Alberti (place-page exists), Gioachini, Manzecchi; Venetian Cornaro, Loredan, Gritti, Memo, Grimani, Barbarigo, Vendramin, Ruzzini, Civran (existing — needs extension), Marcello, Soranzo, Foscarini, Quirini, Bollani, Spolverino, Pizzamano, dal Borro; chunk-3/4: Stojisavljević (existing — needs extension), Califfi, Calčina, Žabetić, Tubić, Marlatić, Jagodić, Spiro, Petrović (Vid), Obradović of Bruvno, Canagetti, Vojnović, Erizzo, Paulucci.
+  - **Place pages**: ~60–80 NEW places mentioned but not yet given pages. Priority candidates: Lantana, Belgrade, Vienna, Banja Luka, Cattaro/Kotor, Ulcinj, Cetinje, Pastrovići, Budva, Zaostrog, Vrgorac, Imotski, Makarska, Gabela, Norin, Forte Opus, Zadvarje (Duare), Omiš (Almissa), Prolog, Solin (Salona), Hercegnovi, Velim, Daslina, Slosella, Vrpolje, Novigrad (Dalmatia), Karlobag, Krka river, Biljane, Nadin, Poličnik, Malpaga, Grahovo, Vienna, Karlovac, Buda, Sarajevo, Duvno, Bribir, Skradin (existing — needs extension), Split, Trogir, Kaštela, S. Simeone Zadar (contrada), Sv. Ilija Zadar (Greek-rite church), Sv. Šime Zadar, Bilišani, Boričevac, Ripač, Lapac, Bjelaj, Vakuf (Kulen Vakuf), Srb, Komić, Medak, Rebac, Parčići, Olib (1701 sale), Bruvno (where Vid Petrović killed 1707).
+  - **Events**: a few additional events worth dedicated pages — Bjelaj/Vakuf raid 1685, Lika joint raid 1685, Lapac raid 1686, two Livno raids 1686, Bosnian Pasha Kotari raid Nov 1686, Pastrovići siege relief 1686, Knin millworks raid 1686, Rama Franciscan migration Oct 1687, Skoplje migration Nov 1687, Bosnian pasha April 1688 raid, Vrlika capitulation Sept 1688, Brochno-Goranci migration 1693–94, Mostar/Rusić migration 1692, War of Spanish Succession deployments, 1707 Bruvno (Vid Petrović killed), Olib sale 1701, Rákóczi mission of Vojnović 1706, Papal anti-pirate recruitment 1717, Sinobad death at Glamoč 1715.
+  - **Reason for partial coverage**: parallel writing agents launched in this session (4 in parallel, one per chunk) hit Anthropic API rate limits (resets 8:30pm Europe/Zagreb) before completing the surname/place/event sweeps. Person pages were highest priority and got through. Plan: resume Surname/Place/Event sweeps in a follow-up session.
+- **Updated**: [[index.md]] (sources, events sections; persons + surnames counts updated).
+- **Status check next session**: `raw/` vs `wiki/sources/*.md` `location_in_raw:` should show 0 pending. The follow-up work is *within* desnica2 (surname/place/event sweep), not a new ingest.
+
+## [2026-05-01] note | desnica2 sweep continuation — paused mid-pass
+- After 8:30pm rate-limit reset, four parallel agents resumed the sweep.
+- **Completed in this continuation**:
+  - Surnames chunks 1+2 agent finished: **+165 new surname pages, +13 existing updates** (persons-side total 239 → ~405).
+  - Events agent finished: **+38 new event pages** (31 → 79). Includes Knin-Battle-1684, Glamoč-Grahovo-Campaign-1684, Vrana-Capi-Petition-1684, Sinj-Attempt-Marcello-1684, Cetina-Migration-Peraica-1685, Mikiel-Knin-Reconnaissance-1685, Kaštela-Attack-1685, Lika-Migration-May-1685, Crna-Gora-Defection-1685, Zadvarje-Siege-1685, Bjelaj-Vakuf-Raid-1685, Lika-Joint-Raid-1685, Lapac-Raid-1686, Livno-Raid-First-1686, Livno-Raid-Second-1686, Glamoč-Engagement-1686, Pastrovići-Siege-Relief-1686, Sinj-Siege-Turkish-1686, Knin-Millworks-Raid-1686, Bosnian-Pasha-Kotari-Raid-1686 (Nov 1686 major raid), Coron-Conquest-1685, Esztergom-Battle-1685, Neuhäusel-Capture-1685, Atlagić-Bosnian-Pasha-Appointment-1687, Atlagić-Poison-Attempt-1687, Sinj-Relief-1687, Patriarch-Peć-Cetinje-Plan-1686, Zaviša-Rebac-Raid-1687, Ilija-Bilaj-Raid-1687, Varcar-Vakuf-Raid-1687, Rama-Franciscan-Migration-1687, Skoplje-Migration-1687, Zagreb-Bishop-Robbery-1688, Bosnian-Pasha-April-1688-Raid, Kanjiža-Raid-1688, Vrlika-Capitulation-1688, Brochno-Goranci-Migration-1693-94, Mostar-Rusić-Migration-1692, Mitrović-Sinobad-Reconciliation-1692, Mostar-Mokro-Polje-Raid-1696, Patriarch-Crnojević-Teodosije-1693, Vid-Petrović-Banditry-1702-1707, War-of-Spanish-Succession-Deployments, Olib-Sale-1701, Border-Demarcation-Grimani-1699-1701, Sinobad-Death-Glamoč-1715, Papal-Anti-Pirate-Recruitment-1717, Rákóczi-Mission-Vojnović-1706.
+  - Places agent partial: places sweep advanced to ~346 (was 158); was stopped mid-pass; covered most chunks 1–3 places.
+  - Surnames chunks 3+4 agent partial: stopped mid-pass; surname total reached 470 (was 239); chunk-3 mostly done, chunk-4 partially.
+- **Stopped by user mid-pass — resume needed**:
+  - **Surnames chunks 3+4 agent** stopped after partial chunk-4 work. Need to finish chunk-4 surnames not yet written. Final chunk-4 surnames known to be missing: check Califfi, Calčina, Žabetić, Tubić, Marlatić, Jagodić-Kuridža, Spiro, Petrović (Vid haiduk), Obradović (Bruvno branch), Canagetti, Vojnović, Erizzo, Paulucci, Pisani (extension), Diedo, Sfakioto, Marlatić, Modre, Vučina, Kresović (extension with Modro casale dispute), Stojisavljević (extension), Miljković (extension if not the same as existing Milkovic).
+  - **Places agent** stopped while still working on chunks 3+4 places + cross-chunk dedup. Likely missing: some chunk-4 places (Bruvno, Olib, Modro/Modrino selo, Pozzi, Mt Prolog locations) and disambiguation/cross-link finish for Plavno vs Plavna, Obrovac na Cetini vs Obrovac na Zrmanji, the two Starigrads, two Poljicas, Sv-Ilija-Zadar (church) and Sv-Šime-Zadar (church) standalone entries.
+- **Counts at pause**: People 372 · Surnames 470 · Places 346 · Events 79 · Sources 4 = 1,271 wiki pages (up from 623 pre-ingest).
+- **Next session plan**:
+  1. Finish chunk-4 surnames (~20–30 remaining).
+  2. Finish chunk-3+4 places + disambiguation pages.
+  3. Re-update index.md sections (surname + place lists got far past the 200-line truncation point — index will need pagination or category sub-pages soon).
+  4. Lint pass: cross-check the chunk-1 agent's "Peraica" conflation, the parallel records of single-mention persons across chunks, and the disambiguation cross-references.

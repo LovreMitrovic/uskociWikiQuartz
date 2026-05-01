@@ -1,0 +1,13 @@
+---
+type: surname
+canonical: Lalić
+variants: [Lalich]
+attested_period: "1651"
+attested_places:
+  - "[[Brac|Brač]] (paron Pero/Piero)"
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+---
+
+# Lalić
+
+Single attestation: **paron Piero (Pero) Lalić dalla Brazza** — 1651-03-09 commander of Ivan Miagostović's vessel "Sveti Ivan Krstitelj"; ordered by Foscarini to take it to Venice with the cargo intact pending settlement of Petar Zrinski's claim (doc. 55).

@@ -1,0 +1,3129 @@
+Povijesni prilozi 67., 179-236 (2024.)
+
+179
+94(497.57)’’15’’
+94(=135)’’15’’
+Primljeno: 7. 4. 2024.
+Prihvaćeno: 30. 5. 2024.
+Izvorni znanstveni rad
+https://doi.org/10.22586/pp.v43i67.30587
+
+Marko Šarić ∗
+
+Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna
+podaništva i ambivalentne lojalnosti na imperijalnom
+višegraničju u Hrvatskoj 16. stoljeća
+U radu se, polazeći od neobjavljenih i objavljenih osmanskih, mletačkih i habsburških
+izvora, analizira vlaška skupina poznata u historiografiji kao „Vlasi Istre”, koja je u prvoj polovini 16. stoljeća sociodemografski dominirala na prostoru „izvorne Tromeđe”
+u Hrvatskoj. Riječ je o povratničkoj vlaškoj skupini iz habsburškoga dijela sjeveroistočne Istre i Krasa čiju su demografsku jezgru činili potomci hrvatskih srednjovjekovnih
+Vlaha, koji su se početkom 16. stoljeća pred osmanskim osvajanjima u više navrata
+iseljavali prema sjeverozapadu. U sklopu osmanske kolonizacijske politike istimâlet
+dio tih Vlaha povratio se između 1528. i 1530. u svoja stara boravišta u vilajetu Hrvati, odnosno sandžaku Klis. Radilo se o vlaškoj skupini koja se više od pola stoljeća
+reverzibilno i ciklično kretala u prostoru imperijalnoga višegraničja, prelazeći u nova
+i vraćajući se u stara podaništva – osmanska, habsburška i mletačka. Na njihovu primjeru analiziraju se fenomeni koji su proizlazili iz dinamičnih i složenih odnosa na
+granici kao što su povratne migracije, nestabilna podaništva i ambivalentne lojalnosti.
+Riječ je o modusima koje je nametao nesiguran život na nemirnoj granici, a podrazumijevao je prilagodljive i kompromisne oblike djelovanja. Koristeći se osmanskim poreznim popisima iz 1528. – 1530., 1540., 1550. i 1574., propituju se njihove društvene,
+demografske, ekonomske i etnokulturne strukture, kao i uzroci njihova nestajanja kao
+prepoznatljive skupine u drugoj polovini 16. stoljeća.
+Ključne riječi: Vlasi, Morlaci, Ćići, migracije, podaništva, lojalnosti, rani novi vijek,
+Tromeđa, Osmansko Carstvo, vilajet Hrvati, sandžak Klis, Habsburška Istra, Kras,
+Pazinska grofovija, Bukovica, Ravni kotari, Mletačka Istra, Mletačka Dalmacija, zadarski distrikt
+
+Marko Šarić, Odsjek za povijest, Filozofski fakultet Sveučilišta u Zagrebu, Ivana Lučića 3, 10 000
+Zagreb, Republika Hrvatska, E-mail adresa: marko.saric2@zg.t-com.hr
+
+*
+
+180
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Uvod: vlaške seobe, nestabilna podaništva i ambivalentne lojalnosti
+na granicama imperija
+Osmanska ekspanzija u 15. i 16. stoljeću na hrvatske prostore uzrokovala je velika
+migracijska kretanja, nezabilježena još od vremena ranoga srednjeg vijeka, postavši konstantom tijekom cijele epohe ranomoderne povijesti, utisnuvši joj tako
+svoj neizbrisivi pečat. Dinamiku osmanskih pljačkaških upada, ratnih pohoda
+i osvajanja u stopu su pratili i migracijski procesi – vanjskih i unutarnjih, jednosmjernih i povratnih, masovnih i kapilarnih migracija odnosno spontanih i
+planskih kolonizacija. Granična fronta osmanske vojne ekspanzije bila je tijekom
+15. i 16. stoljeća u neprekidnom pomicanju prema sjeverozapadu, a njezin krajnji
+doseg bilo je područje oko Novigradskoga i Karinskoga mora u zadarskom zaleđu. Ondje su se osmanski teritoriji potpuno povezali s mletačkim teritorijima
+južno od Velebita, dok su stari politički i društveni okviri Hrvatskoga Kraljevstva na tom prostoru bili razbijeni utopivši se u osmanske pogranične provincije,
+vilajete i sandžake (Turska Hrvatska).1 Osmanska granica na duže se razdoblje
+ondje ustalila (oko 180 godina) i na razvalinama hrvatskoga srednjovjekovnog
+društva stvarala je svoje nove krajiške strukture. Premda je pojam Tromeđe (Triplex Confinium) geopolitički definiran tek krajem 17. stoljeća odredbama mira
+u Srijemskim Karlovcima, karakter trograničja stekao je još 1520-ih taj prostor
+u kontaktnoj jadransko-dinarskoj zoni Novigradskoga i Karinskoga mora, zbog
+čega bi se mogao u povijesnom kontekstu nazvati i prvom ili „izvornom Tromeđom”.2 To rano imperijalno osmansko-mletačko-habsburško trograničje imalo je
+svoje proširenje u velebitskom Podgorju i akvatoriju Velebitskoga kanala.3 Izvorna Tromeđa bila je u užem smislu omeđena područjem između Zadra, Knina i
+Egidio Ivetić, Granica na Mediteranu. Istočni Jadran između Italije i južnoslavenskog sveta od XIII
+do XX veka (Beograd: Arhipelag, 2015), 117.
+
+1
+
+Marko Šarić, „Vlasi na Tromeđi: suživot u sukobima u graničnim društvima i kulturama Morlakije (16.-17. stoljeće)”, (doktorska disertacija, Sveučilište u Zagrebu, 2010), 3-4, 11-12. O Triplex Confinium kao prostoru složenih i slojevitih društvenih, etnokulturnih i civilizacijskih struktura, odnosno o
+konceptu višegraničja (engl. multiple borderlands) kao teorijskom modelu i interpretacijskom okviru
+u istraživanju policentričnih struktura u pograničnim društvima i kulturama ranomoderne Hrvatske, vidi u: Drago Roksandić, Triplex Confinium ili o granicama i regijama hrvatske povijesti 15001800 (Zagreb: Barbat, 2003), 3-50.
+
+2
+
+Demarkacijska linija između Mlečana i Osmanlija postojala je samo na kopnenom dijelu granice
+u Ravnim kotarima. U Novigradskom i Karinskom moru te Velebitskom kanalu vladala je fluidnija
+situacija. Serenissima je doduše cijeli jadranski akvatorij načelno smatrala svojim unutarnjim vodama
+(nostro Gulfo), ali stvarnost ju je upravo na tom prostoru „tri mora” najčešće demantirala. Na izvornoj
+Tromeđi mletačka najvažnija uporišta bili su Novigrad i Posedarje, dok su s osmanske strane to bili
+Obrovac, Karin i nešto kasnije Islam. Podgorje je najvećim djelom bilo pusta „ničija zemlja” oko koje
+su se otimale sve tri strane, hrvatski krajišnici Senjske kapetanije, Osmanlije i Mlečani. Habsburška
+će strana ojačati tek nakon što su 1574. obnovili utvrdu u Karlobagu, koji će time postati i nova točka
+sporenja suprotstavljenih sila. Usp. Ive Mažuran, Karlobag 1251.-2001. (Karlobag: Općina Karlobag,
+2001), 29-30.
+
+3
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+181
+
+Senja.4 S izvornom Tromeđom usko je povezana i Morlakija, poznati asocijativni pojam iz ranomoderne kartografije. Izvorna Tromeđa i Morlakija pojmovi su
+koji korespondiraju, jedan kao povijesno-koncepcijski, drugi kao povijesno-geografski. Ti su prostori bili bez strogo fiksiranih granica, u kontekstu imagologija
+granica funkcionirali su kao specifična virtualna „transgranična regija”.5
+Vlaške seobe bile su neprekidna pojava u tom prostoru i prije nastanka izvorne Tromeđe, a potrajat će u kontinuitetu sve do 18. stoljeća. Upravo zahvaljujući svojoj pokretljivosti vlaška društva bila su istinski transgranični fenomen
+i nezaobilazan element svih vojnokrajiških sustava koji su se formirali na imperijalnom višegraničju.6 Svojim tradicijama pripadajućih im prava i povlastica i načinom života u pokretu, što je za posljedicu imalo nehajan odnos spram
+pograničnih režima, postali su prepoznatljivim čimbenikom objedinjavanja i
+zajedničke opstojnosti na tom politički konfliktnom trodijelnom prostoru („tri
+međe jednog prostora”).7 U početku je glavna pokretačka sila vlaških kolonizacija bila osmanska vlast, osobito u razdoblju dok se nastojala učvrstiti na novoosvojenom području u Hrvatskoj, u takozvanom vilajetu Hrvati između 1522.
+i 1537., odnosno kasnijem sandžaku Klis. Osmanlije su smišljenim političkim
+strategijama, posebice sustavom pridobivanja (istimâlet), zadobivali podršku
+vlaškoga stanovništva te ih vješto instrumentalizirali kao pomoćne vojne odrede
+na granici, martološkoga i derbendžijskoga tipa. Ti će kolonizacijski valovi koji
+su dolazili iz jugoistočne dinarske unutrašnjosti imati dalekosežne posljedice u
+kontekstu oblikovanja nove etnokulturne konfiguracije na tim prostorima. U početnom razdoblju posebno važnu ulogu imala je i rekolonizacija vlaških povratnika koji su izbjegli u druge zemlje, posebno na području Istre, što je i središnja
+tema ove studije. Osmanska osvajanja, naime, nisu uvijek nužno morala imati
+karakter diskontinuiteta, prepletala su se neizbježno i sa suradnjom i međusobnim utjecajem s drugom stranom. Vrlo brzo, već od 1530-ih, i protivničke strane,
+habsburška i mletačka, primjenjuju sličnu kolonizacijsku politiku, odnosno model pridobivanja vlaškoga pograničnog stanovništva, nastojeći ih stimulativnim
+mjerama, svaka na svoj način, pridobiti na svoju stranu. Kad k tomu dodamo
+Roksandić, Triplex Confinium, 19-22. Mikrotoponimija ovoga prostora i danas zorno svjedoči o
+tom prošlom vremenu „međa” i „kunfina”, krajina, frontijera i serhata: oronimi Bojnik (kod ušća
+Zrmanje u Novigradsko more) i Senjan (u Kruševu), sela Islam Latinski i Grčki (nastalo od sedd-i
+Islam, „bedem islama”), Kula Atlagića, Kapetan-stan (u blizini Novskoga ždrila), Fortica (na južnom
+rtu otoka Paga kod Ljubačkoga tjesnaca), Stara kula (Starigrad-Paklenica) te nazivi nekadašnjih graničnih oznaka poput Zelenoga Hrasta, Turske gomile, Babina Duba.
+
+4
+
+Marko Šarić, „Višegraničje i modeli kulturne povijesti: izazovi i perspektive kulturnopovijesnog
+istraživanja vojnih krajina u ranom novom vijeku”, u: Franz Vaniček i vojnokrajiška historiografija,
+ur. Robert Skenderović i Stanko Andrić (Slavonski Brod: Hrvatski institut za povijest, Podružnica za
+povijest Slavonije, Srijema i Baranje, 2017), 47.
+
+5
+
+6
+
+Šarić, „Višegraničje i modeli kulturne povijesti”, 47.
+
+7
+
+Šarić, „Višegraničje i modeli kulturne povijesti”, 47.
+
+182
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+„migrantsku kulturu” Vlaha, obilježenu sezonskim stočarskim kretanjima polunomadskoga ili transhumantnoga tipa, prekogranične migracije nisu bile samo
+posljedica ratnih zbivanja i konfliktnih političkih strategija sučeljenih imperija
+(„odozgo”), nego su podjednako bila motivirana internim vlaškim interesima i
+društveno-gospodarskim dinamikama „odozdo”.
+S obzirom na pokretljivost vlaških stočarskih skupina, primjena načela prostorne
+ili teritorijalne valjanosti prava i zakona, u što dakako spada i pitanje podaništva,
+u praksi je kod vlaških zajednica uvijek nailazila na poteškoće. Pojmu podaništva blizak je i pojam lojalnosti, koja je na višegraničju uvijek bila na iskušenju.
+Pokornost i vjernost kao pravne i moralne norme kojih se svaki podanik morao
+pridržavati u predmodernom društvu nisu bile uvijek u skladu s običajnim normama vlaških društava. Vlasi su, naime, sebe prije svega smatrali „slobodnim
+ljudima nikome podložnim”.8 Činjenica njihova posebnoga društvenog položaja
+i običajne samouprave davala im je pravo da slobodno upravljaju po vlastitim zakonima ili običajima i da prema van nastupaju kao jedno tijelo. Ta „gorštačka sloboda” (sloboda u smislu privilegija i pravno-fiskalnoga imuniteta) omogućila im
+je autonomiju pri donošenju odluka i djelovanje prema vlastitim interesima. U
+pogledu mentalitetskih struktura, to je kultura koja je nepokorna geometrijskim
+prostorima i svakoj formaliziranoj vlasti. Stočar nomad ili polunomad opire se
+granicama i svemu što ga sputava, treba mu slobode i prostora, i još prostora.
+Na hrvatskom prostoru u 16. stoljeću sučelila su se tri različita imperijalna sustava, svaki sa svojim posebnim političko-društvenim ustrojstvom i povijesno-pravnim tradicijama, a time i različitim koncepcijama podaništava i lojalnosti. Zajedničko im je međutim bilo, i zapadnoeuropskoj (rimskoj) i islamsko-orijentalnoj
+pravnoj tradiciji, opće načelo da svaki pojedinac u krajnjoj liniji podliježe jednom
+autoritetu, odnosno vladaru koji je simbolizirao državnu vlast.9 U habsburškim
+zemljama u 16. stoljeću podvrgnutost pojedinca vladaru bila je određena prema
+teritorijalnoj i personalnoj dimenziji važenja prava, ovisno već o oblicima osobne
+ovisnosti, odnosno statusu slobodnih ili zavisnih, te odnosa vazaliteta i podaništava. Pojavom modernih teorija o suverenitetu i razvojem ranomoderne države
+pomalo se afirmira i ideja da bi podanici (Untertanen) trebali biti neposredno
+podvrgnuti vlasti države. Mletačka Republika po svojem je ustroju bila „impeČuvena izjava jednoga humskog Vlaha dana u Dubrovniku 9. kolovoza 1436. (Esse hominem liberum et nemini fore obligatum). Sima M. Ćirković, Herceg Stefan Vukčić-Kosača i njegovo doba (Beograd: Naučno delo, 1964), 272-273.
+
+8
+
+Obje tradicije isticale su također dužnost podanika na lojalnost i poslušnost vladaru. Premda je
+rimsko pravo poznavalo instituciju „privremenoga podanika” (subditus temporarius), kojoj je donekle
+analogna institucija mustemeni u islamskom pravu (stranci nemuslimani koji privremeno borave na
+području islamske države i podliježu zakonu zimija), dvostruka ili višestruka podaništva i lojalnosti
+bili su načelno neprihvatljivi. F. H. Hinsley, Suverenitet (Zagreb: August Cesarec, 1992); Ekmeleddin
+Ihsanoğlu, Historija osmanske države i civilizacije (Sarajevo: Orijentalni institut u Sarajevu, 2004),
+581-583.
+
+9
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+183
+
+rijalna republika” koja je podčinila svojoj vlasti mnoge druge urbane i ruralne
+komune na Sredozemlju, pri čemu je venecijanska komuna kao metropola uživala hegemonijski položaj (Dominanta).10 Takav ustroj doveo je do svojevrsnoga
+„rangiranja” podaništava ovisno o staleškoj pripadnosti i/ili privrženosti gradu
+na laguni.11 Prema osmanskom shvaćanju, svi stanovnici i zemlja u državi pripadali su sultanu. Postojala su doduše dva osnovna staleža: podanici (raja) i vojnici
+(asker); drugim riječima, i ovdje je vrijedilo načelo da „oni kojima se vlada, budu
+oštro odvojeni od onih koji su vladali”, ali svi su podjednako bili podvrgnuti
+sultanovu apsolutnom autoritetu. Jedini izvor moći bila je „sultanova volja i delegacija”, odnosno poslovica „Sultan je država” imala je doslovno značenje.12
+Pogranična rubna područja predstavljala su veliki izazov državnom autoritetu
+u 16. stoljeću. Prakse na granici često su odudarale od normativnih poredaka
+ranomoderne države koja je još uvijek bila prilično slaba, pa stoga i prisiljena ponekad popuštati i taktizirati. Dinamika sukoba na Tromeđi, nedostatak efektivne
+kontrole središnje vlasti, strategije preživljavanja na granici, kao i oportunističke
+mogućnosti izbora što ga pruža višegraničje, stvarali su fenomene nestabilnoga
+podaništva i s tim povezane ambivalentne lojalnosti.13 Radilo se o modusima
+koje je nametao nesiguran život na nemirnoj granici, a podrazumijevao je prilagodljive i kompromisne oblike djelovanja (u interpretaciji vojnokrajiških elita
+ono je zadobilo negativnu konotaciju izraženu sintagmom „vlaška nevjera”). Nestabilna podaništva i ambivalentne lojalnosti najviše su dolazili do izražaja u fenomenima prekograničnih seoba – „uskakanja”, odnosno u fenomenima prebjega i bjegunstva (transfuga, desertor). Premda je vlaško stanovništvo prednjačilo
+u promjenama lojalnosti i podaništva, u tome nisu mnogo zaostajali ni drugi
+društveni slojevi. Naime, ta pojava nije bila sasvim strana ni predstavnicima elita
+na krajinama 16. stoljeća.14 U habsburškoj i mletačkoj državi različito se gledalo
+Usp. Luciano Pezzolo, „Venetian empire”, u: The Oxford World History of the Empire, Vol. 2: The
+History of Empires, ur. Peter Fibiger Bang, C. A. Bayly i Walter Scheidel (Oxford: Oxford University
+Press, 2021), 621-645.
+
+10
+
+Stanovništvo Mletačke Republike koje pravno nije pripadalo venecijanskoj komuni ulazilo je u
+rang podanika (suditti veneziani), pri čemu treba razlikovati one „zaslužne” ili privilegirane podanike (honorati, benemeriti, graziati), ustanove koje su bile u funkciji zadobivanja lojalnosti, od običnih
+podanika.
+
+11
+
+Halil Inalcık, Osmanlije: osvajanje, Osmansko Carstvo, odnosi s Evropom (Sarajevo: Connectum,
+2020), 75-76.
+
+12
+
+Šarić, „Višegraničje i modeli kulturne povijesti”, 47; Damir Stanić, „Ambivalentna lojalnost na
+Hrvatskoj krajini u 16. stoljeću”, u: Franz Vaniček i vojnokrajiška historiografija, ur. Robert Skenderović i Stanko Andrić (Slavonski Brod: Hrvatski institut za povijest, Podružnica za povijest Slavonije,
+Srijema i Baranje, 2017), 121-142.
+
+13
+
+Na izvornoj Tromeđi dobro su poznati slučajevi iz 16. stoljeća prelaženja na osmansku stranu i
+prihvaćanje islama kneza Damjana Klokočića (1523.) i knezova Stjepana i Frane Posedarskog ili pak u
+Slavoniji plemića Svetačkih (1540.) i zagrebačkoga kanonika Franje Filipovića (1578.). Stanić, „Ambivalentna lojalnost na Hrvatskoj krajini u 16. stoljeću”, 135-136; Dino Mujadžević, „Obitelj Svetački u
+
+14
+
+184
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+na te pojave „nevjere” i „izdaje”, ovisno već o društvenom i staleškom podrijetlu počinitelja.15 U cilju uvođenja reda i discipline u Hrvatsko-slavonskoj krajini
+uveden je 1578. poseban vojni red (Kriegsrecht), kojem su podlijegale plaćeničke
+vojne posade i plemstvo u vojnoj službi, a koji je određivao „smrtnu kaznu za
+svaki oblik izdaje i špijunaže, za krađe i napade na trgovce, za dezerterstvo i bijeg pred neprijateljem”.16 Na osmanskoj strani razlika je prvenstveno proistjecala
+iz vjerske pripadnosti prebjega. Prelaženje muslimana na nevjerničko „područje rata” značilo je isto što i otpadništvo od vjere (riddet, irtihad), što je najveći
+mogući delikt prema šerijatskom pravu, a počinitelju (murteded), bez obzira na
+društveni položaj, podrijetlo i imovinsko stanje, slijedila je smrtna kazna.17
+Konfliktne strategije i kolonizacijske politike imperijalnih sila stvarale su također
+preduvjete da se stanovništvo na granici nađe de facto u položaju nestabilnoga ili
+dvojnoga podaništva i ambivalentne lojalnosti. Običaj ubiranja „uskočke filurije” koju su Senjani prakticirali na širokom osmanskom pograničnom području
+od Like do ušća Neretve nastao je iz potrebe za pljačkom, ali se time afirmirala
+prekogranična suradnja i ograničavalo neprijateljstva, što se često događalo na
+izvornoj Tromeđi, poput sporazuma Senjana i „Turaka Karinjana” iz 1583.18 I
+dugogodišnji spor oko mletačko-osmanskoga razgraničenja u Dalmaciji, koji je
+nastao nakon svršetka rata 1540. i potrajao nekoliko desetljeća, stvorio je dugački
+teritorijalni pojas od stotinjak sela u neposrednom zaleđu Zadra, Šibenika i Trogira u kojem se stanovništvo našlo de facto u poziciji dvostruke lojalnosti.19 Te
+osmanskoj službi”, Povijesni prilozi 42 (2023), br. 65: 107-134; Fazileta Hafizović, „Različite refleksije o
+osvajanju srednjodalmatinskog zaleđa”, Anali Gazi Husrev-begove biblioteke 20 (2013), br. 34: 103-115.
+U slučaju plemića, bijeg preko granice k drugoj zaraćenoj strani smatrao se činom izdaje kralja (felonia, proditio, crimen laesae maiestatis), a u mletačkom slučaju izdajom domovine (traditor patriae,
+alto tradimento), i kažnjavao smrću. S obzirom na sve veću ulogu države u životu podanika u Europi
+u ranom novom vijeku, svako otpadništvo od vladara smatralo se teškim zločinom – izdajničkim
+činom – pogotovo u slučajevima plemićke nevjere zbog ozbiljnih političkih posljedica. Mletačka vlast
+također je strogo sankcionirala svako otpadništvo i izdajstvo svojih građana i podanika, koji bi se
+time našli na udaru državnih institucija poput Vijeća desetorice. Ako se radilo o nekom višerangiranom Mlečaninu, dospio bi pod nadležnost posebnoga ureda istražitelja protiv odavanja javnih tajni
+osnovanog 1539. (Inquisitori contro i propalatori dei pubblici sergeti). Usp. Martin Lowry, „The Reform
+of the Council of Ten: An unsettled Problem”, Studi Veneziani XIII (1971): 275-310; Gaetano Cozzi,
+Michael Knapton, Giovanni Scarabello, Povijest Venecije, sv. II (Zagreb: Antibarbarus, 2007), 214-215.
+15
+
+Nataša Štefanec, Država ili ne. Ustroj Vojne krajine 1578. godine i hrvatsko-slavonski staleži u regionalnoj obrani i politici (Zagreb: Srednja Europa, 2011), 426-427.
+
+16
+
+Usp. E. Natalie Rothman, Brokering Empire: Trans-Imperial Subjects between Venice and Istanbul
+(Ithaca: Cornell University Press, 2012)
+
+17
+
+Catherine Wendy Bracewell, Senjski uskoci. Piratstvo, razbojništvo i sveti rat u šesnaestom stoljeću,
+prev. Nenad Popović i Mario Rosini (Zagreb: Barbat, 1997), 190.
+
+18
+
+O problemu mletačko-osmanskoga razgraničenja u Dalmaciji 16. stoljeća vidi u: Seid M. Traljić,
+„Zadar i turska pozadina od XV. do potkraj XIX. stoljeća”, u: Grad Zadar. Presjek kroz povijest, ur.
+Grga Novak (Zadar: Institut JAZU u Zadru, 1965), 213-216; Ivna Anzulović, „Razgraničenje između mletačke i turske vlasti na zadarskom prostoru 1576. godine, nakon Ciparskog rata”, Zadarska
+
+19
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+185
+
+pojave nisu se odnosile samo na kolektivitete, nego su osobito bile prisutne i na
+individualnoj razini, kao u primjerima doušništva i špijunaže, prekograničnoga
+krijumčarenja i banditizma.
+Dobar primjer za analizu navedenih dinamičnih fenomena na izvornoj Tromeđi
+u 16. stoljeću vlaška je skupina poznata pod imenom Vlasi Istre iz osmanskih
+izvora (Eflâkân-i Istryia), odnosno Morlaci Istrije (Morlachi istriani) na mletačkom području. U izvorima se mogu pratiti od 1528. do oko 1585., kad nestaju kao
+prepoznatljiva skupina. Riječ je o skupinama hrvatskih Vlaha koji su početkom
+16. stoljeća izbjegli na područje habsburške Istre i Krasa, a na poziv osmanskih
+krajiških vlasti 1528. vratili su se u stari zavičaj u Podgorje, Bukovicu i Ravne
+kotare. Radilo se o vlaškoj skupini koja se više od pola stoljeća reverzibilno i ciklično kretala u prostoru imperijalnoga višegraničja, prelazeći u nova i vraćajući
+se u stara podaništva, habsburška, osmanska i mletačka. Bili su najdinamičniji
+migracijski element na ovom dijelu granice u 16. stoljeću ili, riječima Damira
+Stanića, „putešestvija Vlaha Istrije dobro su poznat primjer kretanja s jedne na
+drugu imperijalnu stranu”.20 Možemo ih stoga smatrati paradigmom prekogranične „kulture migriranja”, uskakanja i mijenjanja podaništva. U svojim seobama prevaljivali su velike udaljenosti, bilo da su se kretali kopnom uzduž primorske strane Velebita, Vinodola i Kastva ili morem, prebacujući se lađama iz
+Zadra, Ljubača i Pontadure (otok Vir) u pristaništa južne Istre i obratno. Radilo
+se, dakle, o pravim organizacijskim pothvatima koje su u prvom redu poticale i
+usmjeravale imperijalne kolonizacijske politike. Prema mišljenju Egidija Ivetića, migracije vlaških zajednica u 16. i 17. stoljeću koje su neprestano pritjecale s
+osmanskoga teritorija u „skučenu okolicu Zadra i Šibenika u Dalmaciji” i preusmjeravane u Istru bile su složene operacije, vjerojatno jedne od najvažnijih te vrste na tadašnjem Mediteranu.21 Svojevrsna pretpovijest te vlaške skupine počinje
+u prvim desetljećima 16. stoljeća, kad se pred osmanskom opasnošću iseljavaju
+iz Hrvatske prema sjeverozapadu, a kulminacija je bila između 1518. i 1523., kad
+se naseljavaju po brdskim predjelima i visoravnima sjeverne Istre, na Krasu i u
+Notranjskoj.22
+smotra: časopis za kulturu, znanost i umjetnost 47 (1998), br. 1-3: 53-150; Snježana Buzov, „Vlaška
+sela, pašnjaci i čifluci: krajolik osmanlijskog pograničja u šesnaestom i sedamnaestom stoljeću”, u:
+Triplex Confinium (1500-1800): ekohistorija, ur. Drago Roksandić et al. (Split; Zagreb: Književni krug
+Split; Zavod za hrvatsku povijest Filozofskog fakulteta Sveučilišta u Zagrebu, 2003), 227-241; Kristijan Juran, „Doseljavanje Morlaka u opustjela sela šibenske Zagore u 16. stoljeću”, Povijesni prilozi 33
+(2014), br. 46: 138-150.
+20
+
+Stanić, „Ambivalentna lojalnost na Hrvatskoj krajini u 16. stoljeću”, 131.
+
+21
+
+Ivetić, Granica na Mediteranu, 103.
+
+Prva i dosad jedina studija koja je u cijelosti posvećena ovom fenomenu iz osmanske perspektive
+rad je splitske osmanistice Snježane Buzov iz 1990. godine. Buzov je otvorila mnoga istraživačka pitanja u vezi s tom vlaškom skupinom osmanskih podanika, koju naziva „Vlasima Istrije” (Eflâkân-i
+Istriya), od njihova nastanka, ishodišnoga područja, vremena doseljavanja, unutarnje organizacije,
+konfesionalne i etničke pripadnosti do onomastičkih karakteristika (Snježana Buzov, „Vlasi Istrije
+
+22
+
+186
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Vojno-politička strategija istimâlet u Hrvatskoj i nastanak
+fenomena Vlaha Istre
+Osmanlije su između 1522. i 1527. nakon dugogodišnjega pustošenja i razaranja
+akindžija izveli odlučan prodor u Hrvatsku i osvojili velike dijelove njezina nekad središnjega povijesnog prostora (oko 12.000 km²). Nestale su stare hrvatske
+župe i plemićke općine, „banska zemlja” (mlet. Banadego) i krbavsko kneštvo, a
+Kninska i Krbavsko-modruška biskupija ostadoše samo naslovnim dijecezama
+bez župa i vjernika. Ta su područja priključena Osmanskom Carstvu, koje formira takozvani vilajet Hrvati (Vilâyet-i Hirvat). Bila je to provizorna vojno-upravna
+jedinica, tada na zapadnom krajištu sandžaka Bosne, koja je obuhvaćala prostrano područje od donje Cetine na jugoistoku do Like i Krbave na sjeverozapadu,
+uključujući područje visokih kraških polja u jugozapadnoj Bosni te gornje Pounje s Uncem. Bosanski sandžakbeg Gazi Husrev-beg i njegov pomoćnik, subaša
+Murat-beg Gajdić (po starom Tardić),23 koji je upravljao vilajetom Hrvati, odmah
+su počeli s ustrojem nove osmanske krajine (serhata), i to u tri aspekta: organiziranjem jakih garnizona u nekoliko strateški važnih utvrda, izgradnjom flote u
+Obrovcu i Skradinu te kolonizacijom novoga ili povratničkoga stanovništva. U
+cilju učvršćenja vlasti na toj krajnjoj zapadnoj periferiji Carstva, Gazi Husrev-beg
+i Murat-beg počinju s planski organiziranom kolonizacijom kojom iz jugoistočne
+dinarske unutrašnjosti počinju doseljavati vlaške skupine, pretežno iz Hercegovine te nekih dijelova Bosne. Međutim, u kolonizaciji teritorija zapadno od rijeke Krke najviše se oslanjaju na istimâlet politiku pridobivanja izbjegloga staroga
+vlaškog stanovništva iz Hrvatske, koje je prethodnih godina izbjeglo u sjevernu
+Istru i na Kras. Osmanska osvajačka strategija bila je svojevrsna kombinacija surovoga „psihoneurotičnog rata” koji je za cilj imao sijanje nasilja i straha, izraženog osobito u sustavnim provalama i pustošenjima neprijateljskoga područja
+na području sjeverne Dalmacije u popisnim defterima 16. stoljeća”, Prilozi za orijentalnu filologiju 40
+(1990): 243-257). Važan doprinos u najnovije vrijeme rad je Kristijana Jurana koji se istraživački fokusirao na mletačke „Morlake Istrijane” zadarsko-vranskoga područja, svojevrsni produkt i pandan
+osmanskih Vlaha Istre s druge strane granice. Koristeći se ponajprije građom zadarskoga arhiva, napose
+zadarskih notarskih spisa, na lokalnoj, gotovo mikrorazini prati i rekonstruira fenomene kontinuiteta i
+dinamika morlačkih kretanja u tom prostoru od kraja 14. stoljeća do Ciparskoga rata. Juran je stava da
+je „u kontekstu osmanistike primjereno rabiti naziv Vlasi Istre, kao što je u kontekstu venecijanistike
+opravdano koristiti istoznačnu sintagmu Morlaci Istrijani”. Kristijan Juran, „Migracije Morlaka/Vlaha
+na zadarskom pograničju tijekom 15. i 16. stoljeća s posebnim osvrtom na vransko područje te pojavu
+Morlaka Istrijana / Vlaha Istre”, Miscellanea Hadriatica et Mediterranea 9 (2022): 33-72. Vidi i: Dana
+Caciur, „Considerations regarding the Morlachs migrations from Dalmatia to Istria and the Venetian
+settlement policy during the 16th century”, Balcanica Posnaniensia XXII (2015): 57-70; Dana Caciur,
+„Migrantii spontane si organizate în teritoriul Zarei (Zadar-ului) la mijlocul secolului al XVI-lea. Cazul
+morlacilor istrieni”, Studii si materijale de istorie medie 34 (2016): 73-104.
+O podrijetlu i obliku prezimena toga istaknutoga osmanskog vojskovođe hrvatskoga podrijetla
+vidi u: Kristijan Juran, „O podrijetlu i šibenskoj rodbini prvog kliškoga sandžakbega Murat-bega
+Gajdića”, Prilozi za orijentalnu filologiju 66 (2016): 231-239.
+
+23
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+187
+
+(akin, yâgma), s politikom pridobivanja i popustljivosti prema stanovništvu na
+granici, odnosno sklapanja interesnih kompromisa, sporazuma, obećanja i jamstava, tzv. istimâletom.24 Koliko god da je osmanska politika tijekom osvajanja
+Hrvatske bila surova i razarajuća, kad su zauzeli njezin središnji dio, prešli su, uz
+pomoć svojih glasnika, na taktiku pridobivanja i nagovaranja izbjegloga stanovništva na povratak.25 Primjena istimâlet politike može se pratiti još od 14. stoljeća
+i vremena vladavine sultana Murata I. i karakterizirala je osmanska osvajanja na
+Balkanu i u srednjoj Europi cijelo 15. i 16. stoljeće. Halil Inalcık isticao je da je
+osmansko osvajanje Balkana teklo brzo upravo zbog takve politike i zato što se
+seljaštvo u otporu nije priključilo svojim velikašima.26
+Ta se strategija uspješno primjenjivala i na područjima hrvatskih zemalja koje
+su se našle na udaru osmanske ekspanzije. Pored u historiografiji dobro poznatih događaja iz 1536. i 1537., kad je prilikom osvajanja Požege i Donje Slavonije
+došlo do masovnoga prelaženja zavisnoga seljaštva na osmansku stranu (poslije
+poznati kao Predavci), ova pojava posebno je bila izražena na pravcima osmanske ekspanzije u zaleđu istočnojadranske obale. Sve kategorije stanovništva, bilo
+da se radilo o seljacima ili vlaškim stočarima, vojnicima ili plemićima, bile su
+podjednako predmet interesa politike pridobivanja i suradnje. Posebno mjesto
+u istimâletu imali su dinarski Vlasi, prema kojima osmanski pogranični zapovjednici vode osmišljenu politiku pridobivanja, vješto koristeći njihove vojničke
+i mobilne potencijale, nepovoljno držanje ili nezadovoljstvo gospodarima, pozivajući ih i integrirajući u svoj vojnokrajiški sustav kao pomoćne vojne odrede
+martološkoga tipa, kao derbendžije (čuvari klanaca), vodiče (kalauzi) i doušnike
+obavještajce (haberdari). Na primjerima migracija i islamizacije u Bosni Medžida
+Selmanović posebno je skrenula pozornost na tu osmišljenu strategiju osmanske
+politike prema vlaškim stočarskim skupinama u cilju učvršćenja svoje vlasti na
+granici.27 Iz osmanskoga popisa za sandžak Hercegovinu 1477. doznajemo da su
+se vlaške skupine s područja zapadno od rijeke Neretve, pod vodstvom vojvoda
+Vladimira i „Dadoja” (vjerojatnije Radoja), na osmanski poziv povratile u mostarsku i humsku nahiju, odnosno na područje Blata, Brotnja, Veljaka, Imotskog
+Sedad Bešlija, Istimâlet. Bosna u osmanskoj političkoj strategiji (15. i 16. stoljeće) (Univerzitet u
+Sarajevu; Institut za historiju Sarajeva, 2017), 17-42.
+
+24
+
+Politiku „pridobivanja naklonosti” često se povezuje i s nekim drugim pojmovima kao što su
+adâlet (pravda), müdârâ (pretvaranje, hinjenje, sračunato taktiziranje), iskân (naseljavanje, razmještanje), tergib (potaknuti, motivirati, zainteresirati) i afv-merhâmet (milosrdnost, blagost). Bešlija,
+Istimâlet, 33.
+
+25
+
+26
+
+Bešlija, Istimâlet, 43.
+
+„U masama etničkih vlaških grupacija iz Hercegovine, tursko-osmanski kreatori politike su našli
+onu kvantitativnu snagu koja će tokom 16. vijeka stvoriti jedan osoben medij izmiješanosti sa etničkim slavenskim življem iz koga će u procesu islamizacije i biološkog miješanja izrasti jedan novi
+društveni kvalitet na prostorima Bosne” (Medžida Selmanović, „Uticaj tursko-osmanske politike na
+islamizaciju u Bosni”, Prilozi za orijentalnu filologiju 41 (1991): 88).
+
+27
+
+188
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+i Radobilje (…„od ranije su to bile njihove baštine pa su ponovo došli pod tim
+uvjetom”). Sklopljen je tada ugovor između hercegovačkoga sandžakbega Hamze-bega i mostarskoga vojvode Sinana-bega s vlaškim vojvodom Vladimirom,
+koji je došavši „na vjeru” od spomenutih begova dobio baštine i mlinove u okolici tvrđave Mostar, Ljubuški i Imotski, ali uz uvjet da živi u „carskoj zemlji”,
+navedene zemlje kultivira i „koliko god se nevjernika vrati da ih naseli”.28 Fra
+Augustin Vlatković, pripadnik katoličke bosansko-humske vlasteoske obitelji
+Jurjević-Vlatković, koja je u kasnom srednjem vijeku držala posjede u zapadnoj
+Hercegovini (zapadni Hum i Krajina), oko 1482. stupio je u službu Osmanlija
+dovodeći sa sobom i svoje seljačke i vlaške podanike. Upravljao je vojvodalukom
+Gornje Primorje, Gorska župa i Ljubuški na zapadnom krajištu sandžaka Hercegovine (poslije nahije Fragustin, Primorje i Ljubuški).29 Raznim povlasticama
+nastojalo se pridobiti stanovništvo za život na osmanskoj granici. U slučaju Livna
+1489., tada grada na isturenoj granici, navodi se da tko god se naseli u to mjesto
+prve tri godine neće plaćati ništa, a nakon isteka trogodišnjega razdoblja davat će
+filuriju.30 I Poljičko kneštvo, koja se do 1540. nalazilo pod mletačkom formalnom
+vlašću, tijekom dužega etapnog razdoblja na kraju se podčinilo Osmanlijama na
+način „pridobivanja”. Najprije je još 1470-ih došlo do kolaboracije nekih Poljičana s Osmanlijama u Hercegovini tako što su se pridruživali martolosima u njihovim pljačkaškim upadima na kršćanski teritorij u Hrvatskoj, što se moralo strogo
+sankcionirati i Poljičkim statutom.31 Međutim, unatoč zabranama, nastavila se
+suradnja s osmanskim pograničnim vlastima u Hercegovini, posebno za vrijeme
+mletačko-osmanskoga rata 1464. – 1479., kad su Poljičani povremeno postajali „haračarima”, što je uvaženo i člankom 20. statuta donesenim 1475. godine
+(„Tko je vojvoda poljički ne mora nikakav danak plaćati, osim desetine, vražde
+i harača kad se daje Turcima…”).32 Taj je harač još 1479. pobirao mostarski vojvoda. Na osmanski poziv 1506. odbjegli su neki Poljičani na osmanski teritorij.
+Među njima je bio i Ivaniš Nenadić, brat tadašnjega mostarskog vojvode.33 Iz Poljica je bio rodom i hercegovački sandžakbeg Mehmed-beg, koji je početkom 16.
+Poimenični popis sandžaka vilajeta Hercegovina, prir. Ahmed Aličić (Sarajevo: Orijentalni institut
+u Sarajevu, 1985), 82.
+
+28
+
+Hazim Šabanović, Bosanski pašaluk. Postanak i upravna podjela (Sarajevo: Svjetlost, 1982), 190191; Bešlija, Istimâlet, 75.
+
+29
+
+Snježana Buzov, „Vlasi u bosanskom sandžaku i islamizacija”, Prilozi za orijentalnu filologiju 41
+(1991): 107.
+
+30
+
+Članak 23a. statuta kaže: „I prijaše Poljičane svi jedno i zapovidoše svim plemenitim vlastelom i
+didićem i kmetićem i vlašićem, ki bi koli s Turci pošli na vojsku ili s martolosi da didić ima se uhititi
+i vlastelčić i obisiti, a gibuće sve u općinu, a bližnjemu plemešćina; a kmetić i vlašić ki bi se naša da s
+Turci vojuje ili s martolosi da se ima uhititi i obisiti, a imanja njegova polovini općini, a polovina gospodinu njegovu. Taj se razumi tko grede, glavom je dužan, a ina čeljad da ni dužna glavom.” (Miroslav
+Pera, Poljički statut (Split: Književni krug, 1988), 422).
+
+31
+
+32
+
+Pera, Poljički statut, 420.
+
+33
+
+Šabanović, Bosanski pašaluk, 191.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+189
+
+stoljeća pozivao rođake da mu dođu.34 Upravo rođačke veze „novih muslimana” s kršćanskim srodnicima na granici bile su dio razrađenoga sustava kojim
+se željelo utjecati na stanovništvo na granici da se prikloni osmanskoj državi.
+Takve posebne, pa i srodničke veze koje su postojale između stanovnika Poljica i osmanskih posada u Hercegovini na kraju su rezultirale i pobunom 1508.
+protiv mletačke vlasti, ali pokušaj da prijeđu pod osmansko okrilje bio je tada
+privremeno osujećen. Podaci nam govore da su Poljičani i pored nominalne mletačke vlasti sudjelovali u osmanskoj vojnoj organizaciji. U veljači 1514. splitski
+knez Ivan Antonio Dandolo uputio je vijest mletačkom Senatu da su se Poljičani
+pokorili sultanu uz privolu plaćanja harača i da je sultan naredio pokrajinskim
+namjesnicima da lijepo postupaju s njegovim novim podanicima.35 Ubrzo nakon
+što su Osmanlije zauzeli utvrdu Nutjak na Cetini, devet je „vlaških džemata”
+1516. pridobivanjem (istimâlet) prešlo iz „nahije Poljica” na osmansko područje
+u Radobilji, da bi se pod konačnom osmanskom vlašću Poljica našla po svršetku
+mletačko-osmanskoga rata 1537. – 1540. u statusu vlaške nahije u sastavu sultanova hasa u sandžaku Hercegovini.36
+Strategija istimâleta početkom 16. stoljeća dobro je poznata i Vlasima u Hrvatskoj, na prostorima sjeverozapadno od donje Cetine i približne crte Nutjak – Čačvina. U ozračju općega ratnog pustošenja ne čudi da je i ovdje dolazilo do kontakata vlaških skupina s osmanskim krajiškim vlastima. Kao rezultat pridobivanja,
+ujesen 1514. više stotina „seljačkih i pastirskih obitelji” s područja Odorjana,
+Hotuče i Krbave, posjeda kneza Ivana Karlovića, koji je također povremeno bio
+osmanski haračar, prebjeglo je u zapadnu Bosnu na osmanski teritorij.37 Bila je to
+posljedica agitacije Osmanlija, koji su u rujnu iste godine teško oplijenili posjede
+kneza Ivana Karlovića, odvevši sa sobom 3000 zarobljenika i mnoštvo stoke.38
+Stanje općega rastrojstva u kojem su gubitak moći i ugleda vladajućih struktura
+Osmanlije vješto koristili za pridobivanje novih podanika oslikava i dramatičan
+govor kapelana Stjepana Posedarskog održan pred papom Leonom X. u Rimu
+1519. uime njegova gospodara Ivana Karlovića, krbavskoga kneza:
+(…) Ne mogu ti ispripovjediti sva turska lukavstva i sve njihove spletke, prelazim
+preko okrutnosti što ih nad nama čine. Ne zna se da li nas više zlostavljaju svojom
+silovitošću ili varkama i spletkama. Osvojenim tvrđavama i gradovima stavljaju na
+čelo vojvode koji obećanjima i posjedima primamljuju kršćanske podanike da im
+budu podložni. Jao, žalosti, preblaženi Oče, kršćani već sklapaju brakove s Turcima
+34
+
+Šabanović, Bosanski pašaluk, 191.
+
+35
+
+Pera, Poljički statut, 70.
+
+36
+
+Šabanović, Bosanski pašaluk, 191-192.
+
+Marko Šarić, „Lovinački kraj na razmeđu epoha u XVI. stoljeću: nahija Cvituša prema osmanskom
+popisu iz 1585. godine”, Radovi Zavoda za hrvatsku povijest Filozofskog fakulteta u Zagrebu 55 (2023),
+br. 2: 145.
+
+37
+
+38
+
+Šarić, „Lovinački kraj na razmeđu epoha”, 145.
+
+190
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+i tako se s njima slažu da moj gospodar s pravom mora sumnjati da li uopće živi
+među kršćanskim podanicima. Mogu ti potvrditi premilostivi Oče, da se on više
+boji neprijateljskih varki, nego njihova oružja…39
+
+Vjerojatno su se već tijekom osvajanja hrvatskih područja između 1522. i 1527.
+osmanski zapovjednici odlučili za pridobivanje izbjegloga stanovništva, jamčeći
+im sigurnost života i imovine. U slučaju Vlaha posebno su bila privlačna obećanja o korištenju velikih pašnjačkih površina s obzirom na to da su osmanskim
+osvajanjima nestajale granice i time se otvarale mogućnosti za razvoj ekstenzivnoga stočarstva. Osmanski pogranični zapovjednici iz iskustva (a u nekim
+slučajevima i zbog podrijetla) dobro su razumjeli logiku razmišljanja sezonskoga
+stočara i mogli su lako prepoznati njihovo nezadovoljstvo koje se javljalo u novim
+habitatima zbog problema ograničene ispaše.40 Kontakte vlaških izbjeglica u Istri
+i na Krasu s Osmanlijama, kao i njihove povratne seobe u Hrvatsku, zbog nedostatka izvora još uvijek ne možemo sasvim rekonstruirati i pratiti u detaljima.
+Tek u grubim crtama možemo pratiti događaje koji im prethode i koji ih uzrokuju, kao i osnovne migracijske pravce. U kontekstu prvih veza i pregovora svakako
+treba spomenuti događaj iz 1524. u okolici Rašpora u Istri. Mletački providur
+Dalmacije Andrea Civran te potestat i kapetan Kopra Zuane Minoto izvijestili su
+u srpnju 1524. Vijeće desetorice u Veneciji da je izvjesni Morlak po imenu Tomaš
+Ružić (Tomaso Rozic) iz sela Vodica kod Rašpora bio u dosluhu s bosanskim sandžakbegom Gazi Husrev-begom. Ružić je navodno obećao sandžakbegu da će
+100 vlaških obitelji prevesti na osmansku stranu, koje bi mu služile kao vodiči u
+provalama u Istru i na Kras.41 Kako se radilo o habsburškom podaniku,42 Minoto
+ga je dao namamiti na mletački teritorij i na prevaru zatočiti. Mletački rektor
+istaknuo je da knez Ružić uživa veliki ugled među svojim ljudima, zbog čega ga je
+dao zatvoriti, pa i mučiti, plašeći se da ne izazove pobunu.43 U isljeđivanju je knez
+Tomaš izjavio da je rodom od Šibenika i da se 1518. zbog osmanske opasnosti
+
+39
+
+Viktor Gligo, Govori protiv Turaka (Split: Splitski književni krug, 1983), 339.
+
+Snježana Buzov u tom smislu primjećuje: „Drugim riječima, postojala je jedna sprega između političkih potreba i strategija Osmanlijskog Carstva i ekonomskih mogućnosti koje je osmanlijsko osvajanje otvorilo za stanovništvo time što su uklonjene granice. Vlaške migracije, barem u ovome slučaju,
+nisu služile samo osmanlijskoj kolonizacijskoj politici, nego su također otvorile mogućnost za Vlahe
+da prakticiraju polunomadsko stočarstvo na većim područjima, uključujući veće ekosisteme”. Buzov,
+„Vlaška sela, pašnjaci i čifluci”, 233.
+
+40
+
+Klement Pust, „Vpliv osmanskih vpadov na migracije v Istri (15.-16. stoletje)”, u: Migracije in slovenski prostor od antike do danes, ur. Peter Štih i Bojan Balkovec (Ljubljana: Zveza zgodovinskih
+društev Slovenije, 2010), 169.
+
+41
+
+Dio sela u gospoštiji Rašpor prešao je 1523. u vlast Habsburgovaca, koji su ih povjerili tršćanskom
+kapetanu Nikoli Rauberu. Od tada je granica habsburških i mletačkih područja u tom dijelu Ćićarije
+išla između vlaških sela Jelovica i Vodica s habsburške te Dana i Trstenika s mletačke strane granice.
+
+42
+
+43
+
+Pust, „Vpliv osmanskih vpadov na migracije v Istri”, 169.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+191
+
+iselio u Istru.44 Već iste 1524. u listopadu su osmanski odredi uz pomoć jednoga
+neimenovanog vodiča plijenili po istarskim selima.45 Što se dalje točno događalo
+s knezom Tomašem Ružićem i njegovim Vlasima za sada iz raspoloživih izvora
+ne možemo utvrditi, ali druge činjenice posredno upućuju na to da je cijeli tijek
+zbivanja vodio prema njihovu bijegu na osmanski teritorij. Načelnik Motovuna
+vodio je 1526. sudski proces protiv šestorice Vlaha, među kojima je bio i stanoviti
+Ferko Poropatić, također s buzetskoga područja.46 Poropatići su bili stari vlaški
+rod koji će uskoro predvoditi povratničku migraciju u dogovoru s osmanskim
+vlastima. U veljači 1527. Murat-beg Gajdić predvodio je vojsku od 2000 ljudi koji
+su preko Like prodrli do Kranjske i Istre, točnije do Metlike i Novigrada (Podgrada) na Krasu.47 Za sada možemo samo pretpostaviti da su tom prilikom obnovljeni kontakti i pregovori o preseljenju. Mogući okidač za preseljenje moglo je biti
+i oduzimanje svih imanja Krsti I. Frankapanu u Istri, Krasu i Notranjskoj u proljeće 1527. nakon što je prilikom izbora novoga kralja u Hrvatskoj stao na stranu
+Ivana Zapolje, protukandidata Ferdinanda Habsburškog. Taj događaj mogao je
+utjecati i na držanje njegovih dojučerašnjih podložnika koje je doveo iz Hrvatske.
+Kako bilo, činjenica je da je u rano ljeto 1528. zadarski knez Vittorio Barbadico
+u svojoj relaciji od 24. lipnja izvijestio mletačko Veliko vijeće o stanju na zadarskoj granici te, opisujući sve veći rast osmanske moći, istaknuo: „(…) svi siromašni podanici bili su primorani napustiti svoje domove i imovinu, i otišli su, i
+nastavljaju odlaziti živjeti u inozemstvo, a dio njih u zemljama Porte (istaknuo
+a.), kako zanavijek oni i njihove obitelji ne bi postali robovi”.48 Zadarski rektor
+potom u nastavku kaže da su „ponovo došli pod njegovu vlast (sultanovu – op. a)
+svi Morlaci, koji su od Turaka bili progonjeni”,49 te dodaje da su Osmanlije koji
+su opustošili ove krajeve uzrok bijede i očaja tih morlačkih nevoljnika (talmente
+che sono causa de poner questi miseri subditi in gran desperatione).50 To je prvi
+nedvojbeni podatak o prisutnosti vlaškoga povratničkog stanovništva u širem
+zadarskom zaleđu. Preseljavanje Vlaha natrag u Hrvatsku pod osmansku vlast
+tih ljetnih mjeseci 1528. potvrđuje još jedan mletački izvor. Udinski providur
+Zuan Moro javljao je u svojoj relaciji od 18. srpnja da su mu došli stanovnici s
+Knez Tomaš Ružić prije preseljenja u Istru služio je kao vojnik u Klisu i Senju (Juran, „Migracije
+Morlaka/Vlaha na zadarskom pograničju”, 49). Prema tome, Vlasi Ružići prije iseljenja u Istru još su
+obnašali vojničku službu takozvanih kraljevskih Vlaha u Hrvatskoj.
+
+44
+
+45
+
+Pust, „Vpliv osmanskih vpadov na migracije v Istri”, 169.
+
+46
+
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 48.
+
+Vjekoslav Klaić, Povijest Hrvata: od najstarijih vremena do svršetka XIX. stoljeća, knj. 5: Četvrto
+doba: Vladanje kraljeva iz porodice Habsburga: (1527-1740) (Zagreb: Nakladni zavod MH, 1975), 92-93.
+
+47
+
+Commissiones et relationes Venetae, Tomus II: Annorum 1525-1553, prir. Šime Ljubić, Monumenta
+spectantia historiam Slavorum meridionalium 8 (Zagreb: JAZU, 1877), 41-42.
+
+48
+
+(…) et tra le alter novamente esser venuto alla obedinetia sua tutti li Morlaci, qual per essi Turchi
+eran perseguiati. Commissiones et relationes Venetae, II, 42.
+
+49
+
+50
+
+Commissiones et relationes Venetae, II, 46.
+
+192
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+istarskoga područja na granici s habsburškim teritorijem i zahtijevali obrambene
+mjere protiv Osmanlija, kojima su u najnovijem upadu prebjegli mnogi kršćani
+„pod zaštitu”. Rečeno im je da će kao podanici osmanske države biti „blagoslovljeni većom sigurnošću i boljim životnim uvjetima”.51
+Kako se radilo o prebjezima iz neprijateljske zemlje, osmanska administracija za
+to pridošlo stanovništvo u ljeto 1528. uvodi pojam Vlasi zemlje Istre (Eflâkân-i
+vilayet-i Istra). Znači, riječ je bila o egzogamnoj definiciji, a ne o samoidentifikacijskoj oznaci članova te doseljeničke/povratničke grupe. Premda se po položaju,
+pravima i dužnostima nisu ni po čemu suštinski razlikovali od ostalih vlaških
+osmanskih podanika, osmanska vlast tretira ih kao posebnu skupinu koja ima i
+svoju posebnu nahijsku organizaciju. Treba imati u vidu da je u ranim osmanskim poreznim popisima (defterima) relativno česta praksa imenovanja doseljenih vlaških skupina ne samo prema katunskoj pripadnosti (Ugarci, Banjani,
+Vojnići) nego i prema široj teritorijalnoj odrednici migracijskoga ishodišta (Vlasi
+Istre, Vlasi Uskoplja, Vlasi Usorci, Starovlasi).52 Snježana Buzov mišljenja je da takvih bilješki nema dovoljno za donošenje nekih općih zaključaka, ali ističe kontekste aktualnosti: „Dakle, činjenica njihovog doseljenja i porijekla je u momentu
+popisa, i onog sumarnog iz 1530. i opširnog iz 1540. godine vrlo aktuelna, što će
+s vremenom prestati biti. Naime u sljedećim nama poznatim popisima Kliškoga
+sandžaka, u onom iz 1574. i onom iz 1604. godine, na ovom području više nema
+njihova imena.”53 Ova će studija, mislim, pokazati da su važniji bili demografski
+konteksti. Nove migracije, jednosmjerne i povratne, te demografsko opadanje tijekom nekoliko sljedećih desetljeća glavni su uzroci nestajanja njihovih posebnih
+nahija i organizacije. Uzmimo nakratko za primjer skupinu od četiri džemata
+Vlaha Uskoplja koja se oko 1528. doselila iz Bosne na šire područje oko Plavna,
+Knina, Kosova i izvora Cetine. Radilo se o doseljenicima iz vlaške aglomeracije u
+bosanskoj nahiji Uskoplje,54 inače starinom hercegovačkoga podrijetla s područja
+Nikšića i Banjana.55 Znatan dio tih Vlaha uključio se u migracije na habsburšku
+stranu između 1530. i 1540. i sasvim je opravdano pretpostaviti da se iza imena
+„uskočkoga” vojvode Vuka Popovića, koji je pokretao migracije prema Bihaću, a
+potom i Žumberku, krije Vuk vojvoda Vlaha spomenutog Uskoplja iz osmanskoPust, „Vpliv osmanskih vpadov na migracije v Istri”, 169. Ovdje ne treba isključiti mogućnost da je
+među vlaškim prebjezima na osmanski teritorij 1528. moglo biti i nešto mletačkih vlaških podanika
+iz sjeverne Istre.
+
+51
+
+52
+
+Šarić, „Vlasi na Tromeđi”, 47-48, 118-185.
+
+53
+
+Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 245.
+
+Prema popisu sandžaka Bosne iz 1516. Vlasi su u nahiji Uskoplje bili raspoređeni u 24 džemata
+i isto toliko sela, s ukupno 248 kuća. Plaćali su filuriju u ukupnom iznosu od 8920 akči. Šabanović,
+Bosanski pašaluk, 152.
+
+54
+
+55
+O njihovu hercegovačkom podrijetlu vidi u: Dževad Drino, „Hercegovačko porijeklo stanovništva
+Skopaljske doline (sa naglaskom na bugojanski kraj)”, Hercegovina: časopis za kulturno i historijsko
+nasljeđe 13-14 (2001): 127-136.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+193
+
+ga popisa 1528. – 1530.56 Vlasi Uskoplja tako su nakon kratkoga boravka na kninskom području brzo nestali kao prepoznatljiva zajednica, a u opustjelu nahiju
+Plavna 1540. naseljeni su Vlasi Istre, o čemu će biti više riječi u nastavku teksta.
+
+Vlasi Istre u vilajetu Hrvati prema osmanskom poreznom popisu
+1528. – 1530.
+„Vlahe zemlje Istre” pod tim imenom prvi put susrećemo u sumarnom osmanskom poreznom popisu sandžaka Bosne iz 1530. godine.57 U opširnom osmanskom katastarskom poreznom popisu (mucemel tahrir defteri) koji je nastao nešto
+ranije (popisivanje je trajalo od lipnja 1528. do početka rujna 1530.) ne spominju
+se eksplicite.58 Uvidom u oba popisa jasno je da se radilo o istim vlaškim džematima i starješinama, odnosno o jednom te istom stanovništvu. Otvoreno je pitanje koji su tome bili razlozi. Opširni popis počeo je nepune dvije godine prije od
+sumarnoga, a oba popisa događaju se u vrijeme kad je vlaški status već službeno
+bio ukinut. Popisi su nastali iz neposredne potrebe evidencije fiskalnoga potencijala toga netom osvojenog područja u Hrvatskoj. U sumarnom popisu nešto je
+manji broj popisanih kuća i nešto manji iznosi prihoda (634 kuće u sumarnom
+naspram 640 u opširnom, tablice 1 i 2). U vremenskom razmaku između nastanka opširnoga i sumarnoga popisa dogodio se i jedan prijelaz na islam u slučaju
+starješine džemata, Šamila Jakovića iz Brguda, zabilježenog u sumarnom, ali ga
+ne zatječemo u opširnom popisu.59
+U svakom slučaju, u oba popisa iz vremena 1528. – 1530. zabilježeno je ukupno
+devet posebnih vlaških nahija „Istre” koje su pripadale kadiluku Skradin: Ostrovica, Zečevo, Podgorje, Zrmanja, Bukovica, Karin, Obrovac, Benković i Kličevac.
+U njima je bilo popisano 90 sela i mezri kao poreznih jedinica, u kojima je bilo
+
+Turska (dalje: TR) – Başbakalnık Osmanlı Arşivi (dalje: BOA) – Istanbul, Tapu Tahrir Defterleri
+(dalje: TTD), No. 157/1051. O uskočkom vojvodi Vuku Popoviću i migracijama preko Bihaća prema
+Žumberku vidi u: Vojin S. Dabić, Vojna Krajina. Karlovački generalat (1530-1746) (Beograd: Izdanje
+Svetog arhijerejskog sinoda Sprske pravoslavne crkve, 2000), 70; Damir Stanić, „Bihać kao sjedište
+Bihaćke kapetanije i slobodni kraljevski grad” (doktorska disertacija, Sveučilište u Zagrebu, 2020),
+169, 264.
+
+56
+
+Osmanlı Belgelerinde Hırvatistan, prir. Yusuf Sarinay et al., Yayın nu. 114 (Istanbul: T.C. Başbakalnık Devlet Arşivleri Genel Müdürlüǧü, Osmanlı Arşivi Daire Başkanlıǧı, 2010), 258-264.
+
+57
+
+Zahvaljujem kolegici dr. sc. Behiji Zlatar iz Orijentalnoga instituta u Sarajevu, koja mi je ustupila
+na korištenje prijevod neobjavljenoga arhivskog materijala iz opširnog ili detaljnog (mufassal) deftera
+iz 1528. – 1530. za sandžak Bosnu (prijevod pokojne zaposlenice Orijentalnoga instituta u Sarajevu
+dr. sc. Medžide Selmanović). Izvornik se nalazi u: TR-BOA-TTD, No. 157, a fotokopija u Orijentalnom
+institutu u Sarajevu.
+
+58
+
+59
+
+Osmanlı belgelerinde Hırvatistan, 263.
+
+194
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+640 kuća prema opširnom, odnosno 634 kuće prema sumarnom popisu,60 što bi
+s obzirom na prošireni karakter njihovih obitelji moglo iznositi i do 5500 stanovnika61 (tablica 1). Polazeći od kriterija vlaške organizacije, radilo se o 16 vlaških
+džemata (katuna) raspoređenih u spomenutih devet vlaških nahija Istre (tablica
+2). Najbrojniji džemati nalazili su se u nahiji Podgorje, Matije Rožića (80 kuća)
+i Nikole Rojnovića (57 kuća).62 Za njima su slijedili džemati kneza Petra, sina
+Milovana (57 kuća) u nahiji Bukovica i vojvode Žakmana Gleđevca (53 kuće) u
+nahiji Karin.63 Najmanji džemati bili su kneza Čulina, sina Milića i kneza Pavela
+Rudelje, koji se sastojao od samo pet kuća u varoši Obrovca.64 Knez Tomaš Ružić
+iz istarskih Vodica bio je sada na čelu džemata od 26 obitelji u nahiji Kličevac.65
+
+Prema nekim procjenama, u vilajetu Hrvati 1530. godine moglo je biti oko 4220 porezno opterećenih domaćinstava. Glavnina naseljenosti bila je istočno od rijeke Krke, između Sinja, Drniša i Knina
+(nahije Cetina i Vrlika, Zminje polje, Petrovo polje, Kosovo). Aladin Husić, „Demografske prilike u
+srednjodalmatinskom zaleđu početkom 16. stoljeća”, Prilozi za orijentalnu filologiju 55 (2006): 234.
+
+60
+
+Zbog pretežno proširenoga karaktera vlaških obitelji prosjek se mogao kretati od 7 do 9 članova po
+jednoj obitelji. Prema podacima iz 1600. godine, broj ukućana po obitelji kod Vlaha koji su prebjegli u
+Varaždinski generalat iznosio je 8,8 članova (Hrvoje Petrić, Pogranična društva i okoliš: Varaždinski
+generalat i Križevačka županija u 17. stoljeću (Samobor: Meridijani 2012) 254-256). Prema popisu iz
+1554. u Mletačkoj Istri ispada da je prosjek kod doseljeničkih obitelji iznosio 5,28 članova po kućanstvu, ali prosjek morlačkih „zadružnih” obitelji morao je tada biti nešto viši. Treba, naime, voditi
+računa da se u Mletačku Istru nisu doseljavali samo Vlasi, a i mletačke vlasti su u Istri vrlo često sve
+doseljenike koji su dolazili iz Dalmacije, odnosno s mletačko-osmanskoga pograničja, nazivali „Morlacima”, premda je među njima bilo i dalmatinskih seljaka starosjedilaca iz zadarskoga i šibenskoga
+distrikta, čije su obitelji bile nuklearnoga karaktera. O popisu (anagrafu) iz 1554. u Mletačkoj Istri
+vidi u: Egidio Ivetić, La popolazione dell ‘Istria nell età moderna. Lineamenti evolutivi (Trieste; Rovigno: Unione Italiana Fiume; Università popolare di Trieste, 1997), 84-98.
+
+61
+
+62
+
+TR-BOA-TTD, No. 157/427-429.
+
+63
+
+TR-BOA-TTD, No. 157/408, 441.
+
+64
+
+TR-BOA-TTD, No. 157/414-415.
+
+Džemat se sastojao od sela Miranje i Jagodnja kod današnjega Benkovca, s ukupno 25
+nemuslimanskih kuća. Prihod sela iznosio je čak 1143 akče (ispendža 631, od pšenice 187,5, od ječma
+75, od raži 65, od prosa 55, od zobi 20, ušur od meda 58, te nijabet i pristojba za udaju i poljačinu
+52), što je i razumljivo s obzirom na veoma plodno tlo toga dijela Ravnih kotara. Miranje i Jagodnja
+pripadali su i timaru vojvode Damjana s mukatom od 1000 akči koja je ukinuta te se od onih koji su
+se nastanili ubirao harač. TR-BOA-TTD, No. 157/420-421.
+
+65
+
+195
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+Tablica 1. Vlasi Istre prema opširnom popisu iz 1528. – 1530.
+Nahije Vlaha Istre
+Ostrovica
+Zečevo
+Podgorje
+Zrmanja
+
+Sela i mezre kao
+poreznih jedinica
+466
+1167
+6 + 168
+(varoš Obrovac)
+2269
+
+Kuće i baštine
+
+Prihod
+
+29
+50
+147
+
+1027
+2216
+9158
+
+131
+
+6029,5
+
+Selo Čučvice (Čučevo, zaselak u Kistanju) – nemuslimanskih kuća 8; selo Brgud (Brgud kod Benkovca) – nemuslimanskih kuća 15; selo Brištani (vjerojatno Brištane na lijevoj strani Krke) – nemuslimanskih kuća 4; mezra Stare Biline (Bjeline istočno od Benkovca) – nemuslimanskih kuća 2 (TRBOA-TTD, No. 157/423-424).
+
+66
+
+Selo Bilice (nepoznato ako se također ne radi o Bjelinama) – nemuslimanskih kuća 11; selo Lišan
+(Lišane Ostrovičke) – nemuslimanskih kuća 4; selo Zamrati (nepoznato, vrelo Zamršten kod Brištana
+s druge strane rijeke Krke?) – nemuslimanskih kuća 2; selo Papraćani (nepoznato) – nemuslimanskih
+kuća 7; selo Kistanji Polje s Prhovom (Kistanje) – nemuslimanskih kuća 4; selo Sirjani (vjerojatno
+Srnjani, zaselak u Kistanju) – nemuslimanskih kuća 6; selo Srebrani (nepoznato) – nemuslimanskih
+kuća 5; selo Kirtuš (nepoznato ako se ne radi o Krnjeuši kod Kistanja?) – nemuslimanskih kuća 3; selo
+Kakanj (Kakanj kod Kistanja) – muslimanskih kuća 1, nemuslimanskih kuća 1; selo Lašković (Laškovica južno od Kistanja) – nemuslimanskih kuća 2; selo Kuhači (nepoznato) – nemuslimanskih kuća 4
+(TR-BOA-TTD, No. 157/424-426).
+
+67
+
+Selo Seoča (Seline) i Kurvić (nepoznato) – nemuslimanskih kuća 31; selo Veča (Večko polje, današnji Starigrad-Paklenica), Stolna (nepoznato), Rujno (nepoznato ako se ne radi o velebitskim katunima na Velikom i Malom Rujnu) i Dubočac (nepoznato) – nemuslimanskih kuća 35; selo Tornik
+(Torine, predio u Zatonu Obrovačkom) i Borić Gladanović (nepoznato) – nemuslimanskih kuća 22;
+selo Jaseniče (Jasenice) i Vezerče (nepoznato) – nemuslimanskih kuća 22; selo Ravno (Rovanjska) –
+nemuslimanskih kuća 16; varoš Obrovče (Obrovac) – nemuslimanskih kuća 5; selo Petan Mijoković
+(nepoznato) – nemuslimanskih kuća 16 (TR-BOA-TTD, No. 157/427-431).
+
+68
+
+Selo Začađe (nepoznato) – nemuslimanskih kuća 2, nemuslimanskih baština 2; selo Brdar (nepoznato, ali iz popisa je vidljivo da je blizu sela Kočevića na južnom Velebitu) – nemuslimanskih kuća
+10; selo Čelopek (nepoznato) s ispasištem Ljubaćom – nemuslimanskih kuća 10; selo Kolišice (Kolašac kod Kistanja) – nemuslimanskih kuća 9; selo Irvnenik (Ervenik) – nemuslimanskih kuća 5; selo
+Starina (nepoznato) – nemuslimanskih kuća 6; selo Divište (nepoznato) – nemuslimanskih kuća 3;
+selo Surožani (nepoznato) s Bliznjanima (nepoznato) i Dubnićem (možda Duboki dol na velebitskoj
+Tremzini iznad Krupe?) – nemuslimanskih kuća 7; Vlaško selo (nepoznato) – nemuslimanskih kuća
+5; selo Dragonjić (nepoznato) – nemuslimanskih kuća 3; selo Kučević (Kočević na južnom Velebitu,
+sjeverno od Ervenika) – nemuslimanskih kuća 5; selo Karin, drugim imenom Jajlagić (nepoznato) –
+muslimanskih kuća 1, nemuslimanskih kuća 2; selo Krupa (Krupa sjeverno od Kaštela Žegarskog) –
+muslimanskih kuća 1, nemuslimanskih kuća 5; selo Modri (Modrino Selo) – nemuslimanskih kuća 8;
+selo Prolija (nepoznato) – nemuslimanskih kuća 3; selo Kućišta (nepoznato) – nemuslimanskih kuća
+5; selo Žegar (Žegar na Zrmanji) – nemuslimanskih kuća 7; selo Gorice (nepoznato) – nemuslimanskih kuća 10; selo Ljubnica (nepoznato) – nemuslimanskih kuća 4; selo Bogatnik (Bogatnik zapadno
+od Žegara) – nemuslimanskih kuća 4; selo Bilišani (Bilišane kod Obrovca) – nemuslimanskih kuća
+4; selo Brištani (predio u današnjim Bilišanima kod Obrovca; S. Buzov i F. Spaho transkribirali su ga
+kao „Bošnjak”) – nemuslimanskih kuća 13 (TR-BOA-TTD, No. 157/400-407).
+
+69
+
+196
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Nahije Vlaha Istre
+Bukovica
+Karin
+Obrovac
+Benković
+Kličevac
+Ukupno
+
+Sela i mezre kao
+poreznih jedinica
+1170
+971
+672
+473
+1674
+90
+
+Kuće i baštine
+
+Prihod
+
+60
+53
+20
+30
+120
+640
+
+2654,5
+2194,5
+1015,5
+1365
+5077
+30.737
+
+Selo Medvina (Medviđa) – nemuslimanskih kuća 6; selo Gornji Iškaljić (selo pod tim imenom
+više ne postoji, možda se odnosi područje kod bunara Škaljice na tromeđi Bruške, Brguda i Popovića?) – nemuslimanskih kuća 3; selo Bruška (Bruška sjeveroistočno od Benkovca) – nemuslimanskih
+kuća 7; selo Kunović (naselje pod tim imenom više ne postoji, oronim Kunovac kod Bruške, lokalitet
+Kunovački bunar u gornje-karinskom zaseoku Gornje Drače?) – nemuslimanskih kuća 4; selo Medvižak s Ivanje poljem (dio Medviđe) – nemuslimanskih kuća 7; selo Grivičari (nepoznato) s Golubićem
+(Golubić kod Obrovca) – nemuslimanskih kuća 5; selo Iržište (nepoznato) – nemuslimanskih kuća 10;
+selo Brklajić (nepoznato) – nemuslimanskih kuća 3; selo Virjino (nepoznato) – nemuslimanskih kuća
+5; selo Budavić (nepoznato) – nemuslimanskih kuća 2; selo Jatno (nepoznato) – nemuslimanskih kuća
+7, baština 1 (TR-BOA-TTD, No. 157/408-411).
+
+70
+
+Selo Dasidžmani (?) – nemuslimanskih kuća 12; selo Pritbičić (vjerojatno staro selo novigradskoga distrikta Pritičevići u današnjem Smilčiću) – nemuslimanskih kuća 4; selo Glovići (nepoznato)
+– nemuslimanskih kuća 13; selo Islana (današnji zaselak Karin-Slana u Gornjem Karinu) – nemuslimanskih kuća 6; selo Občinić (nepoznato) – nemuslimanskih kuća 2; selo Krčevica (nepoznato) –
+nemuslimanskih kuća 4; selo Bučipolje (nepoznato) – nemuslimanskih kuća 7; selo Bukovica (naselje
+toga imena više ne postoji, možda se nalazilo kod bunara Bukovac sjeverno od Gornjeg Karina?) –
+nemuslimanskih kuća 3; selo Dragomirani (na području Donjeg Karina postoji bunar pod imenom
+Dragomirov bunar) – nemuslimanskih kuća 2 (TR-BOA-TTD, No. 157/411-414).
+
+71
+
+Selo „Dolnja” Kruševa (Kruševo oko Donjeg Polja) i Krčić Poljana (nepoznato) – nemuslimanskih
+kuća 1; selo Gornja Kruševa (Kruševo oko Gornjeg Polja) – nemuslimanskih kuća 6; selo Novosel sa
+Zavalinom (nepoznato) – nemuslimanskih kuća 5; selo Dragotić (nepoznato) – nemuslimanskih kuća
+4; selo Hotišina (Otišina, zaselak u Kruševu) – nemuslimanskih kuća 4; selo Ribnice (Ribnica, zaselak
+u Kruševu) – nemuslimanskih kuća 4 (TR-BOA-TTD, No. 157/414-416).
+
+72
+
+Selo Dobruđa (Dobruča Vas kod Benkovca) – nemuslimanskih kuća 7; selo Turik (nepoznato) –
+nemuslimanskih kuća 7; selo Vuković (Buković kod Benkovca) – nemuslimanskih kuća 12; selo Bilati
+(nepoznato, Blata?) – nemuslimanskih kuća 4.
+
+73
+
+Selo Hotešteva (staro selo i utvrda Hotavac, danas Podotavac sjeveroistočno od Benkovca) – nemuslimanskih kuća 11; selo Obatija (staro selo Opatija u današnjoj Kuli Atlagića kod Benkovca) – nemuslimanskih kuća 11; selo Benkovac (današnji grad Benkovac) – nemuslimanskih kuća 10; selo Mali
+Vuković (Buković kod Benkovca) – nemuslimanskih kuća 3; selo Garvna s Crnićem (stara sela Grivna
+i Crnil kod Nadina, u kasnijim popisima spominju se zajedno sa selom Brkljačina Polača) – nemuslimanskih baština 1; selo Hraštević (Raštević kod Benkovca) – nemuslimanskih baština 1; selo Polača
+(Polača kod Benkovca) – nemuslimanskih kuća 7; selo „Dolnji” i „Gorni” Čerani s Ožalicom (Gornje
+i Donje Ceranje kod Benkovca, Uželice u Pristegu) – nemuslimanskih kuća 17; selo Korlatović i mezra
+Tihlić (Korlat kod Benkovca, staro selo Tihlić kod crkvice sv. Nikole u današnjoj Kuli Atlagića) – nemuslimanskih kuća 5; selo Krčevica „u blizini Perušića” (Perušić kod Benkovca) – nemuslimanskih
+kuća 8; selo Podgrađe (Podgrađe kod Benkovca) – nemuslimanskih kuća 10; selo Kolarina (Kolarina
+kod Benkovca) – nemuslimanskih kuća 3; selo Lisičić (Lisičić kod Benkovca) – nemuslimanskih kuća
+4; selo Mirani i Jagodnje (Miranje i Jagodnja kod Benkovca) – nemuslimanskih kuća 25; selo Nunić s
+Gurincem (Nunić istočno od Benkovca) – nemuslimanskih kuća 8.
+
+74
+
+197
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+Tablica 2. Vlaški džemati prema podacima iz sumarnoga popisa 1530.75
+Džemat
+Jakov Poropat
+Slade Livoja
+Petar, sin Milovana
+Žakman, sin Gleđevca
+Pavel, sin Rudelje
+Radič
+Tomaš Ružić
+Petar, sin Jančića
+Grgur Bratić
+Šamil Jaković
+Martin, sin Vrbača (?)
+Mate Rojić
+Mikula Rojnović
+Mikula Blažić
+Pejan Mivčanica
+Mate Krstivojević
+Ukupno džemata 16
+
+Titula
+Primićur
+Primićur
+Knez
+Vojvoda
+Knez
+Knez
+Knez
+Primićur
+Primićur
+Primićur
+Primićur
+Primićur
+Primićur
+Knez
+Primićur
+Primićur
+-
+
+Kuće
+67
+42
+58
+53
+24
+123
+
+Prihod
+3063,5
+1921,5
+2655,5
+2290
+1090,5
+5381
+
+30
+29
+
+1365
+1327
+
+Nahija
+Zrmanja
+Zrmanja
+Bukovica
+Karin
+Obrovac
+Kličevac
+Kličevac
+Benković
+Ostrovica
+
+50
+142
+
+2312
+6504
+
+Zečevo
+Podgorje
+
+16
+
+797
+
+Podgorje
+
+634
+
+28.707
+
+-
+
+Kao što smo napomenuli, Vlasi Istre prebjegli su na osmanski teritorij u trenutku
+kad je došlo do ukidanja vlaških povlastica.76 Ta odluka provedena je u ovom
+popisu sandžaka Bosne 1528. – 1530., kako stoji u uvodu popisa.77 Džemati i pripadajuća sela Vlaha Istre potpadali su pod sandžakbegov has, za razliku od drugih vlaških skupina, koje su se našle u sastavu timara. To je tada bio bosanski
+sandžakbeg Gazi Husrev-beg, koji je od Vlaha Istre ubirao prihod od oko 30.000
+akči godišnje (tablica 1). Inače, prema sumarnom popisu Bosanskoga sandžaka
+1530., u okviru Gazi Husrev-begovih hasova bilo je ukupno 10 gradova, 158 sela i
+64 čiftluka s ukupnim prihodom od 643.979 akči.78 Vlasi Istre nisu plaćali vlaški
+porez filuriju, koji je privremeno bio ukinut, nego su bili dužni plaćati iznose zemljarine ili ispendžu i neka sitna davanja od poljoprivrednih proizvoda (prihodi
+od pšenice, ječma, zobi), nijabeta (prihodi od globa) te pristojbe za udaju i poljačinu. Radilo se o iznosima u rasponu između 52 i 1615 akči.79
+75
+
+Osmanlı belgelerinde Hırvatistan, 258-264.
+
+Osmanska vlast donijela je takvu odluku nakon Mohačke bitke 1526. jer zbog velikih ratnih troškova u Ugarskoj nije više mogla tolerirati povlaštene kategorije stanovništva, osobito među kršćanskim zimijama („štićenicima”).
+
+76
+
+77
+
+Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 245.
+
+78
+
+Behija Zlatar, Gazi Husrev-beg (Sarajevo: Orijentalni institut u Sarajevu, 2010), 138.
+
+Kornelija Jurin Starčević, „Osmanski krajiški prostor: rat i društvo u jadransko-dinarskom zaleđu
+u 16. i 17. stoljeću”, (doktorska disertacija, Sveučilište u Zagrebu, 2012), 168.
+
+79
+
+198
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Najzaslužniji za dovođenje Vlaha iz Istre dobili su za nagradu timarske nadarbine, uglavnom kolektivne (gedik timari). Na taj se način zaslužne vlaške starješine
+nastojalo interesno vezati za osmansku državu i poticati ih na daljnju kolonizaciju osmanskoga pograničja. Knezu Ivanišu, sinu Poropata (vjerojatno brat Jakova
+Poropata, koji je tada bio starješina džemata), i Ivanišu, sinu Mirka, obojici iz
+nahije Zrmanja, dodijeljen je kolektivni timar u selima Donje i Gornje Miranje u
+nahiji Kličevac, s ukupnim prihodom od 2000 akči, koji su dijelili popola.80 Vojvodi Žakmanu, sinu Gleđevca, i knezu Marku, sinu Lipovića, dodijeljen je kolektivni timar u Vrbljanima kod Ostrovice s prihodom od 2000 akči, koji su također
+dijelili popola.81 Knez Čulina, sin Milića, uživao je timar u Lici.82 Knez Radič zajedno s vojvodom Strahinjom Bratićem iz nahije Unac uživao je zajednički timar
+u nahiji Zrmanja, čiji je prinos, koji su dijelili popola, iznosio 1135 akči.83 Pomalo zagonetan ostaje slučaj kneza Petra Prejića, koji je 1530. bio najveći timarnik
+nemusliman u cijelom prostoru vilajeta Hrvati. Držao je timar u vrijednosti od
+3908 akči, ali na osnovi ranijega iltizma puni iznos bio je 4043 akče.84 Timar je
+obuhvaćao brojne mezre i čiftluke po Lici, Krbavi, Pozrmanju, Ostrovici, Popini i
+Srbu, odnosno s obje strane Velebita.85 U popisima, opširnom i sumarnom, Prejić
+nije konkretno naveden kao vođa nekoga od džemata Vlaha Istre, ali iz povijesnih je izvora očito da je bio na neki način povezan s tom vlaškom skupinom.86
+Prezime Prejić javlja se u skupini Vlaha Istre na više mjesta u popisima 1528. –
+1530. i 1540.87 Konstantno pojavljivanje toga prezimena govori da se radilo o pripadnicima uglednoga društvenog sloja jer se prezimena u osmanskim poreznim
+popisima rijetko susreću, i to obično samo u slučajevima nekih istaknutih obitelji. Činjenica da među Prejićima vrlo rano susrećemo i muslimanske konvertite,
+što će postati i Bogdan Prejić, sin kneza Petra, koji se u zreloj dobi povratio u
+
+80
+
+TR-BOA-TTD, No. 157/1055.
+
+81
+
+TR-BOA-TTD, No. 157/1055.
+
+82
+
+TR-BOA-TTD, No. 157/1082.
+
+83
+
+TR-BOA-TTD, No. 157/1053.
+
+84
+
+TR-BOA-TTD, No. 157/1086.
+
+85
+
+TR-BOA-TTD, No. 157/1080-1086.
+
+Buzov, „Vlaška sela, pašnjaci i čifluci”, 236-239 (bilj. 20). Kornelija Jurin Starčević smatra da je
+Petar Prejić bio otpušteni bosanski spahija, koji je prema istom popisu 1528. – 1530. uživao čiftluke i u
+nahijama Saraj i Dubrovnik u srcu Bosne. Usp. Kornelija Jurin Starčević, „Osmanska utvrda Udbina
+i udbinska nahija u 16. i 17. stoljeću”, u: Turkologu u čast! Zbornik povodom 70. rođendana Ekrema
+Čauševića, ur. Tatjana Paić-Vukić (Zagreb: FF Press, 2022), 448, bilj. 48.
+
+86
+
+U popisu 1528. – 1530. nalazimo ih u selu Nunić (Martin, sin Prejića), Opatiji (Fran, sin Prejića) i
+možda u Novoselu u ikavskoj inačici (Ferhad, sin Prijića, može se čitati i Pribića) (TR-BOA-TTD, No.
+157/415, 416). U popisu iz 1540. nalazimo ih u Surožanima (Hasan Prejić), Začađu (Ivan, sin Prejića)
+i Brdaru (Prejić, sin Matijaša). Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 247, 253, 254.
+
+87
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+199
+
+„tursku zemlju” i 1557. po preporuci Malkoč-bega, sandžakbega Klisa, dobio timar, također govori u prilog tome da je riječ o uglednoj obitelji.88
+Stjecanje timara vlaškim je glavarima donijelo položaj vojničkoga staleža (asker),
+oslobođenog od poreznih daća (muafijet), takozvane vlaške spahije. Vlaški starješine, prelaskom u osmansko podaništvo i našavši se u sasvim novim društvenim (i civilizacijskim) okolnostima, zadržali su ulogu medijatora između svojih
+ljudi i osmanske vlasti, dok im se društveni ugled kao timarnika još i povećao.
+Upada u oči i činjenica da braća ili sinovi starješina također nose titulu kneza ili
+vojvode. Vojvoda Žakman Gleđevac živio je u selu „Dasidžmani” (?) u karinskoj
+nahiji s još četiri kuće Gleđevaca.89 Gleđevci su starinom vlaški katun iz Humske
+zemlje koji se u zadarskom zaleđu spominje još od 1391. – kao podložnici knezova Krbavskih.90 Prema jednom podatku iz 1496., njihov katun teritorijalizirao
+se u selu Bukovica kod Karina.91 Gleđevci su se tako iz Istre vratili na svoje staro
+ognjište u karinskom kraju.92
+Među vlaškim povratnicima iz Istre bio je i knez Petar Najčinović. Radilo se o
+starješini koji je u osmanskom popisu 1528. – 1530. bio zabilježen kao knez Petar Jančić.93 Petar Jančić/Najčinović bio je starješina vlaškoga džemata u nahiji
+Benković i nastanjen u selu Dobrudža, odnosno Dobruča Vas, gdje je zabilježen
+i Nenad, sin Jančića, vjerojatno njegov rođak.94 Iz popisa se međutim vidi da su
+njegovi najbliži srodnici: Pavel i njegov brat Radul, sinovi Jančića, te Juraj, sin
+Jančića, živjeli i u selu Glučje, u džematu vojvode Žakmana u nahiji Karin.95 VlaBogdan Prejić izbjegao je kao dijete na habsburški teritorij, vjerojatno tijekom burnih događanja
+oko 1538., ali se poslije vratio na osmansko područje i prešao na islam. Među vlaškim prebjezima u
+Beloj krajini 1530-ih spominju se Prejići, konkretno u popisu uskoka iz 1551. u selu Marindol kod
+Črnomlja spominje se, doduše u ikavskoj inačici, desetnik (zehner) Stanoje Prijić. Buzov, „Vlaška sela,
+pašnjaci i čifluci”, 237; Šarić, „Lovinački kraj na razmeđu epoha”, 149-150.
+
+88
+
+Knez Milanko, sin Gleđevca, Radič, sin Gleđevca, Ivan, sin Gleđevca, Pavle, sin Gleđevca. Selo
+je imalo 12 nemuslimanskih kuća, a prihod je iznosio 429 akči (TR-BOA-TTD, No. 157/411). Ime
+Žakman vjerojatno je inačica učestalijega vlaškog imena Šikman. Općenito se smatra da su imena s
+nastavkom -man tipično vlaška (Doman, Kecman, Radman, Šuman, Vukman, Toroman).
+
+89
+
+90
+
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 52.
+
+91
+
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 53.
+
+Vojvoda Žakman Gleđevac predvodio je 1538. seobu na mletačko područje, zbog čega ga je Senat
+i nagradio. Nastanio se u Podnovju (kod današnje Podgradine) u novigradskom distriktu. U mletačkim izvorima vodio se kao vlaški knez (comes Murlacorum) i bio je uključen u plaćeničku vojnu službu (stipediati). U izvorima ga možemo pratiti do 1559. Roman Jelić, „Novigradski distrikt”, Radovi
+Zavoda za povijesne znanosti u Zadru 31 (1989): 100, 147-149; Juran, „Migracije Morlaka/Vlaha na
+zadarskom pograničju”, 52-53, 55-56.
+
+92
+
+TR-BOA-TTD, No. 157/421-422; Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 5354.
+
+93
+
+94
+
+TR-BOA-TTD, No. 157/422.
+
+U selu je bilo ukupno 13 nemuslimanskih kuća, koje su davale ukupni prihod od 576 akči (TRBOA-TTD, No. 157/412).
+
+95
+
+200
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+ha Jančića/Najčinovića bilo je te godine i u selu Kućišta u nahiji Zrmanja, ukupno u četiri kuće.96 Knez Petar Jančić (Najčinović) vjerojatno se također vratio
+na svoje staro ognjište u selu Dobrudža (Dobruča Vas), na što upućuju njegovi
+poslovni kontakti s trgovcima u Zadru.97
+Vlaški katun kneza Petra Milovanića najbolji je primjer kontinuiteta tih vlaških
+skupina u širem zadarskom zaleđu. Petar Milovanić spominje se još 1518. u jednoj zadarskoj ispravi kao katunar Zelengrada (Petri Milouanich catonarii districtus Zelengradi).98 Oko 1520. iselio se u habsburšku Istru, da bi se već oko 1528.
+vratio u stari kraj. U osmanskom popisu 1528. – 1530. knez Petar, sin Milovana
+spominje se kao starješina džemata u nahiji Bukovica. Živio je u selu Medviđi
+(Medviža), koje je tada imalo šest kuća, bolje rečeno zadruga.99 U selu je zapisana
+i kuća njegova brata Tomaša, sina Milovana, koji je isto nosio titulu kneza.100
+Milovanići su također 1538. prebjegli na mletački teritorij i ušli u vojnu službu.101
+Poropatići ili Poropati stari su vlaški rod koji se u zadarskim vrelima spominje
+još krajem 14. stoljeća kao dio katuna Butka Brančića.102 Prezime je nastalo od
+vlaškoga antroponima Poropat u značenju „nomad”, „beskrevetnik”.103 Poropati
+su se oko 1528. povratili s Buzetskoga krasa na područje Zrmanje. Područje nahije Zrmanja obuhvaćalo je džemat Jakova, sina Poropata, koji je bio nastanjen u
+selu Začađe, nepoznate ubikacije.104 Njegov brat Ivaniš, kao što je rečeno, bio je timarnik. Neki članovi toga vlaškog roda bili su već prešli na islam, kao „Alija, sin
+Poropata” u selu Karin i „Husein, sin Poropata” u selu Krupa u nahiji Zrmanja.105
+
+Milić, sin Jančića, Mihovil, sin Jančića, Biljan, sin Jančića, Martin, sin Jančića (TR-BOA-TTD, No.
+157/405).
+
+96
+
+I knez Petar Najčinović predvodio je 1538. seobu Vlaha Istre na mletački teritorij, zbog čega su on i
+brat mu Pavel također bili nagrađeni od Senata. Naselio se isto nakon 1538. u Podnovju kod Novigrada i dobio titulu kapetana. Neki su se odselili u Istru, ali ovoga puta u njezin mletački dio (Dvigrad,
+Labinština).
+
+97
+
+98
+
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 48-49.
+
+99
+
+Selo je davalo ukupan prihod od 269,5 akči (TR-BOA-TTD, No. 157/408).
+
+100
+
+TR-BOA-TTD, No. 157/408.
+
+Godine 1570. spominje se kapetan Slade Milovanić kao zapovjednik hrvatskih konjičkih jedinica
+na zadarskom području (Lovorka Čoralić, Maja Katušić, „Andrija Mladinić i Mihovil Anđeo Filiberti
+– časnici postrojbe Croati a Cavallo: iz društvene i vojne povijesti Dalmacije u XVIII. stoljeću”, Povijesni prilozi 28 (2009), br. 37: 251).
+
+101
+
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 47. Kristijan Juran navodi i da „početkom 15. stoljeća dvojica Morlaka Poropatića, braća Vlatko i Stojislav, stanuju u Zadru, dok potkraj
+tog stoljeća Poropatiće nalazimo u Artikovu Selu” Juran, „Migracije Morlaka/Vlaha na zadarskom
+pograničju”, 47.
+
+102
+
+103
+
+Petar Šimunović, Istočnojadranska toponimija (Split: Logos, 1986), 87.
+
+104
+
+TR-BOA-TTD, No. 157/400.
+
+105
+
+TR-BOA-TTD, No. 157/404.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+201
+
+Poropati također 1538. prelaze na mletački teritorij, neki produžuju za Istru, a
+dio se nastanio u novigradskom distriktu.106
+Vlaška skupina kneza Tomaša Ružića, za koje smo već rekli da su starinom kraljevski Vlasi u Hrvatskoj, nakon habsburških Vodica na Krasu povratila se u stari kraj u „Banadegu”, naselivši Miranje i Jagodnje u nahiji Kličevac.107 Njegov
+džemat obuhvaćao je ta dva sela i imao ukupno 26 kuća. Po izbijanju mletačko-osmanskoga rata 1537. – 1540. napuštaju osmanski teritorij i po svoj prilici
+vraćaju se u knežev rodni kraj u okolici Šibenika. Tamo se 1540. spominje morlački katun Ružić, a njihov katunar 1553. bio je Jure Heračić.108
+Opravdano je pretpostaviti i za džemat kneza Pavela, sina Rudelje u nahiji Obrovac da je na neki način bio povezan s predosmanskim Vlasima Rudelama ili Rudelićima iz širega zadarskog zaleđa.109 Jedan njihov dio iselio se u Istru, u Rovinjsko Selo, u kojem će poslije obnašati dužnost seoskih sudaca, a druge njihove
+dijelove zatječemo na zadarskom teritoriju.110
+Teško je reći ima li knez Čulina, sin Milića, koji je 1528. – 1530. živio na mezri
+Stara Bilina (današnje Bjeline) i uživao timar u Lici,111 ikakve veze s Čulinama i
+Čulinovićima, poznatim rodom s izvorne Tromeđe u 16. i 17. stoljeću na zadarskom teritoriju i u utvrdi Ledenice u Senjskoj kapetaniji.112 Ista dvojba vrijedi i za
+Dok su neki bili uključeni u mletačku plaćeničku vojnu službu (vjerojatno bliži srodnici kneza
+Jakova), drugi postaju zakupnici posjeda. Tako se 1562. kao kmet u selu Režane u novigradskom
+distriktu spominje stanoviti Jakov Poropatić. Poropatići su 1560., 1571. i 1608. zabilježeni i u Tkonu
+na otoku Pašmanu, odakle će neki poslije prijeći u Biograd. Nakon svršetka Ciparskoga rata jednu
+skupinu Morlaka u Istru je doveo mletački plaćenik i osmanski prebjeg Juraj Poropatić, koji je inače
+bio sa zadarskoga područja. Čini se da se istarski Poropatići (Poropati) nisu više u većoj mjeri vraćali
+u Dalmaciju, a njihova glavna koncentracija ostala je na Buzetskom krasu, na njegovu mletačkom
+dijelu (Trstenik, Dane, Lanišće). Usp. Ivna Anzulović, „O opstojnosti hrvatskog pučanstva sjeverne
+Dalmacije iz predturskog vremena”, Zadarska smotra: časopis za kulturu, znanost i umjetnost XLVII
+(1998), br. 4-6: 290; Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 48; Slaven Bertoša,
+Fragmenti buzetske prošlosti u srednjem i novom vijeku (Zagreb: Srednja Europa, 2018), 160-161.
+
+106
+
+107
+
+TR-BOA-TTD, No. 157/420-421.
+
+108
+
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 52.
+
+Tek bi trebalo istražiti moguću povezanost bukovičkih toponima Rudele u Kistanju i Rodaljica s
+ovim vlaškim katunom. O tome više u: Živko Bjelanović, Imena stanovnika mjesta Bukovice (Split:
+Čakavski sabor, 1978), 36-38.
+
+109
+
+Rudelići se u zadarskom distriktu spominju u selu Radovin u 16. i 17. stoljeću, gdje će se stopiti s
+doseljenim katoličkim Vlasima-Bunjevcima i 1683. preseliti u Karlobag i Šugarje u Podgorju, a neki
+i u Smiljan u Lici (1686. Pavo Rudelić). Usp. Vjekoslav Bratulić, Rovinjsko selo. Monografija jednog
+istarskog sela (Zagreb: Jadranski institut JAZU, 1959), 29-34; Anzulović, „O opstojnosti hrvatskog
+pučanstva”, 275, 277; Stjepan Pavičić, „Seobe i naselja u Lici”, Zbornik za narodni život i običaje Južnih
+Slavena 41 (1962): 203-206.
+
+110
+
+111
+
+TR-BOA-TTD, No. 157/424.
+
+Čuline i Čulinovići živjeli su sredinom 16. stoljeća na području Pridrage u novigradskom distriktu, u Ljubaču, gdje ih je 1608. bilo u dvije kuće, a neki se iseljavaju u Ledenice u Senjskoj kapetaniji na habsburškom području. Anzulović, „O opstojnosti hrvatskog pučanstva”, 227; Roman Jelić,
+
+112
+
+202
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+istarskoga vlaškog starješinu Radu Šiljanovića, koji je 1549. doveo mnogo seljaka
+na područje zakupa u dijelove bivšega vranskog distrikta, koji je ostao pod mletačkom vlašću.113 Pitanje je jesu li Šiljanovići (Siglanovich) 16. stoljeća možda povezani s poznatim katunom kraljevskih Vlaha u Kninskoj županiji iz 14. stoljeća
+Šiglanovićima.114 Kristijan Juran tom pitanju pristupa oprezno i ističe da je teško
+dokazati kontinuitet s predosmanskim katunom Šiglanovića.115
+Premda Frletići nisu pripadali starješinskom sloju, treba spomenuti i ovaj rod, koji
+će imati važnu ulogu na izvornoj Tromeđi krajem 16. i početkom 17. stoljeća. U
+popisu 1528. – 1530. u selu Tornik u nahiji Podgorje spominju se Pavko, Vojo, Juraj
+i Milovan kao sinovi Firultića.116 Iza toga prezimena vjerojatno se kriju Frletići ili
+Frlete, koji su se doselili na zadarsko područje „iz Hrvatske”, odnosno s osmanskoga područja vilajeta Hrvati (1554. Ferletich quondam Culina de Croatia).117
+Bosanski sandžakbeg i „osvajač Hrvatske” Gazi Husrev-beg nešto nakon popisa
+uvakufio je 1531. plodno područje Kožulovo polje, poslije nahiju Kožulova između
+utvrda Kličevac i Ostrovica u vilajetu Hrvati. Gazi Husrev-begov vakuf prvobitno je imao čiftlučki karakter i u svim se ranijim izvorima navodio kao Čiftluk
+Kožulova premda je postao vakuf.118 Ne treba podsjećati da se radilo o najplodnijem području ovoga dijela vilajeta Hrvati, koje je dobilo ime po prijašnjim vlasnicima, hrvatskoj plemićkoj obitelji Kožul (Kožulić) vlaškoga podrijetla iz 15. i početka
+16. stoljeća.119 Sela nahije Benković i najveći dio nahije Kličevac bit će priključena
+tom vakufu, tako da će se i znatan dio iz korpusa Vlaha Istre naći u sastavu Gazi
+Husrev-begove zadužbine. Međutim, kako u prvim defterima nakon osnutka va„Stanovništvo kopnenog dijela zadarskog područja 1608. i 1695.”, Zadarska revija 34 (1985), br. 6: 569;
+Pavičić, „Seobe i naselja u Lici”, 127.
+113
+
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 59.
+
+Kad govorimo o „prezimenima” kod Vlaha u srednjem vijeku, treba voditi računa o tome da prije
+1563., barem kad su u pitanju katolici, ne postoje ustaljena prezimena u pravom smislu riječi, nego se
+radi o uščuvanim imenima bratstava ili katuna, čime se čuvao spomen na rodonačelnika katunske
+zajednice i kult predaka. Samo neka od njih profilirat će se u ustaljena prezimena u 16. i 17. stoljeću.
+
+114
+
+115
+
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 65.
+
+Selo Tornik, na području današnjega Zatona Obrovačkog, nalazilo se u sastavu sandžakbegova hasa,
+a imalo je 22 nemuslimanske kuće čiji je ukupan prihod iznosio 1034 akče. TR-BOA-TTD, No. 157/428.
+
+116
+
+Naselili su se u Kukalju i Tršćanima u novigradskom distriktu, gdje su ušli u vojnu plaćeničku
+službu, a poslije ih srećemo u Ljubaču te 1608. u Žmanu na Dugom otoku. Neki su se odselili u Istru
+u okolicu Poreča. Krajem 16. stoljeća braća Andrija i Vuk Frletić završila su među uskocima u Senju,
+dok su neki od Frletića koji su se vratili na osmanski teritorij prešli na islam. Hasan-aga Frletić iz
+Dračevca kod Jasenica spominje se 1590. kao mletački doušnik s granice na Novigradskome moru, a
+u istome mjestu kao musliman živio je i otac uskočkoga vođe Andrije Frletića. Anzulović, „O opstojnosti hrvatskog pučanstva”, 287; Jelić, „Novigradski distrikt”, 100; Bracewell, Senjski uskoci, 67, 107,
+193, 262, 274, 287-289.
+
+117
+
+118
+
+Zlatar, Gazi Husrev-beg, 100.
+
+Na Kožulove posjede i nahiju Kožulovo polje danas podsjeća samo još ime sela Kožlovac istočno
+do Benkovca.
+
+119
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+203
+
+kufa, iz 1540. i 1550. godine, vakufska sela nisu popisivana, ograničeno se može
+pratiti njihov razvoj. Tek u kasnijim popisima iz 1574., 1585. i 1604. vakufska sela
+bit će upisana u nahiji Kožulova kao čiftluk vakufa umrlog Husrev-bega.120
+Povratak Vlaha Istre u stari kraj samo je naizgled pridonio smirivanju prilika
+na mletačko-osmanskoj granici u sjevernoj Dalmaciji.121 Ubrzo će se pokazati
+da će ta vlaška skupina i za osmansku vlast postati nepouzdana te će se nastaviti
+ireverzibilno i ciklično kretati u prostoru imperijalnoga višegraničja. Zbog ukidanja vlaških povlastica pojavilo se nezadovoljstvo koje će prerasti u pobunu i
+odmetanje od osmanske vlasti, ponajprije među hercegovačkim Vlasima, starim
+osmanskim podanicima koji su doseljeni iz jugoistočne dinarske unutrašnjosti.
+Središte pobune najprije je bilo u sjevernim dijelovima vilajeta Hrvati, u nahijama Unac, Srb, Glamoč, Plavno i Vrlika, odakle će 1530. krenuti i prva uskakanja
+na habsburški teritorij, u pravcu Bihaća, a potom i Žumberka i Bele krajine. Vlasi
+Istre nisu se u početku pridružili tom pokretu, ali po izbijanju novoga rata s Mlečanima 1537. plamen pobune i odmetanja zahvatit će i njihove džemate.122 Prema
+mletačkim izvorima, osmanski pohod na Beč 1529. bio je uvod u nemire na granici. Povod je, čini se, bila rekvizicija vlaških karavanskih konja koju je poduzeo
+subaša Murat-beg Gajdić za potrebe pohoda. Murat-beg je u ožujku 1530. angažirao veliki broj „svojih ljudi” i za sječu velebitskih šuma radi izgradnje flote u
+Obrovcu.123 Taj državni kuluk, od kojega nisu bili pošteđeni ni Vlasi Istre, djelovao je frustrirajuće. Iz opreza zbog vlaških nemira, u lipnju 1532. dizdari Obrovca, Karina i Ostrovice zabranili su svojim kršćanskim podanicima da dolaze
+naoružani u podgrađa spomenutih tvrđava.124 Izbijanjem mletačko-osmanskoga
+rata (1537. – 1540.) pogranično područje koje su naseljavali Vlasi Istre ponovo
+postaje ratnim poprištem. U tijeku ratnih zbivanja, a na poticaj dalmatinskoga
+120
+
+Zlatar, Gazi Husrev-beg, 98.
+
+Tako je vlaški knez iz „istarske” skupine Petar Najčinović, sada osmanski podanik iz Dobrudže kod
+Benkovca, sklopio 1533. u Zadru ugovor s agentima dvojice mletačkih trgovaca, obvezujući se da će im
+na brod, kad pristigne u Karin, dovesti 2000 kvarti pšenice. Pored legalne trgovine bilo je i krijumčarenja i krađa, kao u slučaju jednoga „Morlaka”, također osmanskoga podanika, koji se dokopao barke i krijumčario robu između Dalmacije i Istre. U proljeće 1532. uhvatio ga je kapetan mletačke fuste Alexandro Bondumier i sproveo u zadarsku luku zaplijenivši mu šest konja i 300 otuđenih dukata. Uhićenik se
+branio da je, tobože, konje našao u Labinu. Anzulović, „O opstojnosti hrvatskog pučanstva”, 276-277;
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 53; Franjo Rački, „Izvodi za jugoslavensku
+poviest iz dnevnika Marina ml. Sanuda za g. 1526-1533”, Starine JAZU XXV (1892): 149.
+
+121
+
+Šibenski knez i kapetan Bernardo Balbi u svojoj relaciji od 4. svibnja 1532. primjećuje te razlike u
+raspoloženjima među Vlasima osmanskim podanicima. Za one koji žive u blizini mletačke granice
+kaže da su mirniji i kooperativniji, za razliku od Vlaha koji dolaze iz sjevernih planinskih područja i
+pljačkaju šibenski teritorij. Bogumil Hrabak, „Vlaška i uskočka kretanja u severnoj Dalmaciji u XVI
+stoleću”, u: Benkovački kraj kroz vjekove. Zbornik 2. Radovi s naučnog skupa Benkovački kraj kroz
+vjekove, Benkovac, 22-24. travnja 1983., ur. Julijan Medini (Benkovac: Narodni list, 1988), 131.
+
+122
+
+Drvo se dovlačilo s Velebita u Obrovac kopnenim („vlake”) i morskim putem, Velebitskim kanalom i Novigradskim morem. Šarić, „Lovinac na razmeđu epoha”, 318.
+
+123
+
+124
+
+Rački, „Izvodi za jugoslavensku poviest iz dnevnika Marina ml. Sanuda za g. 1526-1533”, 169.
+
+204
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+providura Alvisea Badoera, koji je visoko cijenio njihovu borbenu vrijednost, oko
+5000 Vlaha sa susjednoga osmanskog područja, koje su Mlečani još uvijek nazivali
+starim imenom Banadego (fece venire dal Banadego, territorio turchesco), prešlo
+je na mletački teritorij u okolicu Zadra. Nakon samo deset godina ti su Vlasi bili
+ponovo u velikom pokretu iseljavanja. Prvi val prebjega najvećim dijelom činila je
+skupina Vlaha Istre. Drugi mletački napad i opsjedanje Obrovca te njegovo zauzimanje u lipnju 1538. bio je očito signal Vlasima Istre za dizanje pobune i masovno
+prelaženje na mletačku stranu.125 Vlaške skupine iz nahije Podgorje i Zrmanja nastojao je 1538. pridobiti i kapetan Nikola Jurišić ispred habsburških vlasti. Uspio
+je tako pridobiti jednu skupinu „istarskih Ćića” (die issterreichischen Zittschen) sa
+Zrmanje u okolici Obrovca, „Starih Rimljana” (Alt Römer), kako ih naziva, koja se s
+oko 40.000 grla stoke ponovo uputila prema sjevernoj Istri i Krasu.126 Prebjegli Ćići
+naglašavali su tada da će dodijeljena im pomoć biti primjer drugim njihovim ljudima koji isto namjeravaju uskočiti.127 Neki od Vlaha Istre završit će i među uskocima u Senju. Mletački izvori iz sredine 16. stoljeća naglašavaju znatnu prisutnost
+bivših osmanskih podanika među senjskim uskocima.128
+Mletačke vlasti nastojale su te vlaške prebjege naseliti podalje od osmanske granice u Dalmaciji te su ih brodovima, preko Zadra, Pontadure (Vir) i Ljubača,
+prebacili u Istru. Naseljavanjem novoga stanovništva željeli su strateški ojačati u
+Istri i demografski ju stabilizirati jer se nalazila preko puta, praktički pred vratima Venecije, te je imala golemo geostrateško značenje. Mletačka Istra zbog toga
+je i nazvana „štitom Presvijetle” (Scudo della Dominante).129 Prema izvješćima
+mletačkih rektora, u Istru se tih godina doselilo oko 2000 vlaških obitelji, čiji
+će broj zbog naknadnih iseljavanja do 1554. godine pasti na oko 1700. Naime,
+ti novi doseljenici nisu bili zadovoljni uvjetima koje su zatekli u mletačkom dijelu Istre, više ekosistemskim nego statusnim, pa se znatan dio odlučio vratiti.
+Mletačka izvješća tako su javljala da se zbog loše klime, oskudnih pašnjaka i
+slabe vode (dove l`annno passato cacciati dala ere, dalla strettezza di pascoli e dal
+diffetto dell`acque) veliki dio iseljenika u Istri namjerava vratiti „u Tursku”.130
+O tome je Visokoj porti poslije pisao Ćejvan-beg u kontekstu problema razgraničenja između Kliškoga sandžaka i Mletačke Dalmacije: „Počinjući ja, po naređenju vašeg carskog Veličanstva, opisivati
+sandžakate Klisa i „Canga” i našavši da je bio Stari Obrovac zapaljen od okolnih kršćana tj. Istrana
+i drugih, koji su pogranični s Obrovcem, Karinom, Nadinom, Vranom,… i Skradinom, šest tvrđava
+potčinjenih Kliškom sandžakatu, te našavši također da su sve ove tvrđave neprestano mučene od
+rečenih, koji sebi dopuštaju da provaljuju i otimaju od granice vašeg carskog Veličanstva”… . Vicko
+Solitro, Povijesni dokumenti o Istri i Dalmaciji, prev. i ur. Vladimir Rismondo (Split: Književni krug,
+1990), 249.
+125
+
+Klaić, Povijest Hrvata, 5, 622. Nikola Jurišić još je od 1528. držao gospoštije Podgrad i Postojnu,
+koje je preuzeo nakon što su oduzete Krsti Frankapanu.
+
+126
+
+127
+
+Stanić, „Ambivalentna lojalnost na Hrvatskoj krajini u 16. stoljeću”, 131.
+
+Giovani Antonio Novelo, providur Sopraintendanture za granicu, izvijestio je Veliko vijeće 14.
+travnja 1559. da u Senju i Bakru među uskocima ima mnogo bivših osmanskih podanika. Od 10
+uskočkih vođa trojica su „turski prebjezi”. Bracewell, Senjski uskoci, 59.
+
+128
+
+129
+
+Ivetić, Granica na Mediteranu, 103.
+
+130
+
+Commissiones et relationes Venetae, II, 173.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+205
+
+Interes za povratak posebno je narastao nakon saznanja da su osmanske vlasti
+po sklapanju mira s Mlečanima 2. listopada 1540. abolirale i pozvale svoje odmetnute podanike na povratak u stara boravišta. Jednu od tih grupa povratnika
+zadarski rektori (knez Antonio de Mula) uspjeli su zadržati i naseliti ih preko
+1000 na zadarskom teritoriju.131 Tako se oko 1540. počela oblikovati društvena
+zajednica Morlaka Istrijana na zadarskom contadu. Premda se radilo o svojevrsnom lokalnom produktu i pandanu fenomena osmanskih Vlaha Istre s druge
+strane granice, treba voditi računa da su zadarske vlasti tim imenom označavale
+svakoga vlaškog povratnika iz Istre, bez obzira na to je li ili nije do 1538. pripadao
+skupini osmanskih Vlaha Istre. Prema tome, Morlaci Istrijani zadarskoga teritorija imali su širu demografsku osnovicu od „autentičnih” osmanskih Vlaha Istre.
+
+Vlasi Istre u sandžaku Klis: prema osmanskom poreznom popisu
+iz 1540.
+Nakon što je 1537. zauzeta tvrđava Klis, posljednja hrvatska utvrda južno od
+Velebita, formiran je sandžak Klis, čime su Osmanlije potvrdili svoje osvajačke ambicije prema sjeverozapadu.132 Područje zapadno od rijeke Krke (Zakrčje,
+Prikokrčje) postalo je tada krajište te novoformirane vojno-upravne provincije.
+Njezinim prvim namjesnikom postao je Murat-beg Gajdić, bivši ćehaja bosanskoga sandžakbega Gazi Husrev-bega i subaša (vojvoda) vilajeta Hrvati. Suočivši
+se ponovo s velikim razmjerima depopulacije, koji su ove krajeve pretvorili u
+pustoš (hali – pusto zemljište), a što je izravno ugrožavalo sigurnost osmanskoga
+posjeda na osjetljivom imperijalnom trograničju, vlasti su bile prinuđene na nove
+oblike kompromisa, ustupaka i provizornih rješenja, riječima Nenada Moačanina, „bila je to cijena stabilizacije osmanske vlasti”.133 Vlasima su 1540. vraćene
+stare povlastice, dokinuta im je glavarina, vraćen prijašnji status te su abolirani
+i pozvani da se vrate na stara staništa. Bio je to tek početak variranja vlaškoDe Mula u svojoj relaciji ističe: „Magnific gospodin Alojzije Badoer uredio je da su sa turskog teritorija došli pod vlast Vaše Privredrosti možda 5000 Morlaka, koji su zbog sigurnosti bili prevezeni
+u Istru, gdje su prošle godine potjerani od klime, premalih pašnjaka i nestašice vode, a kako su im
+Turci davali mnoge olakšice, oni su sa svojim obiteljima otišli i krenuli natrag u Tursku. Vidjevši da iz
+toga nastaju dvije štete za Vašu Privredrost, jer je gubila toliko dobrih ljudi, koji su nam toliko trebali,
+a naši se neprijatelji njima služili, pa bi čak ovi isti kako su poznavali naš teritorij, dolazili svakog
+dana da našima nanose štete, odlučio sam s toga da ih zadržim svom svojom snagom… To je doista
+bio spas onoga kraja, i velika dobrobit za Vašu Vedrost i za ove istarske Morlake. Do moga odlaska
+došlo ih je preko 1000 i svakog dana dolaze novi, jer se vidi da se s njima tako dobro postupa”. Grga
+Novak, „Morlaci (Vlasi) gledani s mletačke strane”, Zbornik za narodni život i običaje Južnih Slavena
+45 (1971): 588, prema: Commissiones et relationes Venetae, II, 172-173.
+
+131
+
+132
+
+Šarić, „Lovinački kraj na razmeđu epoha”, 152.
+
+Nenad Moačanin, „Hrvati pod vlašću Osmanskog Carstva do razdoblja reformi u Bosni i Hercegovini (1463-1831)”, u: Željko Holjevac, Nenad Moačanin, Hrvatsko-slavonska vojna krajina i Hrvati
+pod vlašću Osmanskog Carstva u ranome novom vijeku (Zagreb: Leykam international, 2007), 157.
+
+133
+
+206
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+ga položaja na granici između planova imperijalne središnjice (Visoka porta) i
+pragmatične politike provincijskih namjesnika u Livnu, poslije i Kninu. Muratbeg Gajdić, sada u funkciji kliškoga sandžakbega, po drugi put našao se u prilici
+pozivati Vlahe u Istri da se vrate u stari zavičaj. Istimâlet je upućen prebjezima
+na mletačkoj strani nakon što je službeno sklopljen mir 2. listopada 1540. Mlečani su prema uvjetima primirja bili dužni poštovati povratak Vlaha Istre na
+osmanski teritorij, dapače morali su osigurati brodove za njihovo prebacivanje
+u Dalmaciju zajedno sa stokom. Međutim, mletačke vlasti na svakom koraku
+opstruirale su njihov povratak, nastojeći ih što više zadržati na svojem teritoriju,
+nudeći im sa svoje strane također povlastice i druge pogodnosti.134
+Odmah po svršetku rata pristupilo se novom poreznom popisivanju novoformiranoga sandžaka Klis, u kojem se u cijelosti našlo područje bivšega vilajeta
+Hrvati. Iz popisa su vidljive sve posljedice rata i iseljavanja Vlaha Istre. Prema
+podacima iz opširnoga popisa 1540., Vlasi Istre zabilježeni su u pet svojih vlaških
+nahija i pet džemata, 43 sela i 4 mezre, ukupno u 322 kuće (vidi tablicu 3). Radilo
+se o nahijama „Vlaha Istrije”: Ostrovica, Zrmanja, Bukovica, Karin i Plavna. U
+međuvremenu su prestale postojati vlaške nahije Podgorje, Obrovac, Buković,
+Kličevac i Zečevo. U pet džemata (tablica 4) i 47 sela i mezri kao poreznih jedinica zapisana su 364 domaćinstva. To je s obzirom na proširen karakter njihovih
+obitelji moglo iznositi oko 2900 stanovnika. Ovdje bi trebalo pribrojiti i određen
+broj Vlaha Istre koji su ostali živjeti ili su se vratili na Gazi Husrev-begov vakuf u
+Kožulovu polju. Približno gledajući, broj kuća, odnosno domaćinstava gotovo se
+prepolovio (oko 52,7%). Podgorje je bilo sasvim raseljeno, a njegova bivša sela iz
+1528. – 1530. sada se, kao i u sljedećem popisu iz 1550., spominju tek kao „puste
+mezre koje se obrađuju izvana”.135 Vlaška nahija Obrovac također je ukinuta i
+priključena „muslimanskoj” nahiji Obrovac. Nahije Kličevac i Benković ukinute
+su ne samo zbog iseljavanja stanovništva nego i zato što su sela s toga područja
+u međuvremenu priključena vakufu Gazi Husrev-bega u Kožulovu polju. Slično je bilo i s ukinutom vlaškom nahijom Zečevo, čiji su predjeli pripali Gazi
+Husrev-begovu vakufu i nahiji Ostrovica. Nahija Bukovica svedena je na samo
+jedno selo, Brušku, a ostala sela priključena su nahiji Ostrovica. Samo su nahije
+Karin i Zrmanja u cijelosti sačuvale svoj teritorijalni opseg iz 1528. – 1530. Od
+povratnika iz Mletačke Istre 1540. formirana je nova nahija, Plavna Istrija. Očito
+je Murat-beg Gajdić, ponukan iskustvom, te vlaške povratnike naselio u dubinu
+osmanskoga teritorija, što dalje od mletačke granice. Na čelu džemata bili su: priTomislav Raukar et al., Zadar pod mletačkom upravom 1409-1797. (Zadar: Narodni list; Filozofski
+fakultet u Zadru, 1987), 236, 242; Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 58.
+
+134
+
+Primjerice kao 1550. u slučaju Veče, Selina, Bijorče i Dubočca u Podgorju, gdje se kaže: „U starom
+defteru nalazi se upisano da se raja spomenutog sela razbježala, a od onih koji te zemlje obrađuju
+uzima se prema zakonu ušur. Sada kada je vršena kontrola ustanovljeno je da se raja stvarno davno
+razbježala, pa je u novi defter upisano da oni koji te zemlje obrađuju plaćaju ušur i salariju.” Opširni
+popis Kliškog sandžaka iz 1550. godine, prir. Fehim Dž. Spaho (Sarajevo: Orijentalni institut u Sarajevu, 2007), 230, 231.
+
+135
+
+207
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+mićur Milan, sin Radka u nahiji Ostrovica, knez Herak, sin Radice u nahijama
+Zrmanja i Bukovica, knez Hlapac, sin Radovana u nahiji Plavna Istrija i primićur
+Maljko u nahiji Karin.136 Kornelija Jurin Starčević iznosi pretpostavku da se nije
+radilo o cijelim džematima, nego o njihovim ostacima, čiji se veći dio odselio.137
+Tablica 3. Vlasi Istre prema opširnom popisu iz 1540.138
+Nahija
+Ostrovica
+Zrmanja
+Bukovica
+Karin
+Plavna
+Ukupno
+
+Sela i mezre kao porezne jedinice
+22139
+11140
+1141
+5142
+9143
+48
+
+Kuće
+154
+60
+6
+29
+72
+322
+
+Prihod
+18480
+7200
+4200
+3480
+8760
+41.120144
+
+136
+
+Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 246-257.
+
+137
+
+Jurin Starčević, „Osmanski krajiški prostor”, 171.
+
+138
+
+Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 246-257; Zlatar, Gazi Husrev-beg, 144.
+
+Selo Brgud (Brgud kod Benkovca) – 16 nemuslimanskih kuća; selo Surožani, Bliznjani i Novica
+(nepoznato) – muslimanskih kuća 2, nemuslimanskih kuća 12; selo Gornje Jeline (nepoznato) – nemuslimanskih kuća 6; mezra Gostrimirović (nepoznato) – nemuslimanskih kuća 3; mezra Marica
+(nepoznato) – nemuslimanskih kuća 2; selo Sirjani – nemuslimanskih kuća 5; selo Kuhači – nemuslimanskih kuća 5; selo Sirjani (nepoznato) – nemuslimanskih kuća 5; selo Kuhači (nepoznato) – nemuslimanskih kuća 5; selo Bilice – nemuslimanskih kuća 11; selo Papraćani (nepoznato, ne radi se o
+starom selu Papraćane kod Kašića u novigradskom distriktu koje je tada bilo u mletačkom posjedu)
+– muslimanskih kuća 1, nemuslimanskih kuća 7; selo Medviri, drugim imenom Medviđi i Podubrave
+(Medviđa) – muslimanskih kuća 1, nemuslimanskih kuća 5; selo Iržište (nepoznato) – muslimanskih
+kuća 2, nemuslimanskih kuća 8.
+
+139
+
+Selo Začađe – nemuslimanskih kuća 6; selo Brdar – nemuslimanskih kuća 6; selo Kolašac – nemuslimanskih kuća 5; selo Brštane – nemuslimanskih kuća 4, muslimanskih kuća 1; selo Prolija – nemuslimanskih kuća 2; selo Čelopek – nemuslimanskih kuća 6; selo Dragojić – nemuslimanskih kuća 4.
+
+140
+
+141
+
+Selo Bruška – nemuslimanskih kuća 6.
+
+Selo Golubić (Golubić kod Obrovca) – nemuslimanskih kuća 12; selo Dasičani (nepoznato) – nemuslimanskih kuća 4; selo Dragomirani – nemuslimanskih kuća 4; selo Slane, pripada Karinu – nemuslimanskih kuća 5; selo Buči Poljana – nemuslimanskih kuća 4.
+
+142
+
+Selo Veliki Kornić (nepoznato) – nemuslimanskih kuća 11; selo Štitarić (nepoznato) – nemuslimanskih kuća 3; selo Mali Kornić (nepoznato) – nemuslimanskih kuća 5; selo Turopal (možda Topolje kod
+Knina?) – nemuslimanskih kuća 16; selo Podlužje, drugim imenom Razlužje (nepoznato) – nemuslimanskih kuća 8; selo Babrovire (nepoznato) – nemuslimanskih kuća 1; selo Stavnica i Vranova Poljana
+(nepoznato, samo kao kuriozitet, kod Tiškovca postoji Ševina Poljana); selo Zablaćani (nepoznato); selo
+Godun (današnji Grubori, zaselak u Plavnom prema popisu iz 1701.). Toliko malen broj ubiciranih naselja posljedica je seoba i smjena stanovništva na ovom području tijekom 16. i 17. stoljeća. Posljednji doseljenički val bio je onaj Vlaha Bjelajaca iz Bosne 1690., koji su naselili Plavno, Strmicu, Pađene, Mokro
+Polje, Zrmanju i Popinu i od kojih potječe moderna mikrotoponimija ovoga kraja.
+
+143
+
+Ukupan iznos kad se pribroji prihod iz nahije Karin. Nije jasno zašto osmanska administracija nije
+uključila iznos prihoda iz te nahije, pa im je ukupan prihod na kraju ispao 38.640 akči. Buzov, „Vlasi
+Istrije na području sjeverne Dalmacije”, 257.
+
+144
+
+208
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Tablica 4. Vlaški džemati prema popisu iz 1540.
+Džemat
+Milan, sin Radka
+Hlapac, sin Radovana
+Dragiša, sin Dragoja
+Herak, sin Radice
+Maljko
+
+Titula
+Primićur
+Primićur
+Vojvoda
+Knez
+Primićur
+
+Kuće
+150
+32
+37
+61
+29
+
+Nahije
+Ostrovica
+Plavna
+Plavna
+Zrmanja, Bukovica
+Karin
+
+Ako izuzmemo „vakufske Vlahe”, povratnički Vlasi Istre 1540. nalazili su se u
+sastavu sultanova, carskoga hasa. Plaćali su klasičan vlaški porez, filuriju, koji
+je zamjenjivao sve ostale poreze, u iznosu od 120 akči po kući. Ukupan prihod
+od filurije iznosio je 41.120 akči. Filurija („podimni dukat”) nekad je označavala
+porez za stočarsko stanovništvo koje se nije bavilo zemljoradnjom, ali to je sada
+vrijedilo samo načelno kao i kod Vlaha Istre. Ova skupina sada nema nijednoga
+„vlaškog spahiju”, a odbjegloga vojvodu Žakmana zamijenio je vojvoda Dragiša,
+sin Dragoja iz sela Podlužje u nahiji Plavna.145 Prema tome, Vlasi Istre i dalje su
+bili obvezani na vojnu službu pomoćnih odreda na granici.
+
+Vlasi Istre / Morlaci Istrijani kao transgranični fenomen u
+zadarskom zaleđu i nove povratne migracije
+Povratak Vlaha Istre 1540. u svoje nahije u Bukovici i Ravnim kotarima, pri čemu
+se dio njih zadržao i naselio na mletačkom zadarskom teritoriju, stvorio je duž
+nove mletačko-osmanske granice od Novigradskoga mora do Vranskoga jezera
+novu situaciju i nove izazove po pitanju sigurnosti i lojalnosti. Problemi mletačko-osmanskoga razgraničenja i sporovi oko pripadnosti sela, obrađivanje zemlje
+pod zakupom na mletačkom području, transhumanca i odlazak na zimske i ljetne pašnjake na mletačkom i osmanskom teritoriju, prekogranična komunikacija
+sa srodnicima i dijelovima katuna (džemata) koji su ostali na osmanskom teritoriju, krijumčarenje stoke i soli, a nadasve njihova demografska dominacija na
+ovom dijelu granice, stvorili su od njih objekt interesa velikih sila u nadmetanju i
+poravnavanju međusobnih računa.146 Osmanlije su uporno dokazivali da su Vlasi Istre na mletačkom području (Morlaci Istrijani) njihovi podanici i nisu odu145
+
+Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 252.
+
+Kristijan Juran to ovako sumira: „Sve do Ciparskog rata 1570.-1573. Morlaci Istrijani davali su
+društveni pečat mletačko-osmanskom pograničju, u neposrednom i širem zaleđu Zadra, bivajući gotovo u kontinuitetu objektom diplomatskih nadmudrivanja na relaciji Venecija – Istanbul, uz posredovanje pokrajinskih namjesnika i političkih elita, s jedne strane dalmatinskih kneževa i providura,
+a s druge bosanskih kadija i begova. Svjesni njihovih vojnih vještina, ali i demografske atrofije svojih
+uzgraničnih posjeda, obećavali su im jedni i drugi razne povlastice, pozivali ih pod svoje okrilje, zadržavajući pritom nužan oprez te provocirajući istodobno lojalnost i (ne)potkupljivost svojih glavara”.
+Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 46.
+
+146
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+209
+
+stajali od toga da ih pridobiju, odnosno da prošire vlast na njihova nova naselja u
+zadarskom zaleđu.147 O kontroli i socijalnom discipliniranju tih novih mletačkih
+podanika jedva da se može govoriti. Zadarski knez Antonio Michielo rekao je za
+Morlake na zadarskom teritoriju 1557. da su neukrotivi i „mnogi od njih lopovi,
+jer knezovi ih ne mogu ukrotiti”.148 Neki mletački dužnosnici nisu bili skloni
+prisutnosti Vlaha osmanskih podanika na mletačkom posjedu jer su utjecali na
+prebjege i predstavljali sigurnosnu prijetnju na granici.149 Trogirski knez Alvise
+Barbaro 1588. savjetovao je Senatu da vlaške prebjege s osmanskoga teritorija
+odmah uputi u Istru.150 Prelaskom u mletačko podaništvo Vlasi Istre sve se više
+okreću zemljoradnji kao glavnoj gospodarskoj djelatnosti, ali i dalje prakticiraju
+sezonsko stočarstvo transhumantnoga tipa odlazeći na ljetnu ispašu na Velebit i
+u Liku. Upravo primjenjujući takav ekstenzivan sezonski tip stočarstva, najviše
+se relativizirao pogranični režim, što je kod mletačkih vlasti pobuđivalo stalne
+sumnje u lojalnost „morlačkih” podanika, nastojeći ih u tome ograničiti ili čak
+zabraniti takve aktivnosti. Zadarski rektor izvijestio je tako Senat siječnja 1562.
+da osmanski podanici zimi dolaze sa stadima na zadarski teritorij, a mletački
+Morlaci ljeti izgone svoja stada na planine u „turskoj zemlji”, što stvara sigurnosne probleme.151 U osmanskom poreznom popisu 1550. stoji podatak o sklopu
+ljetnih pašnjaka (yaylak) na planinama Ličkoga sredogorja, Mazinskoj planini
+i Čemernici, koji su pripadali sultanovu hasu i na kojem su vlaški stočari „nomadi” (hajmane) plaćali pristojbu na ispašu u ukupnom iznosu od 1500 akči.152
+„Hajman” je pravno označavao osobu bez stalnoga prebivališta ili koja živi na
+mjestu gdje nije prije upisana. U kontekstu ljetne ispaše u Lici označavao je stočara „nomada” koji je dolazio iz drugoga sandžaka ili pak druge države zbog ispaše.
+Dio spomenutih „hajmana” iz 1550. svakako se odnosio i na Morlake Istrijane
+sa zadarskoga područja, koji su i pored promjene podaništva nastavili živjeti životom sezonskih stočara i odlaziti na planinske pašnjake u Lici, koji su im bili
+poznati još od srednjega vijeka.153 Prema podacima iz opširnoga popisa sandžaka
+Klis i Krka iz 1585., jedan od najvećih ljetnih pašnjaka bilo je Podgorje na planini
+147
+
+Commissiones et relationes Venetae, II, 186-187.
+
+Commissiones et relationes Venetae, Tomus III: Annorum 1553-1571, prir. Šime Ljubić, Monumenta
+spectantia historiam Slavorum meridionalium 11 (Zagreb: JAZU, 1880), 101.
+
+148
+
+U relaciji Marina Cavallija, baila u Carigradu, iz 1560. stoji: „U Dalmaciji oslobodimo se Morlaka, bili oni koloni ili najamnici, i neka ti krajevi budu radije neobrađeni i divlji, nego nastanjeni od
+osmanskih podanika…”. Commissiones et relationes Venetae, III, 147.
+
+149
+
+Miroslav Bertoša, Mletačka Istra u XVI. i XVII. stoljeću i kolonizacija (Pula: Istarska naklada,
+1986), 62.
+
+150
+
+Italija (dalje: IT) – Archivio di Stato di Venezia (dalje: ASVe) – Senato Mar – in Registri 35, 10.
+gennaio 1562.
+
+151
+
+152
+
+Opširni popis Kliškog sandžaka, 22.
+
+Kao kuriozitet spomenimo ovdje da je u popisu 1712. na području Raduča u Lici zapisan toponim
+Istrijanska Glavica, što je očito odjek daleke prošlosti iz 16. stoljeća i vremena kad su Vlasi Istre dolazili na ispašu. Šarić, „Lovinački kraj na razmeđu epoha”, 150.
+
+153
+
+210
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Velebit,154 u nahiji Obrovac, čiji je prihod iznosio 3583 akče, što znači da se tamo
+preko ljeta napasalo oko 72.000 ovaca.155 I u ovom slučaju većina pašnjaka nije
+služila potrebama domaćih stočara, nego onima iz udaljenih krajeva, vlaškim
+stočarima iz drugih sandžaka ili onima koji su dolazili s druge strane granice.156
+Odlazeći na osmanski teritorij, izlagali su se opasnostima od krađe i pljačke od
+drugih vlaških osmanskih podanika, što je poslije bilo teško potraživati, i još više
+od senjskih uskoka. U lipnju 1560. senjski su uskoci tijekom četovanja u Lici izveli prepad na zadarske Morlake Istrijane koji su boravili na velebitskim pašnjacima, zaplijenili im i odagnali svu stoku i nekoliko pastira odveli sa sobom. Senat je
+zbog toga zatražio od habsburškoga poslanika da utječe kod senjskoga kapetana
+Ivana Lenkovića da bi se mletački podanici sa svojim stadima oslobodili.157 Dok
+su uskoci u svojim akcijama najviše štete činili upravo osmanskim Vlasima, odvodeći ih u roblje i otimajući im stoku, mletački su Morlaci Istrijani, kao i ostalo
+seosko stanovništvo Dalmacije, povremeno surađivali sa Senjanima, pomažući
+im ili im se čak pridružujući u četovanjima na osmansko područje.158 Upravo
+preko mletačkoga područja kod Novigrada i Vrane uskoci su najčešće upadali na
+osmanski teritorij i ondje imali razgranatu mrežu suradnika. U izvještaju carigradskoga baila Alvisea Reniera početkom 1550. kaže se da su Morlaci Istrijani
+naseljeni u zadarskom „contadu” neotporni prema Senjanima i služe im kao obavještajci.159 Neki od njih će se i pridružiti uskocima u Senju, od kojih je svakako
+najpoznatiji bio spomenuti Andrija Frletić (Andre kapetan epske tradicije).
+Migracijska kretanja nisu se smirivala ni nakon 1540. godine. Prema smjeru
+migracije iznimku je predstavljala jedna vlaška skupina, katun od 25 obitelji iz
+Muškovaca kod Obrovca, koja je u proljeće 1544. iskoristila izlazak na ispašu u
+Liku i prebjegla na habsburški teritorij u gornje Pokuplje. Knez Nikola Zrinski
+naselio je te Vlahe u mjestima Prilišće i Rosopajnik (poslije i Vukova Gorica) na
+ribničkom vlastelinstvu i 25. lipnja 1544. dao im ispravu kojom im je priznao
+status nasljednih slobodnjaka (libertini).160 Jedina njihova dužnost bila je da služe kao vojnici u vlastelinskom banderiju. Podrijetlom su bili hrvatski (čakavski)
+Vlasi katoličke vjere i vjerojatno su dolazili iz korpusa Vlaha Istre, premda se
+tako nisu predstavljali svojim novim gospodarima.161 Nekako u to vrijeme jedna
+Radilo se o prostranim pašnjačkim kompleksima: Veliko i Malo Rujno, Oglavinovac, Javornik,
+Štirovac, Bunjevac, Sveto Brdo, Veliki i Mali Golić, Libinje, Male i Duboke jasle.
+
+154
+
+155
+
+Buzov, „Vlaška sela, pašnjaci i čifluci”, 236.
+
+156
+
+Buzov, „Vlaška sela, pašnjaci i čifluci”, 236.
+
+157
+
+Hrabak, „Vlaška i uskočka kretanja u severnoj Dalmaciji u XVI stoleću”, 171.
+
+158
+
+Bracewell, Senjski uskoci, 187, 215.
+
+159
+
+Commissiones et relationes Venetae, II, 186-187.
+
+160
+
+Hrvatski urbari, sv. I, sabrao i protumačio Radoslav Lopašić (Zagreb, 1894), 381-382.
+
+Vlasi Muškovići (katunar Dien Mušković) spominju se 1433. u poznatoj ispravi ličkih kraljevskih
+Vlaha (vsih dobrih Vlaha svete krune kralevstva ugarskoga v Hrvatih). Usp. Josip Vončina, „Četiri
+
+161
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+211
+
+manja skupina Vlaha pristigla je i na susjedno bosiljevsko vlastelinstvo, postavši
+također slobodnjacima u službi grofova Frankapana. Međutim, podizanje njihova naselja Erdelja (tzv. Prikanci) ne može se detaljnije pratiti u izvorima.162
+Još je zanimljivija „storija” o Vlasima Milokanićima (Milohanićima), koji su oko
+1550. po drugi put iz Istre prebjegli u osmansku državu. Pojedinosti doznajemo
+iz pričanja 70-godišnjega starca Nikole Milokanića, bivšega muslimana po imenu Osman iz Banpolja u Lici.163 Milokanić je dalmatinskom providuru Ferigu
+Naniju, koji ga je 16. travnja 1591. saslušavao, izjavio da se rodio u Istri prije
+70 godina te je oko 1550. otišao u osmansku državu, gdje se oženio, a poslije se
+zajedno sa 184 srodnika i ostalih istomišljenika odlučio vratiti u Istru. Klement
+Pust, koji je pronašao dokument, zaključuje: „na taj način se nekadašnji renegat
+koji se s mletačkog područja preselio pod osmansku vlast, pod stare dane odlučio
+vratiti u svoju prvotnu domovinu, zajedno s većom skupinom Morlaka”.164 Novu
+zajednicu u selu Miljacki (na području današnjega Zemunika Gornjeg) utemeljio
+je pak 1561. doseljenik povratnik Grgur Milohanović iz Nove Vasi kraj Poreča
+u Istri, ali vrlo brzo, već 1570. godine, nakon što su Osmanlije zauzeli Zemunik
+u Ciparskom ratu, morao se vratiti u Istru zajedno s 40 obitelji koje je predvodio Ivan Filipini i naselio u Žbandalju kraj Poreča.165 Konačno, podsjetimo da se
+1541. prvi put spominju doseljeni Vlasi podrijetlom iz Hrvatske koji su naselili
+12 sela na padinama Kisečkoga gorja u južnom Gradišću (kasnija Vlahija).166 Još
+uvijek nije točno utvrđeno njihovo ishodišno područje i godina doseljenja.167 Ako
+glagoljske listine iz Like”, Radovi Staroslavenskog instituta. 2 (1955), br. 2: 217-218. Selo Muškovci kod
+Obrovca bilo je njihov teritorijalizirani katun.
+Erdelj, selo na desnoj obali („priko”) Dobre kod današnjega Generalskog Stola, otuda im vjerojatno
+ime „Prikanci”, iako ima i drugih tumačenja („prikija” – prćija, dota). Na bosiljevskom vlastelinstvu
+bilo je inače i katoličkih i pokatoličenih Vlaha „slobodnjaka”. Usp. Hrvatski urbari, 328.
+
+162
+
+163
+
+Pust, „Vpliv osmanskih vpadov na migracije v Istri”, 169.
+
+Pust, „Vpliv osmanskih vpadov na migracije v Istri”, 169. Vrlo je moguće da vlaški rod Milokanića
+iz „Banpolja” u 16. stoljeću ima veze s istarskim Milohanićima iz istoimenoga sela kod Tinjana u
+Pazinskoj grofoviji. U srednjem vijeku postojalo je selo Milohanić u okolici Korlata kod Benkovca u
+Banadegu – Banovini („Banjpolju”), koje se pod tim imenom spominje još i 1636. godine. Izbjeglice
+iz toga kraja vjerojatno su i osnovale selo Milohaniće zapadno od Tinjana, tada na samoj granici s
+mletačkim područjem u pojasu problematičnih „diferenzzi” (nepodjeljena sporna područja duž mletačko-habsburške granice u Istri).
+
+164
+
+165
+
+Raukar et al., Zadar pod mletačkom upravom, 268; Bratulić, Rovinjsko selo, 9.
+
+Radilo se o selima na vlastelinstvu Rohunac-Solunak obitelji Batthyány (Solunak, Cekljin, Širokane, Ključarevac) i vlastelinstvu Verešvar obitelji Erdődy (Rupišće, Bandol, Parapatića Brig, Bošnjakov
+Brig, Podgorje, Stari Hodas). Uživali su svoje „vlaške slobode” (libertini), a njihova posebna prava sastojala su se u smanjenim davanjima i oslobađanju od tlake. Zauzvrat su morali obavljati vojno-oružničku službu te plaćati simbolične daće (npr. uskrsni jarac). Usp. Josef Breu, „Prostorni opseg i posljedice za sliku naselja”, u: Povijest i kultura gradišćanskih Hrvata, ur. Ivan Kampuš (Zagreb: Nakladni
+zavod Globus, 1995), 63-65.
+
+166
+
+Točna godina doseljenja nije poznata, a pretpostavlja se da je to moglo biti između 1517., kad vlastelinstvo Verešvar preuzima Petar I. Erdődy, i 1541., kad se prvi put spominju. Kako se selo Bandol
+
+167
+
+212
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+se analiziraju etnokulturne strukture gradišćanskih i istarskih Vlaha, primjetne
+su velike sličnosti: jezične (staroštokavci-ikavci), konfesionalne (katolici) i onomastičke.
+
+Trst
+Koper
+Ozalj
+Poreč
+
+Buzet
+Pazin
+
+Pula
+
+Rijeka
+
+Senj
+Bihać
+
+Nin
+Zadar
+
+Obrovac
+
+Knin
+Ancona
+
+Karta 1. Migracije Vlaha Istre u prvoj polovini XVI. stoljeća (izradio: dr. sc. Branimir Brgles). Zeleno: osmansko podaništvo; plavo: mletačko podaništvo; smeđe
+habsburško podaništvo.
+
+u svojem hrvatskom obliku pojavljuje 1538., moguće je da je do naseljavanja došlo negdje oko te godine. Breu, „Prostorni opseg”, 63-65. To bi značilo da se njihovo doseljavanje poklapa s vremenom
+intenzivnih vlaških migracija na izvornoj Tromeđi. Neki su mišljenja, s obzirom na narječje kojim
+govore, da su došli s područja donjega Pounja, ali to je moglo biti samo njihovo etapno boravište. O
+gradišćanskim Hrvatima-Vlasima više vidi u: Kvetoslava Kučerová, Hrvati u Srednjoj Europi (Zagreb:
+Matica hrvatska; Matica slovačka, 1998), 114-132.
+
+213
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+Vlasi Istre u sandžaku Klis prema poreznom popisu iz 1550.
+Podaci iz opširnoga poreznog popisa iz 1550. za sandžak Klis i dalje pružaju sliku
+kontinuiranoga demografskog pada unutar skupine Vlaha Istre. Od četiri nahije u kojima su živjeli samo je jedna imala predznak istarski (nahija Zrmanja),
+Ostrovica je nosila dvostruki naziv (nahija Ostrovica i Istrija Ostrovica), a dvije
+– Bukovica i Plavna – nemaju više istarski predznak, ali u njima su zabilježeni
+Vlasi Istre. Na tom području bilo je sada popisano 8 džemata, 75 sela i mezri kao
+poreznih jedinica, ukupno 461 domaćinstvo, od čega se za 73 domaćinstva može
+sa sigurnošću reći da su vlaško-istarska jer se imena kućedomaćina ponavljaju
+iz prethodnog popisa 1540. (tablica 5).168 Naravno, to ne može biti apsolutni broj
+jer je određeni dio kućedomaćina u međuvremenu umro ili poginuo te su ih
+kao kućne starješine naslijedili braća, sinovi ili sinovci. Međutim, da se radilo o
+mnogo većem broju od 73 teško je vjerovati – maksimalno je s novim kućedomaćinima moglo biti do 100 obitelji. Ako tom broju dodamo pretpostavljeni broj
+od 90 kuća Vlaha Istre na vakufskom posjedu u Kožulovu polju (1574. bilo ih je
+93), koji nije popisan u defteru 1550., dolazimo do približnoga skupnog broja od
+realnih 190 domaćinstava Vlaha Istre ili oko 1500 duša. To bi u odnosu na 1540.
+bio novi demografski pad za oko 51,7%, što bi značilo da se broj Vlaha Istre u
+samo 10 godina ponovo prepolovio.
+Tablica 5. Vlasi Istre prema popisnom porezu iz 1550. (u zagradi pod „Kuće”: imena
+vlaških kućedomaćina iz popisa 1540.)
+Nahija
+Ostrovica i Istrija Ostrovica
+Zrmanja Istrija
+Bukovica
+Plavna
+Ukupno
+
+Sela i mezre kao porezne jedinice
+55 + 1 varoš
+4
+4
+10
+75
+
+Kuće
+352 (41)
+14 (-)
+53 (-)
+42 (32)
+461 (73)
+
+Prihod
+57.120
+2160
+7200
+6300
+72.780
+
+Analiza pojedinih nahija pokazuje nam vrlo zanimljive pojave. Posebno je zanimljiva nahija Zrmanja Istrija. Premda se radilo o nahiji naseljenoj Vlasima Istre,
+nijedno od 14 zabilježenih imena kućedomaćina ne ponavlja se iz prethodnoga
+popisa, što nam govori da je bila riječ o sasvim novoj skupini Vlaha Istre, koja se
+na zrmanjsko područje doselila između 1540. i 1550. To je očito i prema starješini
+njihova džemata, primićuru Stepanu, sinu Radovana, dok je ondje prije deset godina bio džemat kneza Heraka, sina Radice.169 Obrnut je pak slučaj nahija Plavna!
+Premda je izgubila istarski predznak, u nahiji se 1550. imena kućedomaćina u
+168
+
+Opširni popis Kliškog sandžaka, 3-21.
+
+169
+
+Opširni popis Kliškog sandžaka, 8; Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 53.
+
+214
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+odnosu na prošli popis ponavljaju u 32 od 42 upisane kuće. Možemo reći da se
+praktički u cijelosti radilo o istom stanovništvu koje je u toj nahiji živjelo i 1540.
+godine. Sela Vlaha Istre još uvijek su pripadala sultanovu (carskom) hasu. Filurija je 1550. iznosila 150 akči godišnje za jedno domaćinstvo. Vlaški starješine
+(knezovi i primićuri) bili su oslobađani toga poreza.170
+
+Migracije osmanskih Vlaha Istre u drugoj polovini 16. stoljeća
+Gašenje nahija Vlaha Istre i njihovo demografsko opadanje pokazatelji su da je
+od sredine 16. stoljeća uznapredovao proces postupnoga uzmicanja starijih vlaških struktura koje predstavljaju Vlasi Istre, koji su zapravo starosjedioci u tim
+krajevima, pred novim vlaškim doseljenicima iz jugoistočne dinarske unutrašnjosti, novoštokavske, katoličke i pravoslavne provenijencije. To se lijepo može
+pratiti i na razini toponimije. Dok su Vlasi Istre kao starosjedioci najzaslužniji za
+očuvanje kontinuiteta lokalne toponimije iz srednjovjekovnoga razdoblja, koja
+uglavnom opstaje gotovo cijelo 16. stoljeće, novi doseljenici polako ju mijenjaju
+i donose novo nazivlje. To se može naslutiti na primjeru džemata kneza Bijovče, sina Vučkovog iz 1550., po kojem će se prozvati današnje Biovičino Selo kod
+Kistanja,171 ili u slučaju pojave Krmpotskog sela u Medviđi od 1585. godine. Sredinom i u drugoj polovini 16. stoljeća na području Bukovice, u nahijama Karin,
+Obrovac i Bukovica, sve je više naznaka prisutnosti doseljenih katoličkih Vlaha
+zapadnohercegovačkoga podrijetla (Morlachi Carapotani mletačkih izvora).172
+Srećemo ih također nakon 1585. na području Tinja, koje je osvojeno u Ciparskom
+ratu i koje je Ferhat-beg Sokolović 1574. za potrebe uzdržavanja vakufskih objekata, džamija i mekteba u Zemuniku, Vrani i Hrvacama uvakufio (čiftluk Tinj).
+Tamošnjih je šest mezri po iseljenju Vlaha Istre u Biograd naseljeno Vlasima
+Vojnićima, koji su bili zapadnohercegovačkoga podrijetla, a do Ciparskoga rata
+
+170
+
+Opširni popis Kliškog sandžaka, xi.
+
+Džemat kneza Bijovče imao je 1550. godine 86 kuća i uključivao brojna sela i mezre u nahiji
+Ostrovica, kao i samu varoš tvrđave Ostrovica. Poznatija sela su Međare, Žaževiž (Žažvić), Putičane,
+Dubravice, Dobra Voda, Bratiškovac, Čulišić i druga (Opširni popis Kliškog sandžaka, 10-13).
+
+171
+
+Iz popisa 1550. vidi se da je na području Karina bilo prisutno novodoseljeno katoličko stanovništvo predvođeno bosanskim franjevcima, konkretno fra Matijom iz Kreševa (Opširni popis Kliškog
+sandžaka, 388). U Šibeniku se 1554. spominje osmanski podanik iz Kruševa, izvjesni Vukoslav Carapotić (Krmpotić?), koji je bio dužnik jednom stanovniku Šibenika (Juran, „Doseljavanje Morlaka”,
+149). Kristijan Juran ovdje dvoji radi li se o Kruševu u zaleđu Primoštena, tada u sastavu nahije Petrovo polje, ili o Kruševu kod Obrovca. Međutim iste godine u Šibeniku spominje se osmanski podanik Mate, sin pok. Pere Milkovića iz obrovačkoga Kruševa, koji je isto bio dužnik lokalnom mesaru.
+Juran, „Doseljavanje Morlaka”, 149. Krmpotići i Milkovići bili su bunjevačke starješinske obitelji iz
+Medviđe, koja će se prozvati „Krmpotsko Selo” (današnji zaselak Staro Selo u Medviđi, gdje se nalazi
+i bunar žive vode Krmpot).
+
+172
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+215
+
+živjeli su u nahiji Sinj (1550. džemat kneza Mihovila, sina Radoja Vojihnića).173
+Mletački rektor Raba izvještavao je 11. srpnja 1582. da su senjski uskoci nedavno zapalili nekoliko sela osmanskih podanika u Murlacca (Bukovici),174 koja su
+„ranije pripadala Karlu Karloviću i Stjepanu Hercegu”, da bi onemogućili naseljavanje osmanskih podanika u tom kraju.175 Reminiscencija na hercega Stjepana
+Kosaču u ovom kontekstu jasan je pokazatelj da se radilo o vlaškim doseljenicima iz Hercegovine, među kojima su bili i katolički Vlasi, takozvani Bunjevci.176
+Ima također naznaka da su se preostali Vlasi Istre povezivali i srođivali s drugim
+vlaškim skupinama, osobito katoličkim. Historijska antroponimija sjeverne Dalmacije upućuje na međusobno prožimanje tih dviju katoličkih vlaških skupina.177
+Nakon 1550. Vlasi Istre sve se rjeđe spominju u osmanskim izvorima, a sve se
+više javljaju u novom statusu raje, o čemu će biti više riječi u nastavku teksta.
+Opširni popis Kliškog sandžaka, 92-94. Tinjski vakuf obuhvaćao je šest naselja: Lišane, Sikovo,
+Raštane Gornje i Donje, Goricu i Prkos. Prema crkvenom izvoru iz 1636., to je područje pokrivala
+jedna rimokatolička župa, koju je tada vodio don Stipan Sorić iz Gorice. Župa je imala oko 500 duša,
+„Morlaka latinskog obreda”. Taj je kraj bio poznat i kao Županovići, prema vojnićkoj starješinskoj
+obitelji Županović/Župan. Marko Šarić, „Bunjevci u ranom novom vijeku. Postanak i razvoj jedne
+predmoderne etnije”, u: Živjeti na Krivom Putu, ur. Milana Černelić, Marijeta Rajković i Tihana Rubić
+(Zagreb: FF Press, 2008), 38.
+
+173
+
+Mlečani su i Bukovicu uključivali u šire područje Morlakije (velebitsko Podgorje). Za vikara zadarskoga nadbiskupa Vincenza Forzu „Bukovica je jedna od najvećih planina Morlakije” (In Buccovizza,
+che é uno delli Monti maggiori della Morlacca sopra il Mar Adriatico). Marko Jačov, Spisi Kongregacije
+za propagandu vere u Rimu o Srbima 1622-1644, I (Beograd: SANU, 1986), 271.
+
+174
+
+175
+
+IT-ASVe – Archivio dei Baili Veneti a Constantinopoli, f. 305, Arba, 11. 7. 1582.
+
+Ne samo plemenska predaja nego i bosanski franjevci bili su nositelji tih reminiscencija. Franjevci
+provincije Bosne Srebrene u osmanskom razdoblju čuvali su tradicije vojvodstva Hercegovine (herceštvo sv. Save). U historiografiji je već skrenuta pozornost na Bunjevca fra Miju Radnića, vizitatora
+provincije Bosne Srebrene, koji 1684. herceštvom sv. Save imenuje cijeli prostor od Gacka u istočnoj
+Hercegovini do Gračaca u Lici. Šarić, „Bunjevci u ranom novom vijeku”, 21-22; Drago Roksandić, Srbi
+u Hrvatskoj od 15. stoljeća do naših dana (Zagreb: Vjesnik, 1991), 32.
+
+176
+
+U zadarskom zaleđu nije zanemariv broj antroponima koji prema povijesnoj, antroponimijskoj
+građi 16. i 17. stoljeća pokazuju zanimljive elemente kontinuiteta s kasnim srednjim vijekom. Takvih
+je prezimena podosta, primjerice: Bačić, Bajčinović, Batović, Bračić, Brajnović, Bubonja, Bušljetić,
+Butković, Dević, Dupor, Čeprnja, Čirjak, Čulina, Erlić (Harlić), Galešić, Gambiroža, Grubić, Kalcina, Kalčić, Lepur, Poropatić, Radašinović, Rudelić, Smolić, Sorić, Stanišić, Šegotić, Škulić, Šugarić,
+Vrsaljko. Budući da se prezimena u običnom puku počinju ustaljivati uglavnom nakon 1563., kad
+Katolička crkva uvodi matične knjige, bilo bi pogrešno rezolutno tvrditi da u svakom slučaju kod
+ovih prezimena postoji neposredna veza između njihovih nositelja iz srednjega vijeka s onima iz 16.
+i 17. stoljeća, ali kako je vrlo često riječ o rijetkim prezimenima kojih praktički nema izvan ovoga
+područja, sve upućuje na to da se ne radi tek o slučajnim podudarnostima. Već je rečeno da su katunski nazivi imali i pseudoantroponimijsko značenje. Neka od ovih prezimena poslije će se smatrati
+„bunjevačkim”, osobito na području dodira s pravoslavnim življem u okolici Benkovca i Obrovca. O
+kontinuitetima antroponima i njihovoj rasprostranjenosti u zadarskom zaleđu 16. i 17. stoljeća više
+vidi u: Anzulović, „O opstojnosti hrvatskog pučanstva”, 269-313; Živko Bjelanović, Onomastičke teme
+(Zagreb: Hrvatska sveučilišna naklada, 2007), 159-191; Juran, „Migracije Morlaka/Vlaha na zadarskom pograničju”, 33-72.
+
+177
+
+216
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Ipak, osmanske krajiške vlasti još uvijek računaju na njih kao populacijski i pomoćni vojnički element. Tijekom rekolonizacije u sandžaku Klis 1560-ih Ferhat-beg Sokolović ponovno je posegnuo za politikom istimâleta i Vlasima Istre.
+Sokolović je, naime, 1568. naselio oko 200 obitelji nevjernika Istre s mletačkoga
+područja u okolici Knina (Plavno?), što mu je Visoka porta fermanom od 21.
+studenog 1568. i službeno odobrila.178 Novi masovni prelazak istarskih Vlaha na
+osmanski teritorij, ovoga puta s habsburškoga dijela, dogodio se ujesen 1570.179
+Radilo se o „Ćićima”, bjeguncima iz Pazinske grofovije koji su se odselili po izbijanju seljačke bune u kojoj je sudjelovalo 2000 podložnika (Pazinska buna). Taj
+seljački pokret izbio je zbog uvođenja novih tereta i povećanih feudalnih pritisaka do kojih je došlo 1570. u cijeloj Kranjskoj.180 Gdje su točno osmanske vlasti
+naselile te prebjege nije nam pobliže poznato, vjerojatno na području nekih od
+svojih prijašnjih nahija iz prve polovine 16. stoljeća. Slični događaji uslijedili su
+1574. i 1576., kad su osmanske vlasti ponudile skupini „uskoka” koji su još za
+vrijeme Gazi Husrev-bega prebjegli na „neprijateljsko područje” da se iznova nasele u sandžaku Klis, dobivajući dvogodišnje izuzeće od poreza.181 Međutim, bili
+su to tek privremeni uspjesi osmanske kolonizacije. Naime, Ciparski rat koji je
+izbio u rano proljeće 1570. izazvao je novo iseljavanje osmanskih Vlaha na mletački posjed u Dalmaciji, naknadno i u Istru. Tako je jedna grupa u travnju 1572.
+uz pomoć kapetana Nikole Klačića prešla na mletački teritorij i naseljena je u
+Ninu.182 Ali pomanjkanje prostora i obradivih površina na zadarskom teritoriju
+(gubitak Zemunika, Učitelja Vasi i Tinja) spriječilo je masovnije prelaženje kao
+u prošlom ratu. Tako se u relaciji dalmatinskoga providura Jakoba Foscarinija
+iz 1572. kaže da su mnogi Vlasi bili spremni prebjeći na mletačku stranu, ali su
+Podatak Nenada Moačanina prema: Hacı Osman Yıldırım et al., Numaralı Mühimme Defteri (975975 / 1567 – 1569) (Ankara: Özet Transkipsiyon – Indeks – III, Başbakanlık Devlet Arşivleri Genel
+Müdürlügü, 1999, redni broj naredbe 2468.).
+
+178
+
+Josip Adamček et al., „Seljačke bune XV i XVIII stoljeća (građa)”, Arhivski vjesnik 16 (1973), br. 1:
+40-52.
+
+179
+
+Najteži novi teret bio je vinski porez jer je te godine određeno da kmetovi plaćaju porez na cjelokupno proizvedeno vino, a ne samo na ono koje se izvozi. Uvođenje te nove daće i najava izrade novoga
+urbara izazvali su seljački pokret koji je zahvatio Dolenjsku, Kras, Vipavsku i Pazinsku grofoviju, gdje
+je izbila i buna (Adamček et al., „Seljačke bune XV i XVIII stoljeća”, 40-41). Pazinski kapetan Gašpar
+Maurić u pismu vicedomu Kranjske od 4. rujna 1571. prekorava prijašnjega pazinskoga kapetana Jakoba, koji je izazvao krvave sukobe sa seljacima, tako da se mnogo Ćića odselilo natrag u „Tursku” (…
+nach dem unther innen der merer Teyl Tschitschen, seynd sy mit Hauffen, was anders mandliths gebest,
+in die Thurkey getzogen…). Adamček et al., „Seljačke bune XV i XVIII stoljeća”, 48.
+
+180
+
+Vjeran Kursar, „Rat i mir na šibensko-zadarskom području u drugoj polovini 16. stoljeća i politika
+osmanske Porte (na temelju odredaba centralne vlasti sačuvanih u Mühimme defterima)”, u: Braća
+Vranjani i vransko područje tijekom povijesti. Zbornik radova sa znanstvenog skupa Braća Vranjani
+i vransko područje tijekom povijesti održanog u Biogradu 25. travnja 2014., ur. Božo Došen (Zadar:
+Ogranak Matice hrvatske u Zadru; Općina Pakoštane, 2017), 404.
+
+181
+
+Gligor Stanojević, Jugoslovenske zemlje u mletačko-turskim ratovima XVI-XVIII vijeka (Beograd:
+Izdanje Istorijskog instituta, 1970), 86.
+
+182
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+217
+
+zbog pomanjkanja mjesta i zemlje za naseljavanje prisilno ostali osmanski podanici i neprijatelji Republike.183
+
+Istarska raja u sandžaku Klis prema osmanskom poreznom popisu
+iz 1574.
+U novom opširnom poreznom popisu sandžaka Klis iz 1574., nastalom neposredno po svršetku Ciparskoga rata, ne postoje više vlaške nahije s istarskim
+predznakom. Na području zapadno od rijeke Krke, a južno od planine Velebita,
+bilo je deset nahija: Obrovac, Karin, Kotari (Zemunik), Nadin, Kožulova, Vrana, Stara Ostrovica, Velin, Skradin i Strmica.184 Na tom području bilo je ukupno popisano 295 sela i 1619 kuća.185 Kao prepoznatljiva skupina, „istarska raja”
+(re´aya-yi Istriya) postojala je još samo u nahiji Kožulova, koja je obuhvaćala Gazi
+Husrev-begov vakuf. Oni su po svojem položaju bili zapravo u „nekoj sredini
+između vlaškog i rajinskog statusa” jer su plaćali desetinu (ušur), ali i filuriju,
+doduše u umanjenom iznosu od 90 akči.186 Stanovništvo vakufa bilo je popisano
+u dvije grupe, od koje su jednu činili ovi „devalahizirani” potomci Vlaha Istre.
+Od ukupno 30-ak što sela, što mezri bili su popisani u 15 sela i pet mezri.187 Bilo
+ih je ukupno u 97 kuća (od toga četiri muslimanske), što je s obzirom na prosječnu veličinu obitelji moglo biti i do 780 duša. Ukupan njihov prihod iznosio je
+9664 akči (tablica 6). Filurija je pripadala državnoj blagajni, tako da ona nije bila
+uzimana za vakuf.188 U sklopu vakufa i nahije Kožulova ubirali su se i prihodi
+od vašara crkve sv. Mihovila.189 Kako se u sastavu vakufa spominje selo Vukšić,
+prije će biti da se radilo o staroj srednjovjekovnoj katoličkoj crkvi sv. Mihovila u
+Vukšiću nego o istoimenoj staroj crkvi u Miranjama. U vakuf su ušli i mlinovi na
+rijeci Zrmanji, nekada u vlasništvu krbavskoga kneza Ivana Karlovića.
+
+„Mnogi kršćani bi prešli u podanstvo Vaše Prevedrosti i to nam poručuju, ali se ne usuđuju napustiti imovinu, hranu i zemlju, koju obrađuju, jer nemaju nikakve izvjesnosti, gdje bi bili zadržani, ako
+prijeđu. Budući da nema mjesta, gdje bi se mogli naseliti, ni zemlje od koje bi živjeli, oni na silu ostaju
+naši neprijatelji… Turci, naprotiv, s ovim ljudima druge vjere, koji ih mrze, a bez ikakva troška ili s
+najmanjim troškom ratovali su i ratuju protiv Vas”. Ivan Grgić, „Opis kliškog sandžaka s ove strane
+Velebita i Dinare iz godine 1572.”, Zadarska revija 5 (1956), br. 4: 257-261.
+
+183
+
+Fazileta Hafizović, Kliški sandžak. Od osnivanja do početka Kandijskog rata (1537-1645) (Sarajevo:
+Orijentalni institut u Sarajevu, 2016), 26-27.
+
+184
+
+185
+
+Jurin Starčević, „Osmanski krajiški prostor”, 174.
+
+Fazileta Hafizović, „Prilog historiji Gazi Husrev-begovog vakufa – nahija Kožulova u livi Krka”,
+Znakovi vremena 11 (2008), br. 39-40: 186.
+
+186
+
+187
+
+Hafizović, „Prilog historiji Gazi Husrev-begovog vakufa”, 183.
+
+188
+
+Hafizović, „Prilog historiji Gazi Husrev-begovog vakufa”, 183.,
+
+189
+
+Hafizović, „Prilog historiji Gazi Husrev-begovog vakufa”, 183.
+
+218
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Kao što vidimo, društvena i demografska stvarnost nakon nepunih pola stoljeća
+prisutnosti na osmanskom području prilično se izmijenila kad su u pitanju ostaci
+nekadašnjih Vlaha Istre. Vlaško ime službeno se više ne koristi, ali još postoji
+knežinska organizacija, udio agrarnih aktivnosti se uvećao, što vidimo po plaćanju ušura, ali i dalje je ostala filurija. „Istarska raja” predstavljala je, čini se, samo
+jednu od varijanti filuridžijske raje („modificirani Vlasi”) kakva tada nastaje na
+izvornoj Tromeđi. Možemo se načelno složiti s mišljenjem Vjerana Kursara da
+je do smanjivanja broja istarskih Vlaha došlo uslijed ukidanja vlaških povlastica
+i sedentarizacije, ali teško da se možemo složiti da je u tome važnu ulogu imala i
+islamizacija.190 Svakako u određenoj mjeri treba uključiti i faktor islamizacije, ali
+s obzirom na to da su konverzije na islam među tim stanovništvom bile zanemarive, nikako nije mogla imati veću ulogu u njihovu „nestajanju”.
+Tablica 6. Istarska raja u nahiji Kožulova (vakuf Gazi Husrev-bega) prema popisu iz
+1574.191
+Sela i mezre kao porezne jedinice Muslimanske kuće
+Krčevice192
+193
+1
+Biljan
+Vuković Veliki194
+1
+Dobrudže i zemlja Kašić195
+Šušnjar196
+197
+Otanje
+Milašje198
+Bojište199
+Vuković Mali200
+201
+Selište
+Benkovac
+-
+
+Kršćanske kuće
+12
+9
+15
+9
+4
+10
+4
+5
+3
+2
+5
+
+190
+
+Kursar, „Rat i mir na šibensko-zadarskom području”, 405.
+
+191
+
+Hafizović, „Prilog historiji Gazi Husrev-begovog vakufa”, 180-199.
+
+192
+
+Kod Perušića Benkovačkog.
+
+193
+
+Biljane Gornje i Donje.
+
+194
+
+Buković kod Benkovca.
+
+195
+
+Dobruča Vas kod Benkovca.
+
+196
+
+Nepoznato, ako nije predio Šušnji u Kistanju. Srednjovjekovno selo Šušnjari?
+
+197
+
+Vjerojatno Otavac kod Benkovca.
+
+198
+
+U popisu stoji da je Milašje „dio sela Otanja”.
+
+199
+
+Današnja Kula Atlagića.
+
+200
+
+Dio Bukovića.
+
+201
+
+Mezra u blizini sela Benkovac.
+
+Prihod
+1107
+1011
+981
+1117
+97
+1037
+309
+949
+393
+284
+321
+
+219
+
+Povijesni prilozi 67., 179-236 (2024.)
+Sela i mezre kao porezne jedinice Muslimanske kuće
+Vranište202
+203
+Korlatović i Pehlić
+Borić204
+2
+Sitarić205
+Mrković206
+207
+Ledenice
+Mijotavice208
+Ukupno
+4
+
+Kršćanske kuće
+3
+6
+2
+1
+1
+2
+93
+
+Prihod
+367
+784
+270
+225
+99
+89
+204
+9644
+
+Pitanje etnokulturnih struktura
+Identiteti predmodernih Vlaha u 16. stoljeću bili su još prilično fluidni, odnosno
+neodredivi. Pozivajući se na teoriju etnosimbolizma Anthonyja Smitha, možemo
+se samo pitati u kojoj su mjeri Vlasi Istre predstavljali „etničku zajednicu” koja
+dijeli zajednički identitet i osjećaj solidarnosti i kolektivnoga pamćenja, a koliko
+je to bila tek „etnička kategorija”, odnosno oblik zajednice koja nije bila svjesna
+svoje zasebnosti ili je o tome imala tek maglovite predodžbe, ali su ih egzogamni čimbenici prepoznavali kao poseban kolektivitet. Ono što je izvjesnije jest
+da im je na skali identitetskih markera na prvome mjestu bila pripadnost katunu,
+odnosno zajednici srodnika, pa radilo se i o fiktivnom srodstvu.209 Katunski ili
+„teritorijalizirani” seoski prostor bio je osnovni prostor njihove društvenosti i
+kolektivne identifikacije.
+Kad su u pitanju Vlasi Istre osmanskih izvora, teško je jednoznačno utvrditi njihove etničke i jezične strukture. U opširnom popisu 1528. – 1530. u velikoj većini
+dominira stara slavenska („narodna”) antroponimija, s tek pokojom vlaško-arbanaškom natruhom, poput karakterističnih „starobalkanskih” oblika imena kao
+što su Besara, Bratul, Bulat, Dančul, Herak, Mamul, Marul, Poropat, Radman,
+Radul, Žakman.210 Nemoguće je iz toga antroponimijskog fonda razlučiti Vlahe
+hrvatskoga jezika od onih koji su se služili i balkansko-romanskim, jer je kod go202
+
+Vjerojatno negdje na području Vrane.
+
+203
+
+Korlat kod Benkovca. Pehlić bi mogao biti staro selo Tihlić na području današnje Kule Atlagića.
+
+204
+
+Mezra Borić navodi se kao dio sela Dobrudžan.
+
+205
+
+Nepoznato.
+
+206
+
+Mezra kod „porušenog kaštela Perušić”.
+
+207
+
+Mezra Ledenice kod Perušića Benkovačkog.
+
+208
+
+Nepoznato, postoji uzvišenje Mijovac kod Ceranja Donjih.
+
+Obredno, inicijacijsko ili prividno srodstvo koje ne polazi od bioloških veza (pobratimstvo, posestrinstvo, „šišano kumstvo”).
+
+209
+
+O vlaškim elementima u antroponimiji na hrvatskim prostorima više vidi u: Petar Šimunović,
+Hrvatska prezimena (Zagreb: Golden marketing – Tehnička knjiga, 2006), 129-147; Andrej Čebotarev,
+
+210
+
+220
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+tovo svih Vlaha u jugoistočnoj Europi prevladavala slavenska antroponimija.211
+U popisu iz 1540. slavenska pretkršćanska („narodna”) imena također uvjerljivo
+dominiraju, i to s 71,9% u ukupnom antroponimijskom fondu koji sadržava navedeni popis. Među njima su uvjerljivo najbrojniji oni izvedeni iz korijena -rad.212
+Drugi po učestalosti bili su antroponimi izvedeni iz korijena -vuk.213 Kršćanska
+(biblijska) imena bila su zastupljena s 22,9%.214 Antroponima karakterističnih
+za vlaški sociokulturni krug bilo je iznenađujuće malo, tek 1,7%.215 U popisu su
+zabilježena samo tri ženska imena, koja su ujedno bila narodna (Janica, Jarebica,
+Milica). Na muslimanska imena otpadalo je 2,5%. U popisu 1528. – 1530. na više
+mjesta nailazimo i na imena u obliku etnika, naprimjer Bosnić, Bošnjak, Ugrin.
+U selu Polača u nahiji Kličevac zabilježen je izvjesni „Ivan, sin Hrvata”, a u Marijan Polači pak „Radonja, sin Morlaka”.216
+Prema jezičnom kriteriju, imajući pritom u vidu ograničene mogućnosti povijesnojezičnih rekonstrukcija, Vlahe Istre koji su se doseljavali, iseljavali i kružili u
+širokom prostoru između južne Istre, Krasa, Velebita i zadarske okolice možemo
+okvirno podijeliti u četiri skupine koje su se iskristalizirale tijekom 16. i 17. stoljeća;217 tri su činili govornici hrvatskoga jezika, a jednu skupinu dvojezični govornici jednoga balkansko-romanskog idioma: 1) srednjočakavski (ikavsko-ekavski), čije je predmigracijsko područje bilo u krajevima oko Velebita, odnosno oko
+Vlasi i Vojna krajina u Hrvatskoj (Zagreb: Hrvatska sveučilišna naklada; Institut društvenih znanosti
+Ivo Pilar, 2022), 104-114.
+Antroponimijsku strukturu mnogo je lakše analizirati kod Vlaha koji su prebjegli u Mletačku
+Istru ili Pazinsku grofoviju, gdje se od sredine 16. stoljeća već vode pod ustaljenim prezimenima, u
+popisima urbara, notarskim spisima, a nakon 1563. i u matičnim crkvenim knjigama. Njihova analiza
+zbog opsega ovoga rada ovdje nije moguća.
+
+211
+
+Radica (28), Radosav (26), Radoje (25), Radonja (16), Radovan (14), Radko (9), Radin (3), Radak (2),
+Radašin (2), Radman (2), Radoš (2), Radun (2), a po jedan Radelja, Radbiha, Radac, Radas, Radobrad,
+Radojica, Radonjić i Radović.
+
+212
+
+Vukić (14), Vuk (10), Vukosav (10), Vukša (7), Vukašin (6), Vukdrag (6), Vukman (6), Vukmir (6),
+Vukoje (6), Vuksan (5), Vukas (3), Vujica (2), Vukosal (2) te po jedan Vučeta, Vučihna, Vučko, Vukač,
+Vukčić, Vukelja i Vukoj.
+
+213
+
+Najviše je Ivana (21) s Ivanišima (6), pa Stipana (14) i Nikola (11). Imena izvedena od Đurđa je 10
+naspram 5 imena izvedenih od Jurja (4 Đure, 4 Đurđa i 2 Đurića, naspram 3 Jurja i 2 Jureta).
+
+214
+
+215
+
+Herak (4), Hlapac (2), Radul (2) te po jedan Dančul, Moro, Vlad i Miranja.
+
+216
+
+TR-BOA-TTD, No. 157/394, 409, 427, 418.
+
+Ovdje polazimo od teorijskoga pristupa „jezičnoga dodira” (lingvistički kontakti i interferencije,
+akulturacije i asimilacije) te interpretacija historijske lingvistike koje zastupaju mišljenje da se rezultati postmigracijske slike narječnoga i dijalekatskoga mozaika u Hrvatskoj (u ovom slučaju Istre) mogu
+samo djelomice osloniti na genetički pristup. Općenito o teoriji „jezičnoga dodira” i problematici rekonstrukcije predmigracijskoga narječnog i dijalekatskog mozaika (odnosno prije velikih migracija izazvanih osmanskim osvajanjima u 16. stoljeću) vidi u: Rudolf Filipović, Teorija jezika u kontaktu. Uvod u
+lingvistiku jezičnih dodira (Zagreb: JAZU, 1986); Dalibor Brozović, „O rekonstrukciji predmigracionog
+mozaika srpskohrvatskih dijalekata”, Filologija 4 (1963): 45-55; Iva Lukežić, „Prilog raspravi o genezi
+hrvatskih narječja”, Fluminensia: časopis za filološka istraživanja 8 (1996), br. 1-2: 223-236.
+
+217
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+221
+
+Zrmanje, u Bukovici i Podgorju s jedne i Lici i Krbavi s druge strane planine. To
+je dobrim dijelom upravo idiom prostora s kojega potječu Vlasi Istre; 2) južnočakavski (ikavski) bili su doseljenici u Istri iz širega zadarskog i šibenskog zaleđa
+(područje između Šibenika, Knina i Zadra), što također odgovara ishodišnom
+području znatnoga dijela Vlaha Istre; 3) čakavsko-štokavski (ikavski), u literaturi
+poznat još i kao „jugozapadni istarski”, odnosno „istarski ikavski dijalekt”. Najviše je prijepora oko podrijetla i karaktera toga govora. Naime, nije sigurno jesu
+li taj idiom donijeli hrvatski doseljenici iz krajeva oko Dinare, gdje su se u 15.
+stoljeću dodirivale čakavština i štokavština, ili se to „mješovito” narječje formiralo tek na istarskom tlu tijekom doseljavanja čakavaca (pretežno u 16. stoljeću) i
+štokavaca (pretežno u 17. stoljeću) iz sjeverne Dalmacije. U dijalektologiji postoje
+neslaganja i oko pitanja jezične osnove toga govora, čakavskoj ili (staro)štokavskoj;218 4) Četvrtu skupinu Vlaha Istre činili su dvojezični govornici jednoga balkansko-romanskog idioma, ćićkog ili istrovlaškog jezika/narječja/govora, koji je
+već tada predstavljao posljednji relikt staroga „vlaškog jezika” u Dinarskom gorju.219 Oko 1500. godine u Hrvatskoj je još bilo vlaških dvojezičnih katuna, čiji su
+govornici obično nazivani pomalo pejorativno Ćićima.220 Prema Ugarskoj kronici
+koruškoga svećenika Jakoba Unresta iz 1498., „Ćićka zemlja” (Tschytschenland)
+nalazila se „između Bosne i Hrvata”, dakle negdje na području duž planine Dinare i donjega toka rijeke Cetine.221 I mletački geograf Domenico Negri za cetinske
+Morlake kaže oko 1500. da govore „iskvarenim latinskim jezikom” i sami sebe
+zovu Romanima. Nikola Jurišić 1538., dovodeći vlaške prebjege sa Zrmanje, naziva ih „Ćićima ili Starim Rimljanima” (Alt Römer). Prema tome, i među Vlasima
+Istre u 16. stoljeću bilo je još dvojezičnih katuna, na što upućuju i imena nekih
+Dok neki dijalektolozi priznaju samo govoru Premanture i okolice u južnoj Puljštini izrazito štokavsko obilježje (uz crnogorski Peroj), drugi su spremni tvrditi da se radi o izvornim staroštokavcima
+koji su čakavske osobine primili tijekom seoba iz dalmatinskoga zaleđa u Istru, kao i u samoj Istri
+kroz međusobne utjecaje s čakavskim susjedima. Usp. Pavle Ivić, Dijalektologija srpskohrvatskog jezika. Uvod u štokavsko narječje (Sremski Karlovci; Novi Sad: Matica srpska, 2001), 253-263; Lina Pliško,
+„Jugozapadni istarski ili štakavsko-čakavski dijalekt u svjetlu Hrastina istraživanja”, Hrvatski dijalektološki zbornik 15 (2009): 111-124.
+218
+
+Ako izuzmemo Istru i Kras, posljednji podatak o postojanju posebnoga „vlaškog jezika” u Dinarskom gorju potječe s početka 17. stoljeća, a odnosi se na jedan katun Vlaha s Kupresa, koji su zimovali
+u Makarskom primorju, a ljeti se sa svojom stokom izdizali na Kupres i planinu Vitorog. Razgovarali
+su međusobno svojim posebnim „vlaškim” jezikom, bili su katolici, a „pratio ih je svake godine u planine jedan franjevac, koji se, potucajući sa tim oporim pastirima, bio vrlo zapustio pa su protiv njega
+stigle razne tužbe u Rim”. Usp. Miroslav Džaja; Krunoslav Draganović, Sa Kupreške visoravni (Baško
+Polje; Zagreb: Rimokatolički župni ured Otinovci-Kupres, 1994), 21. Tek bi trebalo istražiti kako se
+posljednji relikt staroga idioma dinarskih Vlaha uspio sačuvati upravo u Istri i Krasu, na krajnjem
+sjeverozapadnom rubu dinarskoga kulturnog prostora.
+
+219
+
+220
+
+Naziv „Ćiribirci” nastao je tek kasnije na istarskom tlu, i to kao autoidentifikacijska oznaka.
+
+Sandi Blagonić, „Ćići”, u: Istarska enciklopedija, ur. Miroslav Bertoša, Robert Matijašić (Zagreb:
+Leksikografski zavod „Miroslav Krleža”, 2005), 165; Sandi Blagonić, Od Vlaha do Hrvata. Austrijsko-mletačka politička dihotomija i etnodiferencijski procesi u Istri (Zagreb: Naklada Jesenski i Turk,
+2013), 84.
+
+221
+
+222
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+njihovih vođa kao što su Poropat i Žakman. U Istru i na Kras doseljavali su se s
+područja oko Zrmanje i gornje Cetine. Da ne bismo dalje širili diskusiju, navest
+ćemo samo četiri osnovne činjenice od kojih bi trebalo početi svako istraživanje
+ćićkoga fenomena:
+- Balkansko-romanski govori istarskih Ćića koji se u modernoj lingvistici
+vode kao „istrorumunjski dijalekt rumunjskog jezika” povijesno su, genetski, pa i strukturno vezani s ostalim balkansko-romanskim jezicima i
+narječjima, ali ne i funkcionalno, komunikacijski i kulturno.222
+- Dvojezični Ćići još uvijek su čuvali tradiciju o svojem podrijetlu od „starih Rimljana” (Alt Römer). Tršćanski povjesničar Ireneo della Croce zapisao je 1698. da Ćići sami sebe zovu Rumeri (nel propprio linguaggio Rumeri).223 Međutim, taj će etnik tijekom sljedećega stoljeća sasvim nestati zbog
+progresivnih procesa asimilacije, dok će se lokalni (sub)etnički nadimci
+poput Ćića i Ćiribiraca zadržati do danas, i to kao autoidentifikacijska
+oznaka.224
+- Vlaški doseljenici u Istru i na Kras zabilježeni su pod različitim imenima,
+kao Vlasi, Morlaci, Ćići, Hrvati, Uskoci, Prebjezi, Bosanci, iz čega se posredno može zaključiti je li se radilo o izbjeglicama pred Osmanlijama ili
+prebjezima s osmanskoga područja. Ti su se nazivi nerijetko koristili kao
+sinonimi, upravo kao etnik Ćić, koji se proširio i na hrvatske doseljenike.
+Tako već 1523. sastavljač urbara lupoglavske gospoštije novopridošlo hrvatsko stanovništvo naziva Tschitschen.225
+- Etnik Ćići ne treba vezati samo za područje kasnosrednjovjekovne Hrvatske, a potom i Istre. Može se opravdano pretpostaviti da se taj naziv
+koristio i u drugim dijelovima Dinarskoga gorja, a njime su označavani
+dvojezični, odnosno romanski govoreći vlaški katuni u kasnom srednjem
+August Kovačec, Istrorumunjsko-hrvatski rječnik (s gramatikom i tekstovima) (Pula: Znanstvena
+udruga Mediteran, 1998), 233-245.
+
+222
+
+Ireneo della Croce, Historia antica e moderna, sacra e profana (Venezia, 1698), 33. August Kovačec
+mišljenja je da je Croce taj naziv zapisao vrlo približno, „onako kako ga je s navikama talijanskog uha
+mogao čuti”, i da je on fonetski vjerojatno morao glasiti – rumǝr. Kovačec, Istrorumunjsko-hrvatski
+rječnik, 240.
+
+223
+
+S vremenom se broj govornika „istrorumunjskoga” kontinuirano smanjivao. Tako se naprimjer
+zna da se romanskim idiomom nekad govorilo i u Velikim i Malim Munama. Usp. Slaven Bertoša,
+„Mune u novom vijeku (s posebnim osvrtom na iseljavanja prema Puli)”, Croatica Christiana periodica 41 (2017), br. 80: 31-48. Isti je slučaj bio i na području oko Huma, Bresta, Lupoglava, Boljuna,
+Kršana i Kožljaka, gdje postoji niz manjih sela i zaselaka čiji nazivi potječu od prepoznatljivih „rumunjskih” apelativa ili imaju očuvane rumunjske gramatičke elemente (Buruli, Črnuli, Faraguni,
+Fičori, Furuli, Kožuli, Liculi, Mikulići). Do modernoga doba taj će se idiom održati još samo u selu
+Žejane na Ćićariji te u pet sela uz sjeverne rubove Čepićkoga polja: Sušnjevici, Novoj Vasi, Jesenoviku,
+Letaju i Brdu. Kovačec, Istrorumunjsko-hrvatski rječnik, 233.
+
+224
+
+225
+
+Usp. Blagonić, Od Vlaha do Hrvata, 83-88.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+223
+
+vijeku, što potvrđuje i antroponimijska građa. U Hercegovini 15. stoljeća
+nalazimo među tamošnjim Vlasima imena i nadimke izvedene iz korijena -ćić/čič. Tako se u hercegovačkom katunu Vlaha Pilatovaca 1446. spominje osobno ime „Chicul”, a u osmanskom poreznom popisu sandžaka
+Hercegovine iz 1477. među Vlasima su zabilježeni antroponimi istoga podrijetla.226
+Analizirajući osmanske popise i propitujući etnokulturne strukture, s istim se
+problemom suočavamo i kod religijskih tema, odnosno kod kršćanskih Vlaha
+i pitanja njihove konfesionalne pripadnosti. Pored razumljive iznimke u slučaju
+islamiziranih Vlaha, teško im je odrediti konfesionalnu pripadnost jer je imenska („narodna”) nomenklatura katoličkih i pravoslavnih Vlaha tada bila gotovo
+istovjetna. Katolička konfesionalna pozadina mogla bi se iščitati tek kod nekih
+imena koja se javljaju u popisima, kao što su Bartul, Grgur, Martin, Mihovil, a
+mjestimice se pojavljuju i imena tipa Dejan, Jovan, Olivir, Todor, koja asociraju
+na pravoslavne Vlahe.
+Jedno od najspornijih pitanja u raspravama o vlaškim identitetima uopće upravo
+je u vezi s njihovom religijskom kulturom.227 Opće mjesto u opisima vanjskih
+promatrača zauzimaju gotovo tipizirani motivi o vlaškoj „slaboj religioznosti,
+koja je u stalnom opadanju”, o „vjerski zapuštenom puku i njihovu neukom svećenstvu”, o „samo izvanjskim kršćanima ili čak polukršćanima”.228 Vlaška religijska kultura mogla bi se opisati pojmovima „mikrokršćanstva” Petera Browna,
+odnosno „narodne religije” prema tumačenju Dušana Bandića.229 Slab i ograničen utjecaj crkvenih struktura, a time i nedostatak nadzora i discipline vjerskoga
+života, u vlaškim društvima urodio je pojavama vjerskoga formalizma, sinkretizma i heterodoksije.
+
+Radovan, sin Ćićoja u džematu Đurđa, sina kneza Heraka u nahiji Ljubodiđa, „pripada Polimlju”;
+Radonja, sin Ćičića u džematu Mičije, sina Tohulja u nahiji Komarnica (Drobnjaci); Radoje, sin Čučula i Milašin, sin Čučula u džematu Vukića Krmpotića u nahiji Humska zemlja; Vuk, sin Ćićura u
+džematu Branila, sina Vlaha u nahiji Rudine (Bilećke); Ivan, sin Čiče u džematu Radića, sina kneza
+Vukića također u nahiji Rudine; Vukač, sin „Cicerine”? u džematu Radonje, sina Grubača u nahiji
+Rudine (Poimenični popis sandžaka vilajeta Hercegovina, 52, 63, 100, 111, 116).
+
+226
+
+Drago Roksandić, „Dinarski Vlasi/Morlaci od 14. do 16. stoljeća: koliko identiteta?”, Godišnjak
+Titius: godišnjak za interdisciplinarna istraživanja porječja Krke 1 (2008), br. 1: 13.
+
+227
+
+Roksandić, „Dinarski Vlasi/Morlaci”, 13. Marko Šarić, „Inter-confessional Relations and (In)tolerance among the Vlach (16th-17th Centuries)”, u: Tolerance and Intolerance on the Triplex Confinium.
+Approaching the „Other” on the Borderlands Eastern Adriatic and beyond 1500-1800, ur. Egidio Ivetić
+i Drago Roksandić (Padova: Università degli Studi di Padova, 2007), 181-194.
+
+228
+
+Trpimir Vedriš, „Pokrštavanje i rana kristijanizacija Hrvata”, u: Nova zraka u europskom svjetlu.
+Hrvatske zemlje u ranome srednjem vijeku (o. 550-1150), ur. Zrinka Nikolić Jakus (Zagreb: Matica hrvatska, 2015), 173-200; Dušan Bandić, Carstvo zemaljsko i carstvo nebesko. Ogledi o narodnoj religiji
+(Zemun; Beograd: Biblioteka XX. vek; Čigoja štampa, 21997).
+
+229
+
+224
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Već je Snježana Buzov skrenula pozornost na podatak iz popisa 1540. o „dva
+popa i tri lica uz čija imena stoji bilješka: sin popa”.230 U osmanskim izvorima
+riječ pop uvijek se upotrebljavala za svećenika laika („mirijsko sveštenstvo” u
+pravoslavlju), bez obzira na konfesionalnu pripadnost, međutim Buzov dodaje:
+„samo značenje riječi pop i njena upotreba u osmanskim popisima nije ni izbliza
+dovoljna da bi se ti svećenici, odnosno stanovništvo svrstali bilo u pravoslavne,
+bilo u katolike, s tim što se, kada je o ovom geografskom području riječ (bilo
+da je u pitanju sjeverna Dalmaciji ili Istra), može govoriti i o popovima glagoljašima.”231 U slučaju „popovskih sinova” među Vlasima Istre232 moglo se zaista
+raditi o nezakonitim sinovima katoličkih popova glagoljaša („ilirski kler”), čija
+je naobrazba i kulturna razina tada bila u sve većem opadanju i koji su de facto
+poprimili „polupučki karakter”.233 Slučajevi držanja konkubina u svojim plovanijama nisu bili rijetki, o čemu je 1591. zorno svjedočio don Matej Danilović,
+župnik u Polači.234
+Na primjerima starješinskih obitelji iz skupine Vlaha Istre (Gleđevci, Najčinovići, Milovanići, Poropatići, Ružići, Rudelji) već smo utvrdili da se radilo o stanovništvu koje je imalo kontinuitet sa srednjovjekovnim hrvatskim Vlasima iz 14.
+i 15. stoljeća i da se nepobitno radilo o katolicima. U prvoj polovini 16. stoljeća
+na području koje su nastanjivali Vlasi Istre nalazilo se 70-ak katoličkih crkava i
+kapelica iz srednjega vijeka, od kojih su mnoge i do danas sačuvane.235 Bila su tu
+Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 246. Radilo se o Nikoli i Josifu (može se čitati
+i kao Jusuf), sinovima popa iz Gornje Biline u nahiji Ostrovica; Rajko sin popa iz Golubića u nahiji
+Karin. Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 247, 256.
+
+230
+
+231
+
+Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 246.
+
+Dva popa zabilježena su 1540. u selu Ervenik (pop Radoje) u nahiji Zrmanja i selu Dragomirani u
+nahiji Karin (pop Stipan). Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 255, 256.
+
+232
+
+233
+
+Šarić, „Lovinački kraj na razmeđu epoha”, 167.
+
+Prema saslušanju don Mateja Danilovića župnika iz Polače, iz 1591., pred ninskim biskupom, ispada da su mnogi svećenici glagoljaši u župama „Banadega” i Like pod osmanskom vlašću živjeli u
+konkubinatu, a „nije bilo drugih koji bi ih mogli zamijeniti u službi”, usp. Šarić, „Lovinački kraj na
+razmeđu epoha”, 167. Ista pojava zabilježena je i među glagoljaškim svećenicima u Istri. Usp. Ivan
+Grah, „Pazinski kraj u izvještajima pićanskih i porečkih biskupa Svetoj stolici (1588. – 1780.)”, Vjesnik
+historijskih arhiva u Rijeci i Pazinu 26 (1983): 210.
+
+234
+
+Podgrađe (Sv. Martin i Sv. Duh); Perušić (Sv. Jure); Korlat (Sv. Jere); Bojišće (Sv. Petar), Tihlići
+(Sv. Nikola); Benkovac (Sv. Ante); Buković (Sv. Vid); Bjelina (Sv. Ivan, današnja pravoslavna crkva sv.
+Petke), Brgud (na mjestu današnje pravoslavne crkve sv. Lazara); Rodaljice (Uznesenja BDM); Dobropoljci (na mjestu današnje pravoslavne crkve sv. Georgija); Lepuri (Sv. Martin), Lišani Ostrovički
+(Sv. Jere); Ostrovica (na mjestu današnje pravoslavne crkve sv. Luke); Nunić (Sv. Antun Padovanski);
+Donji Karin (Sv. Marko i na mjestu današnje pravoslavne crkve sv. Kirika i Julite); Korlat (Sv. Nediljica, Sv. Jere i Uznesenja BDM); Raštević (na mjestu današnje pravoslavne crkve sv. Đurđa); Polača (Sv.
+Cecilija i Sv. Kuzma i Damjan); Šopot (Sv. Jere); Jagodnja (na mjestu današnje pravoslavne crkve sv.
+Simeona); Miranje (na mjestu današnje pravoslavne crkve sv. Mihajla); Pristeg (Sv. Frane); Kolarina
+(Sv. Jure); Vrana (Gospa od Karmela); Vukšić (Sv. Mihovil i Sv. Kata); Morpolača (na mjestu današnje
+pravoslavne crkve sv. Petra); Krković (Svi sveti); Ždrapanj (Sv. Bartul); Otres (Sv. Martin); Đevrske (na
+
+235
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+225
+
+i dva franjevačka samostana, u Karinu i Visovcu. Ninska biskupija imala je na
+osmanskom dijelu svoje dijeceze (južno od Velebita) 1579. tri glagoljaške župe u
+funkciji. Ninski arhiprezbiter don Jure Matasović posebno je bio zadužen voditi
+brigu o katoličkim vjernicima na osmanskom teritoriju, odakle je i sam potjecao.
+Pastoralnu skrb nad Vlasima Istre vršili su i franjevci iz samostana Bezgrešnoga
+začeća Blažene Djevice Marije u Karinu, čije je bratstvo ostalo djelovati i pod
+osmanskom vlašću. U osmanskom popisu 1528. – 1530. zabilježene su zemlje
+crkve u Karinu i zatečeni fratri, njih petorica, od kojih se za dvojicu kaže da su
+„popovi”, koji su bili oslobođeni plaćanja poreza (Rim keşişleri).236 Samostan je
+opustio oko 1538., istodobno kad su i okolni Vlasi Istre masovno prešli na mletački teritorij, a od 1550. preuzimaju ga bosanski franjevci iz visovačkoga samostana, konkretno don Matija iz Kreševa.237
+Prema podacima iz osmanskoga popisa 1528. – 1530. može se reći da se veća koncentracija pravoslavnih Vlaha nalazila na području nahije Plavna (Vlasi Uskoplja) i nahije Zrmanja i Popina (Vlasi Ugarci), kamo su se doselili vlaški katuni
+starinom iz istočne Hercegovine.238 Do 1550. na kistanjsko područje nekadašnje
+vlaško-istarske nahije Zečevo doselili su se novi vlaški džemati, vjerojatno pravoslavni, kneza Bijovče, te vojvode i kneza Vička Zirovca.239 Druga polovina 16. stoljeća obilježena je konstantnim pritjecanjem i jačanjem pravoslavnoga elementa.
+Nakon 1585. posebna koncentracija pravoslavnih Vlaha nastaje u istočnoj Bukovici i Pozrmanju.240 Pod dojmom njihove sve veće prisutnosti u zaleđu Dalmacije,
+mletački sindik Giovani Battista Giustiniani 1553., kao i dalmatinski providur
+mjestu današnje pravoslavne crkve sv. Ilije); Ivoševci (na mjestu današnje pravoslavne crkve sv. Jovana
+Krstitelja), Biovičino Selo (na mjestu današnje pravoslavne crkve sv. Petra i Pavla); Kistanje (na mjestu
+današnje pravoslavne crkve sv. Nikole), Mokropolje (na mjestu današnje pravoslavne crkve sv. Luke);
+Radučić (na mjestu današnje pravoslavne crkve sv. Georgija); Pađene (na mjestu današnje pravoslavne
+crkve sv. Georgija); Plavno (na mjestu današnje pravoslavne crkve sv. Đurđa); Ervenik (Sv. Mihovil
+i Sv. Nikola); Žegar (na mjestu današnje pravoslavne crkve sv. Georgija); Krupa (na mjestu današnje manastirske crkve Uspenja Bogorodice), Parčić (na mjestu današnje pravoslavne crkve sv. Ilije);
+Popovići (Sv. Mihovil); Medviđa (Sv. Ivan Krstitelj „Usik”); Kruševo (Sv. Jure i Sv. Kuzma i Damjan
+u Ribnici), Obrovac (Sv. Petar i Sv. Krševan); Jasenice (Sv. Jeronim); Rovanjska (Sv. Jure); Seline (Sv.
+Marko); Starigrad-Paklenica (Sv. Jure i Sv. Petar). Usp. fra Stanko Bačić, Franjevci u Zadarskoj nadbiskupiji i Ninskoj biskupiji (Šibenik: Općina Lisičić, 1995), 24-163; Ante Juric, Ravni kotari i Bukovica.
+Naselja – sakralni objekti, utvrde i arheološka nalazišta (kulturno-povijesni pregled) (Skradin: Matica
+hrvatska, 2018), 51-428.
+236
+
+TR-BOA-TTD, No. 157 / 1028.
+
+237
+
+Šarić, „Lovinački kraj na razmeđu epoha”, 166-167.
+
+238
+
+TR-BOA-TTD, No. 157/1046, 1051.
+
+239
+
+Opširni popis Kliškog sandžaka, 10, 18.
+
+Ako je vjerovati izvješću vikara zadarskoga nadbiskupa Vincenza Forze iz nešto kasnijega vremena, Morlaci „del rito Greco” 1636. kompaktno su nastanjivali Žegar, Krupu, Mokropolje, Plavno,
+Pađene, Žagrović, Butišnicu i Kistanje u istočnoj Bukovici i okolici Knina te područje Miranja u Ravnim kotarima, ukupno oko 3200 duša (Jačov, Spisi Kongregacije za propagandu vere, 270). Premda su
+se formalno nalazili pod pastoralnom jurisdikcijom franjevačkoga samostana na Visovcu, ti su Vlasi
+
+240
+
+226
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Jacobo Foscari 1572., skloni su bili svu „morlačku populaciju” povezati s pripadnošću „srpskoj vjeri” (fide serviana).241 Do toga je moglo doći i zato što nije bila
+rijetkost da su pojedine vlaške knežine i džemati bili konfesionalno miješani.
+Institucionalno ukorjenjivanje pravoslavlja na ovim prostorima počinje 1540.,
+kad se prvi put u izvorima spominje pravoslavni manastir Arhanđela Mihajla na
+rijeci Krki. Manastir će nakon 1575. povremeno biti i rezidencija pravoslavnoga
+dabrobosanskog mitropolita, koji je nosio i titulu egzarha cijele Dalmacije.
+Islamizacija Vlaha Istre bila je tek simbolična – udio „novih muslimana” jedva
+da je prelazio 5%. U osmanskom popisu 1528. – 1530. evidentirano je tek pet
+muslimanskih obitelji od njih ukupno 648 (0,77%),242 da bi do 1540. njihov broj
+skočio na 11 od 322 obitelji (3,4%). Na Gazi Husrev-begovu vakufu 1574. bile su
+samo četiri muslimanske kuće od njih ukupno 97 (4,12%). Znakovito je međutim
+da među tim malobrojnim konvertitima nalazimo pripadnike ili bliske rođake
+starješinskih obitelji. To su 1528. – 1530. bili već spomenuti „Ali, sin Poropata”
+i „Husein, sin Poropata” u zrmanjskoj nahiji i Ferhad Prijić u nahiji Ostrovica, a
+1540. „Hasan, sin Prejića” iz sela Surožani u nahiji Ostrovica.243 U popisu 1550.
+u nahiji Ostrovica i Ostrovica Istrija bilo je popisano 19 vlaških muslimanskih
+kuća od ukupno 352 (5,4%), a u nahiji Bukovica samo jedna od njih 48, dok ih u
+nahiji Zrmanja Istrija uopće nije bilo.244 Vlasi muslimani, pored malobrojnosti,
+bili su i nestalnoga karaktera, često su prihvaćali islam da bi se potom vraćali
+u staru vjeru, odnosno prakticirali su dvovjerje i kriptokršćanstvo. U jednom
+se dokumentu iz Muhimme deftera 1571. kaže: „(…) ima ih dosta koji su prešli
+na islam, pa nakon nekog vremena izašli iz njega. Kad god im se prohtije, oni se
+opet vraćaju u islam. Tako neko vrijeme ostanu u islamu, vršeći njegove propise,
+a potom opet napuštaju isti.”245 Kliški sandžakbeg Ferhad-beg Sokolović tražio je
+od sultana instrukcije, a zatim i fetvu kako postupati prema takvim podanicima
+„ništavnih nevjernika sa kojima je ehl-i islam pomiješan na granici.”246
+
+bili orijentirani prema svojim duhovnim centrima, manastiru Krki, koji se prvi put spominje u popisu
+1540., i manastiru Krupi pod Velebitom, koji je nastao negdje krajem 16. ili početkom 17. stoljeća.
+241
+
+Commissiones et relationes Venetae, II, 235, 254.
+
+Intrigantan je podatak o istarskom Vlahu „Mehmedu, sina Kejvana” iz sela Kakanj u nahiji Zečevo, uz kojega stoji opaska „prebjegao”. Prema tome ispada da je Mehmed pripadao već drugoj generaciji konvertita, odnosno da se konverzija na islam dogodila prije 1528., kad je prebjegao na osmanski
+teritorij (TR-BOA-TTD, No. 157/426).
+
+242
+
+243
+
+Buzov, „Vlasi Istrije na području sjeverne Dalmacije”, 247.
+
+244
+
+Opširni popis Kliškog sandžaka, 9-21.
+
+245
+
+Hafizović, Kliški sandžak, 232.
+
+246
+
+Hafizović, Kliški sandžak, 232.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+227
+
+Epilog umjesto zaključka
+U osmanskom poreznom popisu 1585. godine, u sada novoformiranom sandžaku
+Krka (Lika) sa sjedištem u Kninu, vlaško ime je sasvim iščezlo, popisana je samo
+raja koja je plaćala nekadašnji vlaški porez filuriju u iznosu od 100 do 280 akči.247
+Pojam Eflak (Vlah) tada općenito nestaje u osmanskim izvorima, što koincidira i s
+nestankom Vlaha Istre kao prepoznatljive skupine. U isto vrijeme i na mletačkom
+teritoriju gube „morlački” karakter „novoga stanovništva” (Morlacchi habitanti
+nuovi) i u punom smislu postaju izjednačeni s distriktualnim seljacima dalmatinskih i istarskih kontrada. U repopulaciji osmanskoga serhata sada se težište pomaknulo na vlaške skupine iz istočnih dijelova Kliškoga te Hercegovačkoga sandžaka.248 Progresivna transdinarska migracijska dinamika na izvornoj Tromeđi
+pomaknula je tako svoje težište s vlaško-istarskih skupina na vlaške skupine drugih predznaka („bunjevačke”, „crnogorske”, „rašanske”). Prekogranične migracije
+nakon svršetka Ciparskoga rata te 1580-ih stvarno i simbolično označuju prijelaz
+između tih dvaju migracijskih ciklusa. Padom pod osmansku vlast i posljednjih
+ostataka nekadašnjega vranskog distrikta iseljavaju se u zadarsko-biogradsko primorje i posljednji ostaci tamošnjega stanovništva, među kojima je bilo i Morlaka
+Istrijana.249 Mletačka obitelj Barbarigo 1579. dovodi izbjeglice sa zadarskoga teritorija na svoje posjede u Puljštini, a druga skupina Morlaka Istrijana (Zadrana i
+Morlaka) 1583. naseljava Marčanu u južnoj Istri.250 Njima se uskoro pridružuju
+druge vlaške skupine osmanskih podanika iz sandžaka Krka (iz Zvonigrada, Nadina i Velima), koje su se 1585. doselile u Istru i osnovale selo Premanturu južno od
+Pule.251 Premantura neće postati samo primjer uspješne kolonizacije u Istri, nego
+je njezino naseljavanje označilo uvod u nova migracijska strujanja s izrazitijim štokavskim obilježjima („dalmatinsko-transdinarskim” prema Miroslavu Bertoši),
+koja će posebno zahvatiti Puljštinu i općenito južnu Istru u 17. stoljeću.252
+247
+
+Hafizović, „Prilog historiji Gazi Husrev-begovog vakufa”, 188.
+
+248
+
+Šarić, „Lovinački kraj na razmeđu epoha”, 160.
+
+Još 1570. petnaest obitelji iz Poškaljine sklopilo je ugovor o preseljenju u Biograd. Za vrijeme providura Alvisea Grimanija (1572. – 1575.) naseljeno je 60 obitelji iz Tinja u mletački Biograd. Iz te skupine doseljenika vjerojatno potječe i ugledna obitelj Matković, koja je obnašala funkciju biogradskih
+kapetana u mletačkoj službi (1581. Juraj Matković). Juran, „Migracije Morlaka/Vlaha na zadarskom
+pograničju”, 65, 70; Commissiones et relationes Venetae = Mletačka uputstva i izvještaji, Tomus IV:
+Annorum 1572-1590, sabrao i obradio Grga Novak, Monumenta spectantia historiam Slavorum meridionalium 47 (Zagreb: JAZU, 1964), 291. O obitelji Matković vidi u: Lovorka Čoralić, „Biograd nel
+periodo delle guerre turco-veneziane e i Matkovic famiglia locale di governatori (´500-´700)”, Review
+of Croatian History 14 (2018): 91-122.
+249
+
+250
+
+Bertoša, Mletačka Istra, 67, 68.
+
+251
+
+Bertoša, Mletačka Istra, 68.
+
+Oko 1586. morlački doseljenici Šime i Mate Šikić s obiteljima osnivaju u kontradi Turtian nedaleko
+od Pule zaselak Šikići (Bertoša, Mletačka Istra, 68). S obzirom na antroponimijske karakteristike,
+radilo se o prvoj „bunjevačkoj” struji doseljenika u južnoj Istri.
+
+252
+
+228
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Vlasi Istre / Morlaci Istrijani obilježili su područje na izvornoj Tromeđi, pri čemu
+možemo razlikovati tri jasno omeđena razdoblja: prvo između 1528. i 1540., kad
+se od povratnika iz Istre i formiraju kao osmanski sociodemografski fenomen;
+drugo između 1540. i 1574., razdoblje intenzivnih ireverzibilnih i cikličnih migracija, pri čemu težište njihove naseljenosti i djelovanja postupno prelazi na mletački prostor; i treće nakon 1574., kad na osmanskoj strani pomalo nestaju kao
+prepoznatljiva skupina. Njihovo demografsko osipanje i nestajanje na osmanskoj
+strani možemo približno i brojčano iskazati: 1530. godine – 640 kuća; 1540. godine – 364 kuće, 1550. godine – oko 190 kuća; 1574. godine na vakufu u nahiji
+Kožulova – 97 kuća. Vlasi Istre bili su ogledni primjer kako su se pojedine vlaške
+skupine na prostoru imperijalnoga višegraničja oblikovale i razvijale, osipale i
+nestajale, prvenstveno pod utjecajem imperijalnih kolonizacijskih politika i općih konfliktnih strategija. Ratne okolnosti na trograničju oblikovale su ih kao
+zajednicu koju je karakterizirao etno-jezični mozaik naslijeđen od srednjovjekovnih hrvatskih Vlaha (Ćići, Ćićarija), a pola stoljeća poslije, našavši se raspršeni na sve tri strane imperijalnih granica, uključili su se u nove integracijske procese, dajući prije svega svoj doprinos jačanju hrvatskih etnokulturnih struktura
+u Istri, nadasve u njezinu južnom i zapadnom dijelu (Istarska Vlašija / Morlacca
+Istirana).
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+229
+
+Neobjavljeni izvori
+Italija – Archivio di Stato di Venezia (IT-ASVe) – Archivio dei Baili Veneti a
+Constantinopoli.
+Italija – Archivio di Stato di Venezia (IT-ASVe) – Senato Mar – in Registri 35.
+Turska – Başbakanlık Osmanlı Arşivi, Istanbul – Tapu Tahrir Defteri (TR-BOATTD), No. 157.
+
+Objavljeni izvori i literatura
+Adamček, Josip; Filipović, Ivan; Hrg, Metod; Kolanović, Josip; Pandžić, Miljenko. „Seljačke bune XV i XVIII stoljeća (građa)”. Arhivski vjesnik 16 (1973), br. 1:
+40-52.
+Anzulović, Ivna. „O opstojnosti hrvatskog pučanstva sjeverne Dalmacije iz
+predturskog vremena”. Zadarska smotra: časopis za kulturu, znanost i umjetnost
+47 (1998), br. 4-6: 269-313.
+Anzulović, Ivna. „Razgraničenje između mletačke i turske vlasti na zadarskom
+prostoru 1576. godine, nakon Ciparskog rata”. Zadarska smotra: časopis za kulturu, znanost i umjetnost 47 (1998), br. 1-3: 53-150.
+Bačić, fra Stanko. Franjevci u Zadarskoj nadbiskupiji i Ninskoj biskupiji. Šibenik:
+Općina Lisičić, 1995.
+Bandić, Dušan. Carstvo zemaljsko i carstvo nebesko. Ogledi o narodnoj religiji.
+Zemun; Beograd: Biblioteka XX. vek; Čigoja štampa, 21997.
+Bertoša, Miroslav. Mletačka Istra u XVI. i XVII. stoljeću i kolonizacija. Pula:
+Istarska naklada, 1986.
+Bertoša, Slaven. „Mune u novom vijeku (s posebnim osvrtom na iseljavanja prema Puli)”. Croatica Christiana periodica 41 (2017), br. 80: 31-48.
+Bertoša, Slaven. Fragmenti buzetske prošlosti u srednjem i novom vijeku. Zagreb:
+Srednja Europa, 2018.
+Bešlija, Sedad. Istimâlet. Bosna u osmanskoj političkoj strategiji (15. i 16. stoljeće).
+Sarajevo: Univerzitet u Sarajevu; Institut za historiju Sarajeva, 2017.
+Bjelanović, Živko. Imena stanovnika mjesta Bukovice. Split: Čakavski sabor, 1978.
+Bjelanović, Živko. Onomastičke teme. Zagreb: Hrvatska sveučilišna naklada, 2007.
+Blagonić, Sandi. „Ćići”. U: Istarska enciklopedija, uredili Miroslav Bertoša i Robert Matijašić. Zagreb: Leksikografski zavod „Miroslav Krleža”, 2005.
+Blagonić, Sandi. Od Vlaha do Hrvata. Austrijsko-mletačka politička dihotomija i
+etnodiferencijski procesi u Istri. Zagreb: Naklada Jesenski i Turk, 2013.
+
+230
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Bracewell, Catherine Wendy. Senjski uskoci. Piratstvo, razbojništvo i sveti rat u
+šesnaestom stoljeću. Preveli Nenad Popović i Mario Rosini. Zagreb: Barbat, 1997.
+Bratulić, Vjekoslav. Rovinjsko selo. Monografija jednog istarskog sela. Zagreb: Jadranski institut JAZU, 1959.
+Breu, Josef. „Prostorni opseg i posljedice za sliku naselja”. U: Povijest i kultura gradišćanskih Hrvata, uredio Ivan Kampuš, 43-104. Zagreb: Nakladni zavod
+Globus, 1995.
+Brozović, Dalibor. „O rekonstrukciji predmigracionog mozaika srpskohrvatskih
+dijalekata”. Filologija 4 (1963): 45-55.
+Buzov, Snježana. „Vlasi Istrije na području sjeverne Dalmacije u popisnim defterima 16. stoljeća”. Prilozi za orijentalnu filologiju 40 (1990): 243-257.
+Buzov, Snježana. „Vlasi u bosanskom sandžaku i islamizacija”. Prilozi za orijentalnu filologiju 41 (1991): 99-111.
+Buzov, Snježana. „Vlaška sela, pašnjaci i čifluci: krajolik osmanlijskog pograničja
+u šesnaestom i sedamnaestom stoljeću”. U: Triplex Confinium (1500-1800): ekohistorija, uredili Drago Roksandić, Ivan Mimica, Nataša Štefanec i Vinka Glunčić-Bužančić, 227-241. Split; Zagreb: Književni krug Split; Zavod za hrvatsku povijest Filozofskog fakulteta Sveučilišta u Zagrebu, 2003.
+Caciur, Dana. „Considerations regarding the Morlachs migrations from Dalmatia to Istria and the Venetian settlement policy during the 16th century”. Balcanica Posnaniensia XXII (2015): 57-70.
+Caciur, Dana. „Migrantii spontane si organizate în teritoriul Zarei (Zadar-ului)
+la mijlocul secolului al XVI-lea. Cazul morlacilor istrieni”. Studii si materijale de
+istorie medie 34 (2016): 73-104.
+Commissiones et relationes Venetae, Tomus II: Annorum 1525-1533, priredio
+Šime Ljubić. Monumenta spectantia historiam Slavorum meridionalium 8. Zagreb: JAZU, 1877.
+Commissiones et relationes Venetae, Tomus III: Annorum 1553-1571,, priredio
+Šime Ljubić. Monumenta spectantia historiam Slavorum meridionalium 11. Zagreb: JAZU, 1880.
+Commissiones et relationes Venetae = Mletačka uputstva i izvještaji , Tomus IV:
+Annorum 1572-1590, sabrao i obradio Grga Novak, Monumenta spectantia historiam Slavorum meridionalium 47., Zagreb: JAZU, 1964.
+Cozzi, Gaetano; Knapton, Michael; Scarabello, Giovanni. Povijest Venecije, svezak II, Zagreb: Antibarbarus, 2007.
+Croce, Ireneo della. Historia antica e moderna, sacra e profana. Venezia, 1698.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+231
+
+Čebotarev, Andrej. Vlasi i Vojna krajina u Hrvatskoj. Zagreb: Hrvatska sveučilišna naklada; Institut društvenih znanosti Ivo Pilar, 2022.
+Čoralić, Lovorka. „Biograd nel periodo delle guerre turco-veneziane e i Matkovic famiglia locale di governatori (´500-´700)”. Review of Croatian History 14
+(2018): 91-122.
+Čoralić, Lovorka; Katušić, Maja. „Andrija Mladinić i Mihovil Anđeo Filiberti
+– časnici postrojbe Croati a Cavallo: iz društvene i vojne povijesti Dalmacije u
+XVIII. stoljeću”. Povijesni prilozi 28 (2009), br. 37: 247-282.
+Ćirković, Sima M. Herceg Stefan Vukčić-Kosača i njegovo doba. Beograd: Naučno
+delo, 1964.
+Dabić, S. Vojin. Vojna Krajina. Karlovački generalat (1530-1746). Beograd: Izdanje Svetog arhijerejskog sinoda Srpske pravoslavne crkve, 2000.
+Drino, Dževad. „Hercegovačko porijeklo stanovništva Skopaljske doline (sa naglaskom na bugojanski kraj)”. Hercegovina: časopis za kulturno i historijsko nasljeđe 13-14 (2001): 127-136.
+Džaja, Miroslav; Draganović, Krunoslav. Sa Kupreške visoravni. Baško Polje;
+Zagreb: Rimokatolički župni ured Otinovci-Kupres, 1994.
+Filipović, Rudolf. Teorija jezika u kontaktu. Uvod u lingvistiku jezičnih dodira,
+Zagreb: JAZU, 1986.
+Gligo, Viktor. Govori protiv Turaka. Split: Splitski književni krug, 1983.
+Grah, Ivan. „Pazinski kraj u izvještajima pićanskih i porečkih biskupa Svetoj stolici (1588. – 1780.)”. Vjesnik historijskih arhiva u Rijeci i Pazinu 26 (1983): 201-218.
+Grgić, Ivan. „Opis kliškog sandžaka s ove strane Velebita i Dinare iz godine
+1572.” Zadarska revija 5 (1956), br. 4: 257-261.
+Hafizović, Fazileta. „Prilog historiji Gazi Husrev-begovog vakufa – nahija
+Kožulova u livi Krka”. Znakovi vremena 11 (2008), br. 39-40: 180-199.
+Hafizović, Fazileta. „Različite refleksije o osvajanju srednjodalmatinskog zaleđa”. Anali Gazi Husrev-begove biblioteke 20 (2013) br. 34: 103-115.
+Hafizović, Fazileta. Kliški sandžak. Od osnivanja do početka Kandijskog rata
+(1537-1645). Sarajevo: Orijentalni institut u Sarajevu, 2016.
+Hinsley, F. H. Suverenitet. Zagreb: August Cesarec, 1992.
+Hrabak, Bogumil. „Vlaška i uskočka kretanja u severnoj Dalmaciji u XVI stoleću”. U: Benkovački kraj kroz vjekove. Zbornik 2. Radovi s naučnog skupa Benkovački kraj kroz vjekove, Benkovac, 22-24. travnja 1983., uredio Julijan Medini,
+107-258. Benkovac: Narodni list, 1988.
+Hrvatski urbari, svezak I, sabrao i protumačio Radoslav Lopašić. Zagreb: Knjižara JAZU, 1894.
+
+232
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Husić, Aladin. „Demografske prilike u srednjodalmatinskom zaleđu početkom
+16. stoljeća”. Prilozi za orijentalnu filologiju 55 (2006): 227-241.
+Ihsanoğlu, Ekmeleddin. Historija osmanske države i civilizacije. Sarajevo: Orijentalni institut u Sarajevu, 2004.
+Inalcık, Halil. Osmanlije: osvajanje, Osmansko Carstvo, odnosi s Evropom. Sarajevo: Connectum, 2020.
+Ivetić, Egidio. La popolazione dell ‘Istria nell età moderna. Lineamenti evolutivi.
+Trieste; Rovigno: Unione Italiana Fiume; Università popolare di Trieste, 1997.
+Ivetić, Egidio. Granica na Mediteranu. Istočni Jadran između Italije i južnoslavenskog sveta od XIII do XX veka. Beograd: Arhipelag, 2015.
+Ivić, Pavle. Dijalektologija srpskohrvatskog jezika. Uvod u štokavsko narečje,
+Sremski Karlovci; Novi Sad: Matica srpska, 2001.
+Jačov, Marko. Spisi Kongregacije za propagandu vere u Rimu o Srbima 1622-1644,
+I. Beograd: SANU, 1986.
+Jelić, Roman. „Stanovništvo kopnenog dijela zadarskog područja 1608. i 1695.”.
+Zadarska revija 34 (1985), br. 6: 555-573.
+Jelić, Roman. „Novigradski distrikt”. Radovi Zavoda za povijesne znanosti u Zadru 31 (1989): 87-173.
+Juran, Kristijan. „Doseljavanje Morlaka u opustjela sela šibenske Zagore u 16.
+stoljeću”. Povijesni prilozi 33 (2014), br. 46: 138-150.
+Juran, Kristijan. „O podrijetlu i šibenskoj rodbini prvog kliškoga sandžakbega
+Murat-bega Gajdića”. Prilozi za orijentalnu filologiju 66 (2016): 231-239.
+Juran, Kristijan. „Migracije Morlaka/Vlaha na zadarskom pograničju tijekom
+15. i 16. stoljeća s posebnim osvrtom na vransko područje te pojavu Morlaka
+Istrijana / Vlaha Istre”. Miscellanea Hadriatica et Mediterranea 9 (2022): 33-72.
+Juric, Ante. Ravni kotari i Bukovica. Naselja – sakralni objekti, utvrde i arheološka nalazišta (kulturno-povijesni pregled). Skradin: Matica hrvatska, 2018.
+Jurin Starčević, Kornelija. „Osmanski krajiški prostor: rat i društvo u jadransko-dinarskom zaleđu u 16. i 17. stoljeću”. Doktorska disertacija, Sveučilište u
+Zagrebu, 2012.
+Jurin Starčević, Kornelija. „Osmanska utvrda Udbina i udbinska nahija u 16. i
+17. stoljeću”, U: Turkologu u čast! Zbornik povodom 70. rođendana Ekrema Čauševića, uredila Tatjana Paić-Vukić, 435-458. Zagreb: FF Press, 2022.
+Klaić, Vjekoslav. Povijest Hrvata: od najstarijih vremena do svršetka XIX. stoljeća, knjiga 5: Četvrto doba: Vladanje kraljeva iz porodice Habsburga: (1527-1740).
+Zagreb: Nakladni zavod Matice hrvatske, 1975.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+233
+
+Kovačec, August. Istrorumunjsko-hrvatski rječnik (s gramatikom i tekstovima).
+Pula: Znanstvena udruga Mediteran, 1998.
+Kučerová, Kvetoslava. Hrvati u Srednjoj Europi. Zagreb: Matica hrvatska; Matica
+slovačka, 1998.
+Kursar, Vjeran. „Rat i mir na šibensko-zadarskom području u drugoj polovini
+16. stoljeća i politika osmanske Porte (na temelju odredaba centralne vlasti sačuvanih u Mühimme defterima)”. U: Braća Vranjani i vransko područje tijekom
+povijesti. Zbornik radova sa znanstvenog skupa Braća Vranjanin i vransko područje tijekom povijesti održanog u Biogradu 25. travnja 2014., uredio Božo Došen,
+395-410. Zadar: Ogranak Matice hrvatske u Zadru; Općina Pakoštane, 2017.
+Lowry, Martin. „The Reform of the Council of Ten: An unsettled Problem”. Studi
+Veneziani XIII (1971): 275-310.
+Lukežić, Iva. „Prilog raspravi o genezi hrvatskih narječja”. Fluminensia: časopis
+za filološka istraživanja 8 (1996), br. 1-2: 223-236.
+Mažuran, Ive. Karlobag 1251.-2001. Karlobag: Općina Karlobag, 2001.
+Moačanin, Nenad. „Hrvati pod vlašću Osmanskog Carstva do razdoblja reformi
+u Bosni i Hercegovini (1463-1831)”. U: Željko Holjevac; Nenad Moačanin. Hrvatsko-slavonska vojna krajina i Hrvati pod vlašću Osmanskog Carstva u ranome
+novom vijeku, 108-175. Zagreb: Leykam international, 2007.
+Mujadžević, Dino. „Obitelj Svetački u osmanskoj službi”. Povijesni prilozi 42
+(2023), br. 65: 107-134.
+Novak, Grga. „Morlaci (Vlasi) gledani s mletačke strane”. Zbornik za narodni
+život i običaje Južnih Slavena 45 (1971): 579.-603.
+Osmanlı Belgelerinde Hırvatistan, priredili Yusuf Sarinay, Mustafa Budak, Önder Bayır, Ahmet Zeki İzgöer. Yayın nu. 114. Istanbul: T.C. Başbakalnık, Devlet
+Arşivleri Genel Müdürlüǧü, Osmanlı Arşivi Daire Başkanlıǧı, 2010.
+Opširni popis Kliškog sandžaka iz 1550. godine, priredio Fehim Dž. Spaho. Sarajevo: Orijentalni institut u Sarajevu, 2007.
+Pavičić, Stjepan. „Seobe i naselja u Lici”. Zbornik za narodni život i običaje Južnih
+Slavena 41 (1962): 5-330.
+Pera, Miroslav. Poljički statut. Split: Književni krug, 1988.
+Petrić, Hrvoje. Pogranična društva i okoliš: Varaždinski generalat i Križevačka
+županija u 17. stoljeću. Samobor: Meridijani, 2012.
+Pezzolo, Luciano. „Venetian empire”, U: The Oxford World History of the Empire,
+Volume 2: The History of Empires, uredili Peter Fibiger Bang, C. A. Bayly i Walter
+Scheidel, 621-645. Oxford: Oxford University Press, 2021.
+
+234
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Poimenični popis sandžaka vilajeta Hercegovina, priredio Ahmed Aličić. Sarajevo: Orijentalni institut u Sarajevu, 1985.
+Pliško, Lina. „Jugozapadni istarski ili štakavsko-čakavski dijalekt u svjetlu Hrastina istraživanja”. Hrvatski dijalektološki zbornik 15 (2009): 111-124.
+Pust, Klement. „Vpliv osmanskih vpadov na migracije v Istri (15.-16. stoletje)”. U:
+Migracije in slovenski prostor od antike do danes, uredili Peter Štih i Bojan Balkovec, 157-174. Ljubljana: Zveza zgodovinskih društev Slovenije, 2010.
+Rački, Franjo. „Izvodi za jugoslavensku poviest iz dnevnika Marina ml. Sanuda
+za g. 1526-1533”. Starine JAZU XXV (1892): 130-208.
+Raukar, Tomislav; Petricioli, Ivo; Švelec, Franjo; Peričić, Šime. Zadar pod mletačkom upravom 1409-1797. Zadar: Narodni list; Filozofski fakultet u Zadru, 1987.
+Roksandić, Drago. Srbi u Hrvatskoj od 15. stoljeća do naših dana. Zagreb: Vjesnik, 1991.
+Roksandić, Drago. Triplex Confinium ili o granicama i regijama hrvatske povijesti 1500-1800. Zagreb: Barbat, 2003.
+Roksandić, Drago. „Dinarski Vlasi/Morlaci od 14. do 16. stoljeća: koliko identiteta?”. Godišnjak Titius: godišnjak za interdisciplinarna istraživanja porječja Krke
+1 (2008), br. 1: 5-19.
+Rothman, E. Natalie. Brokering Empire: Trans-Imperial Subjects between Venice
+and Istanbul. Ithaca: Cornell University Press, 2012.
+Selmanović, Medžida. „Uticaj tursko-osmanske politike na islamizaciju u Bosni”. Prilozi za orijentalnu filologiju 41 (1991): 83-97.
+Solitro, Vicko. Povijesni dokumenti o Istri i Dalmaciji, preveo i uredio Vladimir
+Rismondo. Split: Književni krug, 1990.
+Stanić, Damir. „Ambivalentna lojalnost na Hrvatskoj krajini u 16. stoljeću”, U:
+Franz Vaniček i vojnokrajiška historiografija. Zbornik radova znanstvenog skupa
+s međunarodnim sudjelovanjem održanog u Slavonskom Brodu 23. i 24. listopada 2014., uredili Robert Skenderović i Stanko Andrić, 121-142. Slavonski Brod:
+Hrvatski institut za povijest, Podružnica za povijest Slavonije, Srijema i Baranje,
+2017.
+Stanić, Damir. „Bihać kao sjedište Bihaćke kapetanije i slobodni kraljevski grad”.
+Doktorska disertacija, Sveučilište u Zagrebu, 2020.
+Stanojević, Gligor. Jugoslovenske zemlje u mletačko-turskim ratovima XVI-XVIII
+vijeka. Beograd: Izdanje Istorijskog instituta, 1970.
+Šabanović, Hazim. Bosanski pašaluk. Postanak i upravna podjela. Sarajevo: Svjetlost, 1982.
+
+Povijesni prilozi 67., 179-236 (2024.)
+
+235
+
+Šarić, Marko. „Lovinački kraj na razmeđu epoha u XVI. stoljeću: nahija Cvituša
+prema osmanskom popisu iz 1585.”. Radovi Zavoda za hrvatsku povijest Filozofskog fakulteta Sveučilišta u Zagrebu 55 (2003), br. 2: 135-180.
+Šarić, Marko. „Inter-confessional Relations and (In)tolerance among the Vlach
+(16th-17th Centuries)”. U: Tolerance and Intolerance on the Triplex Confinium.
+Approaching the „Other” on the Borderlands Eastern Adriatic and beyond 15001800, uredili Egidio Ivetić i Drago Roksandić, 181-194. Padova: Università degli
+Studi di Padova, 2007.
+Šarić, Marko. „Bunjevci u ranom novom vijeku. Postanak i razvoj jedne predmoderne etnije”. U: Živjeti na Krivom Putu, uredili Milana Černelić, Marijeta
+Rajković i Tihana Rubić, 15-43. Zagreb: FF Press, 2008.
+Šarić, Marko. „Vlasi na Tromeđi: suživot u sukobima u graničnim društvima i
+kulturama Morlakije (16.-17. stoljeće)”. Doktorska disertacija, Sveučilište u Zagrebu, 2010.
+Šarić, Marko. „Višegraničje i modeli kulturne povijesti: izazovi i perspektive kulturnopovijesnog istraživanja vojnih krajina u ranom novom vijeku”. U: Franz
+Vaniček i vojnokrajiška historiografija. Zbornik radova znanstvenog skupa s međunarodnim sudjelovanjem održanog u Slavonskom Brodu 23. i 24. listopada
+2014., uredili Robert Skenderović i Stanko Andrić, 39-57. Slavonski Brod: Hrvatski institut za povijest, Podružnica za povijest Slavonije, Srijema i Baranje, 2017.
+Štefanec, Nataša. Država ili ne. Ustroj Vojne krajine 1578. godine i hrvatsko-slavonski staleži u regionalnoj obrani i politici. Zagreb: Srednja Europa, 2011.
+Šimunović, Petar. Istočnojadranska toponimija. Split: Logos, 1986.
+Šimunović, Petar. Hrvatska prezimena. Zagreb: Golden marketing – Tehnička
+knjiga, 2006.
+Traljić, Seid M. „Zadar i turska pozadina od XV. do potkraj XIX. stoljeća”. U:
+Grad Zadar. Presjek kroz povijest, uredio Grga Novak, 203-227. Zadar: Institut
+JAZU u Zadru, 1965.
+Vedriš, Trpimir. „Pokrštavanje i rana kristijanizacija Hrvata”. U: Nova zraka u
+europskom svjetlu. Hrvatske zemlje u ranome srednjem vijeku (o. 550-1150), uredila Zrinka Nikolić Jakus, 173-200. Zagreb: Matica hrvatska, 2015.
+Vončina, Josip. „Četiri glagoljske listine iz Like”. Radovi Staroslavenskog instituta 2 (1955), br. 2: 213-230.
+Yıldırım, Hacı Osman et al., Numaralı Mühimme Defteri (975-975 / 1567 – 1569).
+Ankara: Özet Transkipsiyon – Indeks – III, Başbakanlık Devlet Arşivleri Genel
+Müdürlügü, 1999.
+Zlatar, Behija. Gazi Husrev-beg. Sarajevo: Orijentalni institut u Sarajevu, 2010.
+
+236
+
+Marko Šarić, Osmanski Vlasi Istre na izvornoj Tromeđi: nestabilna podaništva i...
+
+Marko Šarić ∗
+Ottoman Vlachs of Istria in the “Original Triple Confinium”:
+Unstable Subjects and Ambivalent Loyalities in a Croatian Frontier
+Area during the 16th Century
+Summary
+Drawing from both unpublished and published Ottoman and Venetian sources, as well
+as published Habsburg records, this paper analyses the Vlach group know in historiography as the “Vlachs of Istria,” who, in the first half of the 16th century, socio-demographically dominated the area of the “original Triple Confinium” in Croatia. This study
+focuses on the return migration of a Vlach group from the Habsburg territories of northeastern Istria and Kras, whose demograpchic core consisted of descendants of Croatian
+medieval Vlachs. These Vlachs had emigrated northwest on several occasions in the
+early 16th century in response to advancing Ottoman conquests. As part of the Ottoman
+colonization policy of istimâlet, some of these Vlachs returned between 1528 and 1530
+to their former settlements in the Hrvati Vilajet and the Klis Sanjak. This was a Vlach
+community that, for over half a century, moved reversibly and cyclically within the imperial frontier region, shifting allegiance among the Ottoman, Habsburg, and Venetian
+rulers. Using their example, the paper examines phenomena arising from the dynamic
+and complex relations at the border, such as return migrations, unstable subjecthood,
+and ambivalent loyalties. These conditions reflect the insecure life in the restless frontier
+region, which required adaptive and compromising strategies. The paper analyses Ottoman tax registers (defters) from 1528-1530, 1540, 1550, and 1574, investigating the social,
+demographic, economic, and ethno-cultural structures of these Vlach communities, as
+well as the causes of their eventual disappearance as a distinct group community in the
+second half of the 16th century.
+Keywords: Vlachs, Morlachs, Ćići, migrations, subjecthood, loyalties, Early Modern Period, Triple Confinium, Ottoman Empire, Hrvati Vilayet, Klis Sanjak, Habsburg Istria,
+Kras, Pazin County, Bukovica, Ravni Kotari, Venetian Istria, Venetian Dalmatia, Zadar
+district
+
+Marko Šarić, Department of History, Faculty of Humanities and Social Sciences, University of
+Zagreb, Ivana Lučića 3, 10 000 Zagreb, Croatia, E-mail: marko.saric2@zg.t-com.hr
+
+*
+
+
