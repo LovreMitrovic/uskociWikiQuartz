@@ -1,7 +1,6 @@
 ---
 type: person
-given_name: ?
-surname: Karalija
+given_name: nullsurname: Karalija
 attested_period: "1686"
 title: "famoso četobaša"
 death_date: "early September 1686 (returning from second Livno raid)"

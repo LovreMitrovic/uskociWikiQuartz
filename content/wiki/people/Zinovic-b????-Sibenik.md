@@ -1,7 +1,6 @@
 ---
 type: person
-given_name: ?
-surname: Žinović
+given_name: nullsurname: Žinović
 attested_period: "1686"
 attested_place: "[[Sibenik]] / [[Skradin]]"
 title: "capo Morlach of Šibenik–Skradin"
