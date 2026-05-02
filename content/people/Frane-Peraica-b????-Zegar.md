@@ -2,7 +2,9 @@
 type: person
 given_name: Frane (Francesco)
 surname: Peraica
-brothers: ["Ilija Peraica (serdar, killed Sept/Oct 1685)"]
+surname_variants: [Peraizza, Peraiza]
+birth_place: "Cetina region (origin of Ilija Peraica's 1685 migration; not Žegar despite filename)"
+brothers: ["[[Ilija-Peraica-b????-Cetina|Ilija Peraica]] (serdar, killed Sept/Oct 1685)"]
 title: "harambaša / serdar of Peraica's people (from Oct 1685)"
 sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
 confidence: high
@@ -18,3 +20,6 @@ Brother of serdar **Ilija Peraica**, who in earlier years had brought 1,600 soul
 
 ## Notes
 The 1685 raid on Bjelaj-Vakuf (early Sept 1685) reports the bassà of Bosnia trying to recall *"li morlacchi di Peraiza e Nachich"* (doc. 74), so the family's people were a known migration cohort.
+
+## Disambiguation: Peraica ≠ Mitrović of Žegar
+The Peraica brothers (Ilija and Frane) led the **March 1685 Cetina migration** of 600 armed men + ~1,600 souls into Trogir territory. They are **distinct from** [[Ilija-Mitrovic-b????-Zegar|Ilija Mitrović of Žegar]] — brother of Stojan and Zaviša Janković — who lived through 1693 (per chunk-3 attestation, died of natural causes). One of the original chunk extractions conflated the two Ilijas; this wiki treats them as separate persons until further evidence emerges. The "-Zegar" in this filename is a legacy of that conflation; the Peraica clan's actual base was the Cetina valley. See also [[Ilija-Mitrovic-b????-Zegar]] and [[Cetina-Migration-Peraica-1685]].

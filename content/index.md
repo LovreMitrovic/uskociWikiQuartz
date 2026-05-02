@@ -1,8 +1,8 @@
 # Wiki Index
 
-Last updated: 2026-05-01 (after ingest of [[Desnica-1951-Kotarski-Uskoci-II]]).
+Last updated: 2026-05-02 (Desnica II sweep completed).
 
-Counts (post-ingest, partial): **4 sources · 28 events · 158 places · 240 surnames · 372 persons · 2 families** ≈ 800 wiki pages. *Note: this ingest added the Person and Source pages; the Surname/Place/Event sweep for Desnica II is partial — see [[log#2026-05-01]].*
+Counts: **4 sources · 79 events · 348 places · 483 surnames · 372 persons · 2 families** = 1,288 wiki pages.
 
 ---
 
@@ -22,16 +22,73 @@ Counts (post-ingest, partial): **4 sources · 28 events · 158 places · 240 sur
 - [[Vlasi-Istre-Migration-to-Venice-1538]] — Mass defection during Venetian-Ottoman War
 
 ### Morean War period (1684–1699) — from Desnica II
+**Major battles & sieges**
 - [[Sinj-Battle-1685]] — Venetian disaster, 7 April 1685
-- [[Lika-Settlement-Census-1685]] — 3,051 families / 10,290 fighters into Venetian Kotari
 - [[Sinj-Conquest-1686]] — Cornaro takes Sinj, 25–30 Sept 1686
+- [[Sinj-Siege-Turkish-1686]] — Turkish siege of Sinj, April 1686
+- [[Sinj-Relief-1687]] — Cornaro and Zen relieve Sinj from Atlagić's siege, April 1687
+- [[Knin-Conquest-1688]] — Cornaro's 15-day siege ends 11 Sept 1688
+- [[Vrlika-Capitulation-1688]] — Disdar surrenders without shot, Sept 1688
+- [[Knin-Battle-1684]] — 2 June 1684, ~120 Turks killed
+- [[Glamoc-Grahovo-Campaign-1684]] — Aug 1684, Filipović palaces burned
+- [[Kastela-Attack-1685]] — April 1685, Ahmed-paša repulsed
+- [[Zadvarje-Siege-1685]] — June 1685, Bosnian pasha besieges then withdraws
+- [[Pastrovici-Siege-Relief-1686]] — Corponese galeotta, March 1686
+- [[Bosnian-Pasha-Kotari-Raid-1686]] — Nov 12–19 1686, 16,000 Turks under 5 pashas
+- [[Bosnian-Pasha-April-1688-Raid]] — April 1688, 5,000 cavalry through Livno-Knin to Popovići
+
+**Raids (Venetian-Morlach into Ottoman territory)**
+- [[Lika-Joint-Raid-1685]] — 22 July 1685, four capi raid Lika
+- [[Bjelaj-Vakuf-Raid-1685]] — Sept 1685, Janković + Tartaglia at Bjelaj
+- [[Lapac-Raid-1686]] — Jan 1686, Pašić palazzo burned
+- [[Livno-Raid-First-1686]] — mid-July 1686, 1,800 houses burned
+- [[Livno-Raid-Second-1686]] — early Sept 1686, Karalija killed
+- [[Glamoc-Engagement-1686]] — early summer 1686, ~200 Turkish cavalry cut down
+- [[Knin-Millworks-Raid-1686]] — June 1686, 25–29 Krka mills destroyed
+- [[Mikiel-Knin-Reconnaissance-1685]] — Feb 1685
+- [[Sinj-Attempt-Marcello-1684]] — Oct 1684 failed Sinj siege
+- [[Zavisa-Rebac-Raid-1687]] — June 1687
+- [[Ilija-Bilaj-Raid-1687]] — June 1687, Bilaj captain's family killed
+- [[Varcar-Vakuf-Raid-1687]] — Sept 1687, Zaviša wounded
+- [[Kanjiza-Raid-1688]] — April 1688
+- [[Zagreb-Bishop-Robbery-1688]] — May 1688
+- [[Mostar-Mokro-Polje-Raid-1696]] — Selman pasha repulsed by Sinobad
+
+**Migrations & settlements**
+- [[Lika-Migration-May-1685]] — 70 families / 900 souls
+- [[Cetina-Migration-Peraica-1685]] — March 1685, Ilija "Peraica" leads ~1,600 souls
+- [[Lika-Settlement-Census-1685]] — Aggregate: 3,051 families / 10,290 fighters
+- [[Rama-Franciscan-Migration-1687]] — Oct 1687, 15 friars + 500 to Sustipan
+- [[Skoplje-Migration-1687]] — Nov 1687, Orthodox Đurađ + 26 families
+- [[Bjelaj-Migration-1692]] — 5,000 souls to Plavno, Zrmanja, Pađene, Mokro Polje, Oton
+- [[Mostar-Rusic-Migration-1692]] — Ivan Rašić, 200 souls to Makarska
+- [[Brochno-Goranci-Migration-1693-94]] — 5,000 souls to Zadvarje and Vrgorac
+
+**Politics, governance & long aftermath**
+- [[Vrana-Capi-Petition-1684]] — Four capi petition Senate, 28 July 1684
 - [[Jankovic-Regiment-Authorisation-1686]] — Doge Giustinian's dukal of 7 Nov 1686
 - [[Stojan-Jankovic-Death-Duvno-1687]] — Stojan Janković killed at Duvno, 23 Aug 1687
-- [[Knin-Conquest-1688]] — Cornaro's 15-day siege ends 11 Sept 1688
-- [[Kotari-Pertinenze-Reform-1689]] — Cornaro divides Zadar contado into 9 pertinenze, 11 Mar 1689
+- [[Atlagic-Bosnian-Pasha-Appointment-1687]] — Atlagić made pasha to fight Venice
+- [[Atlagic-Poison-Attempt-1687]] — Senate-approved poisoning attempt, 22 Jan 1687
+- [[Patriarch-Pec-Cetinje-Plan-1686]] — Patriarch Arsenije III plans relocation
+- [[Patriarch-Crnojevic-Teodosije-1693]] — Teodosije named exarch at Lepavina
+- [[Crna-Gora-Defection-1685]] — Montenegrin tribes join Skadar Sandžak
+- [[Kotari-Pertinenze-Reform-1689]] — Cornaro divides Zadar contado into 9 pertinenze
 - [[Bortulacic-Murder-Vrana-1692]] — Šimun Bortulačić killed at Vrana, 16 Jan 1692
-- [[Bjelaj-Migration-1692]] — 5,000 souls to Plavno, Zrmanja, Pađene, Mokro Polje, Oton
-- [[Bukovica-Revolt-1704]] — Pop Petar Jagodić-Kuridža uprising; suppressed 1704; Jagodić imprisoned 40 years
+- [[Mitrovic-Sinobad-Reconciliation-1692]] — Dolfin's mediation
+- [[Border-Demarcation-Grimani-1699-1701]] — Sfakioto's five processi
+- [[Olib-Sale-1701]] — Califfi → Mitrović for 8,000 ducats
+- [[War-of-Spanish-Succession-Deployments]] — Janković/Smiljanić to Italy
+- [[Vid-Petrovic-Banditry-1702-1707]] — Haiduk on Mt. Prolog; killed 1707
+- [[Bukovica-Revolt-1704]] — Pop Petar Jagodić-Kuridža uprising
+- [[Sinobad-Death-Glamoc-1715]] — Jovan Sinobad killed
+- [[Rakoczi-Mission-Vojnovic-1706]] — Croat noble's transit
+- [[Papal-Anti-Pirate-Recruitment-1717]] — Cardinal Paulucci request
+
+**Holy League (other fronts; referenced in Desnica II)**
+- [[Coron-Conquest-1685]] — Venetian Morean War
+- [[Esztergom-Battle-1685]] — Lorraine victorious
+- [[Neuhausel-Capture-1685]] — Imperial assault
 
 ## Places (regions, jurisdictions, towns, villages)
 

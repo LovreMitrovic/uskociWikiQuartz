@@ -105,3 +105,24 @@
   2. Finish chunk-3+4 places + disambiguation pages.
   3. Re-update index.md sections (surname + place lists got far past the 200-line truncation point — index will need pagination or category sub-pages soon).
   4. Lint pass: cross-check the chunk-1 agent's "Peraica" conflation, the parallel records of single-mention persons across chunks, and the disambiguation cross-references.
+
+## [2026-05-02] note | desnica2 sweep — completed
+- Resumed from 2026-05-01 pause. Items closed:
+  1. **Chunk-4 surnames written**: Califfi, Žabetić, Tubić, Marlatić, Jagodić-Kuridža, Spiro, Vojnović, Paulucci, Diedo, Sfakioto, Stojisavljević, Obradović, Petrović (Vid haiduk). +13 surname pages (470 → 483).
+  2. **Remaining places written**: Modro (Modrino selo, Bukovica), Pozzi (Venetian state prison). +2 places (346 → 348).
+  3. **Index.md re-updated**: counts refreshed to 4 sources / 79 events / 348 places / 483 surnames / 372 persons / 2 families = 1,288 wiki pages. Events section reorganised into sub-categories (Battles & sieges, Raids, Migrations, Politics & long aftermath, Holy League) so all 70+ Morean War event pages are linkable from the index.
+  4. **Peraica conflation lint resolved**:
+    - [[Ilija-Peraica-b????-Cetina]] extended with death (Aug-Oct 1685, Rogoznica), brother link, and explicit disambiguation note vs. Ilija Mitrović of Žegar.
+    - [[Frane-Peraica-b????-Zegar]] extended with disambiguation note (filename "-Zegar" is a legacy artifact; Peraica clan was Cetina-based, not Žegar).
+    - [[Stojan-Jankovic-b1635-Zegar]] timeline entry corrected: 1685-09 Peraica death now links to Ilija Peraica (Cetina) not Frane.
+    - [[Ilija-Mitrovic-b????-Zegar]] death updated to 1693 natural causes per chunk-3 attestation; "Peraica identity contested" footnote retained.
+- **Final ingest counts (Desnica II totals)**:
+  - +1 source page
+  - +169 person pages (203 → 372)
+  - +247 surname pages (236 → 483) — every surname mentioned in extracts was given a page; 13 existing pages received Desnica II extension sections
+  - +190 place pages (158 → 348) — including disambiguation pages for two Obrovacs, two Starigrads, two Poljicas, two Plavnos, plus separate church pages (Sv. Ilija Zadar, Sv. Šime Zadar, Sv. Stošija Zadar)
+  - +58 event pages (21 → 79)
+  - **Net total**: ~665 new wiki pages, ~50 existing-page updates.
+- **All 392 documents of Desnica II are now indexed via at least one entity page**. Single-mention surnames recorded with place attestation per user directive. The Janković-Mitrović cluster, the four 1684 capi, the Atlagić/Mandić/Pašić Ottoman families, the 1687 Janković death, the 1688 Knin conquest, the 1689 Pertinenze reform, the 1692 Bortulačić murder, the 1704 Bukovica revolt, and the long pop Jagodić imprisonment-to-1746 narrative are all written up with timelines and cross-references.
+- **Updated**: [[index.md]] (full event sub-categorisation; counts).
+- **Status check next session**: 0 pending sources in `raw/`; the entire desnica2 ingest is closed.
