@@ -6,6 +6,7 @@ attested_date: "1636"
 attested_place: "[[Zadar]]"
 title: vikar zadarskoga nadbiskupa
 sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Saric-2008-Bunjevci]]"]
+confidence: medium
 ---
 
 # Vincenzo Forza

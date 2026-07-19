@@ -6,6 +6,7 @@ attested_date: "1550"
 attested_place: "Kistanje area"
 title: vojvoda i knez
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Vičko Zirovac

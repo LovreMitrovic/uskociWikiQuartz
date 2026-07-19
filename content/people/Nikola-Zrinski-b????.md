@@ -6,6 +6,7 @@ attested_date: "1544"
 attested_place: "ribničko vlastelinstvo"
 title: knez
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Nikola Zrinski

@@ -6,6 +6,7 @@ attested_date: "1571"
 attested_place: "[[Pazin]]"
 title: pazinski kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Gašpar Maurić

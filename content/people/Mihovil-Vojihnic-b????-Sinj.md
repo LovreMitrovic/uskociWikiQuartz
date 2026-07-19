@@ -7,6 +7,7 @@ attested_date: "1550"
 attested_place: "nahija Sinj"
 title: knez
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Mihovil, sin Radoja Vojihnića

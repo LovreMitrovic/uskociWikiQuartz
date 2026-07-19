@@ -5,6 +5,7 @@ surname: Šikić
 attested_date: "1586"
 attested_place: "Šikići (kontrada Turtian, kod Pule)"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Šime Šikić

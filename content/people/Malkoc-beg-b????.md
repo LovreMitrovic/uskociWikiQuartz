@@ -6,6 +6,7 @@ attested_place: "[[Sandzak-Klis]]"
 title: kliški sandžakbeg
 religion: Muslim
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Malkoč-beg

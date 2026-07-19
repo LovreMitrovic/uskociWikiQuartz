@@ -6,6 +6,7 @@ attested_date: "1514–c. 1531"
 attested_place: "[[Krbava]] / [[Lika]]"
 title: krbavski knez
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Ivan Karlović

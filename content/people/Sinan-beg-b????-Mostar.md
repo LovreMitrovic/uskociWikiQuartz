@@ -6,6 +6,7 @@ attested_place: "[[Mostar]]"
 title: mostarski vojvoda
 religion: Muslim
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Sinan-beg

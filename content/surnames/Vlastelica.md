@@ -5,7 +5,7 @@ variants: [Vlastelizza]
 attested_period: "1684"
 attested_places:
   - "[[Vrana]] (1684 — Marko Vlastelica capo)"
-  - '[[Pađen]] (1684 — also "Marco Vulastelizza")'
+  - '[[Padjene|Pađen]] (1684 — also "Marco Vulastelizza")'
 sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ---
 

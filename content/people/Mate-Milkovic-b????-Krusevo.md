@@ -6,6 +6,7 @@ surname: Milković
 attested_date: "1554"
 attested_place: "obrovačko Kruševo"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Mate, sin pok. Pere Milkovića

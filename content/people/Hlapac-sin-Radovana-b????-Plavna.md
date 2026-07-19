@@ -6,6 +6,7 @@ attested_date: "1540"
 attested_place: "[[Plavna]] Istrija"
 title: primićur (knez)
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Hlapac, sin Radovana

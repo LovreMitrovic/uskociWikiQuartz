@@ -6,6 +6,7 @@ attested_place: "[[Sandzak-Bosna]] (Sarajevo)"
 title: bosanski sandžakbeg
 religion: Muslim
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Gazi Husrev-beg

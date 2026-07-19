@@ -8,6 +8,7 @@ birth_place: "[[Sibenik]] area"
 title: subaša/voivod, then sanjakbeg
 religion: Muslim (convert)
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Murat-beg Gajdić (Tardić)

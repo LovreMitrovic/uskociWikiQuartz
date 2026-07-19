@@ -6,6 +6,7 @@ attested_place: "[[Sandzak-Hercegovina]]"
 title: hercegovački sandžakbeg
 religion: Muslim
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Hamza-beg

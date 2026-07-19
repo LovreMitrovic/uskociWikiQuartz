@@ -6,6 +6,7 @@ attested_date: "1528–1538+"
 attested_place: "Podgrad, Postojna (Habsburg)"
 title: kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Nikola Jurišić

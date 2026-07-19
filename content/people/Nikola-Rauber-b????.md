@@ -6,6 +6,7 @@ attested_date: "1523"
 attested_place: "[[Trst]]"
 title: tršćanski kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Nikola Rauber

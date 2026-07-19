@@ -5,6 +5,7 @@ title: knez
 attested_date: "1528–1530"
 attested_place: "[[Klicevac]] / [[Zrmanja]]"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Radič, knez

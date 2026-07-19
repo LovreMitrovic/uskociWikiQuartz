@@ -6,6 +6,7 @@ attested_date: "c. 1482"
 attested_place: "vojvodaluk Gornje Primorje, Gorska župa, Ljubuški"
 title: fra; vojvoda
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Fra Augustin Vlatković

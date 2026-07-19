@@ -7,6 +7,7 @@ attested_place: "[[Brgud]]"
 title: starešina
 religion: Muslim convert
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Šamil Jaković

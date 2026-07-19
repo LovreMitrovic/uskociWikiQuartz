@@ -6,6 +6,7 @@ attested_date: "1523"
 title: knez
 religion: "Roman Catholic → Muslim"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Damjan Klokočić

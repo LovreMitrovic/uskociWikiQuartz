@@ -6,6 +6,7 @@ title: vojvoda (uskok)
 attested_date: "1530s"
 attested_place: "[[Bihac]] / [[Zumberak]]"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Vuk Popović, vojvoda

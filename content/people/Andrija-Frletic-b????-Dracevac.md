@@ -6,6 +6,7 @@ attested_date: "late 16th c."
 attested_place: "[[Senj]] / [[Dracevac]]"
 title: uskok kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Andrija Frletić ("Andre kapetan")

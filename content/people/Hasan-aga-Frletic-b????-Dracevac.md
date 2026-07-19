@@ -7,6 +7,7 @@ attested_place: "[[Dracevac]] kod Jasenica"
 title: aga; Venetian informant
 religion: Muslim
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Hasan-aga Frletić

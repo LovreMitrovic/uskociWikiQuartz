@@ -28,7 +28,7 @@ Brother of [[Stojan-Jankovic-b1635-Zegar|Stojan Janković]]. Eponymous figure in
 - **1684-01-02** — Occupies abandoned **Obrovac** with men of Novigrad / Castel Venier / Starigrad and demands a Venetian stipendio "or we shift to the Habsburgs"; brother Stojan dispatched to defuse (doc. 360, 365). [[Desnica-1950-Kotarski-Uskoci-I]]
 - **1684-01-11** — Brother Stojan Janković forces his men out of Obrovac (doc. 364). [[Desnica-1950-Kotarski-Uskoci-I]]
 - **1684-04-07** — Donà orders him and his Budin-based companions to restore goods plundered after the murder of Perica Sinobad (doc. 391). [[Desnica-1950-Kotarski-Uskoci-I]]
-- **1684-04-18** — Sinobad case escalates: Ilija accused of murdering [[Perica-Sinobad-b????-Budin|Perica Sinobad]] (Jovan's father) and a brother, of incendij, plunder, and of armed prevention of cultivation (doc. 396). [[Desnica-1950-Kotarski-Uskoci-I]]
+- **1684-04-18** — Sinobad case escalates: Ilija accused of murdering [[Pietro-Sinobad-b????-Posedarje|Perica Sinobad]] (Jovan's father) and a brother, of incendij, plunder, and of armed prevention of cultivation (doc. 396). [[Desnica-1950-Kotarski-Uskoci-I]]
 - **1684-04-16** (recapitulation) — Donà to Senate: "il principal fomentatore di tali disordini si conosce sempre più essere Elia fratello del kavalier Gianco Mitrovich" — ineffective brother Stojan, asks the Senate's express command "il rimoverlo in qualche maniera da queste parti crederei alle congionture, che accorrono, molt' opportuno." (doc. 394). [[Desnica-1950-Kotarski-Uskoci-I]]
 
 ## Timeline (continued — 1684 to 1693, from Desnica II)
@@ -49,7 +49,7 @@ A figure called **"Peraica" / "famoso Peraizza"** appears in 1685 (Cetina-region
 - [[Sangulin-Baricevic-b????-Budin|Sangulin Barićević]]
 
 ## Notes
-- His sister was wife of [[Mitar-Nikolic-b????-Plav|Mitar Nikolić]] (Bajo Pivljanin's brother — Desnica's footnote on doc. 376) — kinship with the Pivljanini explains why Mitar joined his rebellion.
+- His sister was wife of [[Dmitar-Nikolic-b????-Plav|Mitar Nikolić]] (Bajo Pivljanin's brother — Desnica's footnote on doc. 376) — kinship with the Pivljanini explains why Mitar joined his rebellion.
 - The 1683–84 Vrana uprising arc in this volume cannot be told without him — he is the prime instigator on the Venetian side.
 
 ## Sources

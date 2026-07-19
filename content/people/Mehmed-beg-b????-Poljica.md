@@ -7,6 +7,7 @@ birth_place: "[[Poljica]]"
 title: hercegovački sandžakbeg
 religion: Muslim convert
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Mehmed-beg

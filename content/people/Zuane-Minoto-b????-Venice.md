@@ -6,6 +6,7 @@ attested_date: "1524"
 attested_place: "[[Koper]]"
 title: potestat i kapetan Kopra
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Zuane Minoto

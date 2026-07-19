@@ -5,6 +5,7 @@ surname: Milohanović
 attested_date: "1561–1570"
 attested_place: "[[Nova-Vas]] / [[Zemunik]] (Miljacki) / [[Zbandalj]]"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Grgur Milohanović

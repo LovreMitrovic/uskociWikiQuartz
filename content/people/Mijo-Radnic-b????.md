@@ -6,6 +6,7 @@ title: fra (franjevac, vizitator)
 attested_date: "1684"
 attested_place: "Bosna Srebrena (provincija)"
 sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Saric-2008-Bunjevci]]"]
+confidence: medium
 ---
 
 # Fra Mijo Radnić

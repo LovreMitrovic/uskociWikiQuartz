@@ -6,6 +6,7 @@ attested_date: "1560"
 attested_place: "[[Senj]]"
 title: senjski kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Ivan Lenković

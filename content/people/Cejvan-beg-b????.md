@@ -6,6 +6,7 @@ attested_place: "[[Sandzak-Klis]]"
 title: Ottoman official
 religion: Muslim
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Ćejvan-beg

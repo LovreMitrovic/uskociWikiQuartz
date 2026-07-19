@@ -6,6 +6,7 @@ attested_date: "1557"
 attested_place: "[[Zadar]]"
 title: zadarski knez
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Antonio Michielo

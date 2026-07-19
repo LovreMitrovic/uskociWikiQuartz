@@ -6,6 +6,7 @@ attested_date: "1528"
 attested_place: "[[Zadar]]"
 title: zadarski knez
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Vittorio Barbadico

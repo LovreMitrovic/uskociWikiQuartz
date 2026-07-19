@@ -5,6 +5,7 @@ surname: Nenadić
 attested_date: "1506"
 attested_place: "[[Poljica]] → Ottoman territory"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Ivaniš Nenadić

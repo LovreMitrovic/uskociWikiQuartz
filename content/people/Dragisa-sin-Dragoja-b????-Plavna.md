@@ -6,6 +6,7 @@ attested_date: "1540"
 attested_place: "Podlužje, [[Plavna]]"
 title: vojvoda
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Dragiša, sin Dragoja

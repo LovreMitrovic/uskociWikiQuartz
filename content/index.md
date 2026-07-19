@@ -431,7 +431,6 @@ Counts: **4 sources · 79 events · 348 places · 483 surnames · 372 persons ·
 - [[Soric|Sorić]] (updated) — Gorica župnik to Ribnik martyr
 - [[Mandusic|Mandušić]] / [[Vrancic|Vrančić]] — Šibenik zaleđe
 - [[Saric|Šarić]] (updated) — Cvijan + sons in Šibenik
-- [[Posedarski]] (updated) — Frano-Žorži-Frano cycle
 - [[Bortulacic|Bortulačić]] — Zadar gradski
 - [[Movicuna|Močivuna]] — Jakorševci → Bokanjac
 - [[Pivljanin-Nikolic|Pivljanin-Nikolić]] — Plav → Zadar (Bajo, Mitar, Petar)
@@ -441,6 +440,7 @@ Counts: **4 sources · 79 events · 348 places · 483 surnames · 372 persons ·
 - [[Durakbegovic|Durakbegović]] — Krčki sandžak; Vrana
 - [[Cernizza|Crnica]] — Tinj investitura
 - (~70 additional surnames with single-mention bearers; see [[log]])
+- (2026-07-19 hygiene pass: +37 surname hub stubs created for previously-unlinked bearers; see [[log#2026-07-19]])
 
 ### New places
 - [[Zegar|Žegar]] (updated) — Mitrović origin
@@ -452,5 +452,4 @@ Counts: **4 sources · 79 events · 348 places · 483 surnames · 372 persons ·
 - [[Ribnik]] (updated) — 1648 Battle
 - [[Vucjak|Vučjak]] — Ilija Smiljanić's death
 - [[Zecevo|Zečevo]] (updated) — twin battles 1648/1666
-- [[Mokro-Polje]] (updated) — Bjedov origin
-- [[Knin]] (updated) — Atlagić-Firdusović kapetanija
+- (2026-07-19 hygiene pass: +101 place hub stubs created for previously-unlinked toponyms; see [[log#2026-07-19]])

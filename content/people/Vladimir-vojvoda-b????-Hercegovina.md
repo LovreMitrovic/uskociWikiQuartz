@@ -5,6 +5,7 @@ title: vojvoda
 attested_date: "1477"
 attested_place: "[[Hercegovina]] (Mostar/Hum nahija)"
 sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Saric-2008-Bunjevci]]"]
+confidence: medium
 ---
 
 # Vladimir, vojvoda

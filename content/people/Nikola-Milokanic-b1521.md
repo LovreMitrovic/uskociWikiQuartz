@@ -8,6 +8,7 @@ attested_date: "1591"
 attested_place: "Banpolje (Lika) → Istria"
 religion: "Muslim → Christian (returned)"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Nikola Milokanić (Osman)

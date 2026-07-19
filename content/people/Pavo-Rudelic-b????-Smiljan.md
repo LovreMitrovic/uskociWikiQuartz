@@ -5,6 +5,7 @@ surname: Rudelić
 attested_date: "1686"
 attested_place: "Smiljan ([[Lika]])"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Pavo Rudelić

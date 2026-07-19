@@ -6,6 +6,7 @@ attested_date: "1527"
 attested_place: "[[Habsburska-Istra]] / [[Kras]] / [[Notranjska]]"
 title: magnate
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Krsto I. Frankapan

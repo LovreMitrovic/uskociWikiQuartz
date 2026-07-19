@@ -6,6 +6,7 @@ attested_date: "1570"
 attested_place: "[[Zadar]]"
 title: kapetan hrvatskih konjičkih jedinica
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Slade Milovanić

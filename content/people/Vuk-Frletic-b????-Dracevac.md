@@ -6,6 +6,7 @@ attested_date: "late 16th c."
 attested_place: "[[Senj]]"
 title: uskok
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Vuk Frletić

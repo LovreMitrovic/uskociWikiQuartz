@@ -6,6 +6,7 @@ attested_date: "1581"
 attested_place: "Biograd"
 title: biogradski kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Juraj Matković

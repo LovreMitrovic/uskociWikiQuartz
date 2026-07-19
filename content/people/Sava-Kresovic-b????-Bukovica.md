@@ -13,7 +13,7 @@ confidence: high
 
 # Sava Krešović
 
-Brother of [[Rados-Kresovic-b????-Bukovica|Radoš Krešović]]; co-occupier of Sinobad's casale and lands at [[Modro-Selo|Modro]] in [[Bukovica]], 1697 (doc 302) [[Desnica-1951-Kotarski-Uskoci-II]].
+Brother of [[Rados-Kresovic-b????-Bukovica|Radoš Krešović]]; co-occupier of Sinobad's casale and lands at [[Modro-selo|Modro]] in [[Bukovica]], 1697 (doc 302) [[Desnica-1951-Kotarski-Uskoci-II]].
 
 ## Sources
 - [[Desnica-1951-Kotarski-Uskoci-II]] — doc 302.

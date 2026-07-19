@@ -6,6 +6,7 @@ surname: Prejić
 attested_date: "1528"
 attested_place: "Opatija ([[Kula-Atlagica]])"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Fran, sin Prejića

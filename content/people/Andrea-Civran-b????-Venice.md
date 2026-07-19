@@ -6,6 +6,7 @@ attested_date: "1524"
 attested_place: "[[Mletacka-Dalmacija]]"
 title: providur Dalmacije
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Andrea Civran

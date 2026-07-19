@@ -6,6 +6,7 @@ attested_date: "1532"
 attested_place: "[[Sibenik]]"
 title: šibenski knez i kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Bernardo Balbi

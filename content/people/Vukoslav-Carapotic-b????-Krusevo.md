@@ -5,6 +5,7 @@ surname: Carapotić (Krmpotić?)
 attested_date: "1554"
 attested_place: "Kruševo (kod Obrovca)"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Vukoslav Carapotić (Krmpotić?)

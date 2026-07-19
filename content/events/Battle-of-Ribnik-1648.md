@@ -3,7 +3,7 @@ type: event
 name: "Bitka kod Ribnika (16/17 srpnja 1648)"
 start_date: "1648-07-16"
 end_date: "1648-07-17"
-places: ["[[Ribnik]] (Lika)", "[[Vučjak]]", "[[Lika]]"]
+places: ["[[Ribnik]] (Lika)", "[[Vucjak|Vučjak]]", "[[Lika]]"]
 sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ---
 

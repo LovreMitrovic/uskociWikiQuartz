@@ -6,6 +6,7 @@ surname: Firultić (later Frletić)
 attested_date: "1528"
 attested_place: "[[Tornik]]"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Milovan, sin Firultića

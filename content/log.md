@@ -29,7 +29,7 @@
   - **Cvijan Šarić's death-date**: still alive 1668-10-06 (doc. 162); pay had passed to son Jovan in 1662; the 1660 Evlija Çelebi attestation describes him in his prime.
   - **Senate's name-confusion in doc. 215** (1675-08-24): "Cianco suo frello" of Stojan Janković — but Stojan had no actual brother named Janko (Desnica's fn: probably patronymic for Zaviša or Ilija).
   - Doc. 397 (Tepšinci/Parčići) ends the volume; the *uskakanje* outcomes are in Sveska II.
-- **Updated**: [[index.md]]
+- **Updated**: [[index]]
 - **Status check next session**: `comm -23 raw/ vs wiki/sources/*.md location_in_raw` will now show **only `desnica2.txt`** as pending.
 
 ## [2026-04-29] ingest | Šarić 2024 — Osmanski Vlasi Istre na izvornoj Tromeđi
@@ -48,7 +48,7 @@
   - Many register-only persons have only patronymic; surnames inferred from patronymic stems (e.g. "sin Milovana" → Milovanić). Treat as provisional until cross-referenced.
   - "Ivaniš sin Mirka" (joint Donje/Gornje Miranje timar with Ivaniš Poropat) — not yet given own Person page; mentioned only in body of Ivaniš Poropat.
   - Footnote-list continuity surnames have no concrete bearers in this source; pages exist as placeholders.
-- **Updated**: [[index.md]]
+- **Updated**: [[index]]
 - **Status check next session**: `comm -23` of `raw/` vs `wiki/sources/*.md` `location_in_raw:` should now show 0 pending.
 
 ## [2026-05-01] ingest | Desnica 1951 — Istorija kotarskih uskoka 1684–1749, sveska II
@@ -86,7 +86,7 @@
   - **Place pages**: ~60–80 NEW places mentioned but not yet given pages. Priority candidates: Lantana, Belgrade, Vienna, Banja Luka, Cattaro/Kotor, Ulcinj, Cetinje, Pastrovići, Budva, Zaostrog, Vrgorac, Imotski, Makarska, Gabela, Norin, Forte Opus, Zadvarje (Duare), Omiš (Almissa), Prolog, Solin (Salona), Hercegnovi, Velim, Daslina, Slosella, Vrpolje, Novigrad (Dalmatia), Karlobag, Krka river, Biljane, Nadin, Poličnik, Malpaga, Grahovo, Vienna, Karlovac, Buda, Sarajevo, Duvno, Bribir, Skradin (existing — needs extension), Split, Trogir, Kaštela, S. Simeone Zadar (contrada), Sv. Ilija Zadar (Greek-rite church), Sv. Šime Zadar, Bilišani, Boričevac, Ripač, Lapac, Bjelaj, Vakuf (Kulen Vakuf), Srb, Komić, Medak, Rebac, Parčići, Olib (1701 sale), Bruvno (where Vid Petrović killed 1707).
   - **Events**: a few additional events worth dedicated pages — Bjelaj/Vakuf raid 1685, Lika joint raid 1685, Lapac raid 1686, two Livno raids 1686, Bosnian Pasha Kotari raid Nov 1686, Pastrovići siege relief 1686, Knin millworks raid 1686, Rama Franciscan migration Oct 1687, Skoplje migration Nov 1687, Bosnian pasha April 1688 raid, Vrlika capitulation Sept 1688, Brochno-Goranci migration 1693–94, Mostar/Rusić migration 1692, War of Spanish Succession deployments, 1707 Bruvno (Vid Petrović killed), Olib sale 1701, Rákóczi mission of Vojnović 1706, Papal anti-pirate recruitment 1717, Sinobad death at Glamoč 1715.
   - **Reason for partial coverage**: parallel writing agents launched in this session (4 in parallel, one per chunk) hit Anthropic API rate limits (resets 8:30pm Europe/Zagreb) before completing the surname/place/event sweeps. Person pages were highest priority and got through. Plan: resume Surname/Place/Event sweeps in a follow-up session.
-- **Updated**: [[index.md]] (sources, events sections; persons + surnames counts updated).
+- **Updated**: [[index]] (sources, events sections; persons + surnames counts updated).
 - **Status check next session**: `raw/` vs `wiki/sources/*.md` `location_in_raw:` should show 0 pending. The follow-up work is *within* desnica2 (surname/place/event sweep), not a new ingest.
 
 ## [2026-05-01] note | desnica2 sweep continuation — paused mid-pass
@@ -124,5 +124,46 @@
   - +58 event pages (21 → 79)
   - **Net total**: ~665 new wiki pages, ~50 existing-page updates.
 - **All 392 documents of Desnica II are now indexed via at least one entity page**. Single-mention surnames recorded with place attestation per user directive. The Janković-Mitrović cluster, the four 1684 capi, the Atlagić/Mandić/Pašić Ottoman families, the 1687 Janković death, the 1688 Knin conquest, the 1689 Pertinenze reform, the 1692 Bortulačić murder, the 1704 Bukovica revolt, and the long pop Jagodić imprisonment-to-1746 narrative are all written up with timelines and cross-references.
-- **Updated**: [[index.md]] (full event sub-categorisation; counts).
+- **Updated**: [[index]] (full event sub-categorisation; counts).
 - **Status check next session**: 0 pending sources in `raw/`; the entire desnica2 ingest is closed.
+
+## [2026-07-19] lint | Hygiene pass — link integrity, confidence backfill, filename normalisation
+Full-wiki hygiene sweep (no new source ingested). Scope: fix broken links, backfill required frontmatter, normalise filenames.
+
+- **Broken wikilinks: 199 → 0.**
+  - Stripped erroneous `.md` suffix from 10 wikilinks (incl. a stray self-link to index).
+  - Created ~247 previously-unlinked target pages as thin index-cards (schema breadth-first default), each cited to one of the 4 sources; no dates/relationships invented:
+    - Places: +~101 (Krmpote-migration villages, Ravni-kotari toponyms, Venetian exonyms cross-linked to modern-name pages: Cattaro→Kotor, Cherso→Cres, Cliuno→Livno, Spalato→Split, Pago→Pag, etc.).
+    - Surnames: +37 hub stubs (mostly Bunjevac/Vlach muster-roll families, cited to Šarić 2008).
+    - People: +52 stubs, confidence low/medium.
+    - Events: +4 (Candian-War-1645-1669, Drnis-Rebellion-1608, Lika-Raid-1685, Saric-Sibenik-Pravoslavni-Morlaci-1654).
+  - Residual new-outbound-link stubs created by hand: [[Crete]], [[Piva]], [[Ivan-Devic-b????]]. Fixed `Modro-Selo`→`Modro-selo` case-mismatch links (3 files).
+- **Confidence backfill: 103 Person pages were missing `confidence:`; all now set** (99 low, 4 medium — graded by evidence: single-secondary-source → low, two secondary works → medium). Wiki-wide confidence now: 184 high / 85 medium / 157 low / 0 speculative.
+- **Filename normalisation (ASCII rule):** 6 files had diacritics/spaces.
+  - 5 were accidental duplicates of existing ASCII pages (links inconsistently spelled the same entity) — merged & stub deleted, links repointed with alias to preserve display: `Ravni Kotari`→[[Ravni-Kotari]], `Pađen`→[[Padjene]], `Vučjak`→[[Vucjak]], `Habsburška Istra`→[[Habsburska-Istra]], `Mletačka Istra`→[[Mletacka-Istra]].
+  - 1 clean rename: `Žorži-Posedarski-d1679-Zadar`→[[Zorzi-Posedarski-d1679-Zadar]].
+- **index.md:** removed 3 duplicate `(updated)` changelog lines (Knin, Mokro-Polje, Posedarski — already in main sections); added hygiene-pass count notes.
+
+### Open questions / needs your decision
+- **Possible Person merges (NOT merged — schema requires your confirmation):**
+  - [[Andelo-Emo-b????-Venice]] ⇔ existing [[Angelo-Emo-b????-Venice]] (Anđelo = Angelo).
+  - [[Anto-Matkovic-b????-Temisvar|Anto-Matkovic-b????]] ⇔ [[Anto-Matkovic-b????-Temisvar]].
+  - [[Culina-sin-Milica-b????-Bjeline|Culina-sin-Milica-b????]] ⇔ [[Culina-sin-Milica-b????-Bjeline]].
+  - [[Dmitar-Nikolic-b????-Plav|Mitar-Nikolic-b????-Plav]] ⇔ [[Dmitar-Nikolic-b????-Plav]].
+  - [[Pietro-Sinobad-b????-Posedarje|Perica-Sinobad-b????-Budin]] ⇔ [[Pietro-Sinobad-b????-Posedarje]].
+  - [[Radan-Matic-b????-Budin|Radan-Matic-b????-Brgud]] ⇔ [[Radan-Matic-b????-Budin]].
+- **Possible Place merges (thin exonym/spelling stubs kept for now, cross-linked):** Biograd-na-Moru⇔Biograd, Cuculovaci⇔Cucullovaci, Krk (Sandžak Krka)⇔Krka, Novigrad⇔Novigrad-Dalmatia, Sv-Juraj⇔Sv-Juraj-Senj, Glamoc-Polje⇔Glamocko-Polje.
+- **Confidence drift:** 184 Person pages still marked `high` while the wiki rests on only 4 sources; per schema `high` = multiple primary sources agree. Recommend an audit to down-grade single-source `high` pages to `medium` (not auto-changed — schema requires flagging first).
+- **Plav vs Piva:** `[[Plav|Piva]]` on [[Pivljanin-Nikolic]] likely means Piva (Montenegro), not the town of Plav; both pages now exist — confirm intended referent.
+
+## [2026-07-19] lint | Person merges (from hygiene-pass merge candidates)
+Resolved 5 of the 6 flagged same-person duplicates (user-approved). Each: content folded into the canonical page, all inbound links repointed, duplicate deleted. 0 broken links after. People 426 → 421.
+
+- **fra Anto Matković (1582, Temišvar school):** merged `Anto-Matkovic-b????` → kept [[Anto-Matkovic-b????-Temisvar]].
+- **Ćulina/Čulina, sin Milića (knez, Lika timar 1528–30):** merged `Culina-sin-Milica-b????` → kept [[Culina-sin-Milica-b????-Bjeline]].
+- **Dmitar/Mitar Nikolić-Pivljanin (brother of Bajo Pivljanin, m. Janja Janković 1675):** merged `Mitar-Nikolic-b????-Plav` → kept [[Dmitar-Nikolic-b????-Plav]] (folded in the 1683–84 rebellion / doc 376 detail).
+- **Pietro/Perica Sinobad (kapetan di Budin, killed at Brgud 1684):** merged `Perica-Sinobad-b????-Budin` → kept [[Pietro-Sinobad-b????-Posedarje]].
+- **Radan Matić (Ilija Mitrović's Budin drug / killer of Perica Sinobad):** merged `Radan-Matic-b????-Brgud` → kept [[Radan-Matic-b????-Budin]] (Budin = base, Brgud = murder site); confidence raised low → medium; identity noted as **inferential** (no single doc equates the two names).
+
+- **NOT merged (kept separate, per user):** [[Andelo-Emo-b????-Venice]] (provveditore 1716, doc 379) vs [[Angelo-Emo-b????-Venice]] (Conte of Zadar 1684, doc 33) — same Emo patrician surname but 32 yrs apart and different offices; treated as distinct Emo-family officeholders.
+- **Still open:** place-name duplicates (Biograd-na-Moru⇔Biograd, Novigrad⇔Novigrad-Dalmatia, Krk⇔Krka, Sv-Juraj⇔Sv-Juraj-Senj, Glamoc-Polje⇔Glamocko-Polje, Cuculovaci⇔Cucullovaci) — not yet reconciled. Confidence-drift audit (184 `high` on 4 sources) also still pending.

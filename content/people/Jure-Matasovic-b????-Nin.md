@@ -6,6 +6,7 @@ title: don (ninski arhiprezbiter)
 attested_date: "1579"
 attested_place: "[[Nin]]"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Don Jure Matasović

@@ -6,6 +6,7 @@ attested_date: "1550"
 attested_place: "[[Ostrovica]] (gives name to Biovičino Selo)"
 title: knez
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Bijovče, sin Vučkov

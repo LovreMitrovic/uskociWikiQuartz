@@ -6,6 +6,7 @@ attested_date: "1549"
 attested_place: "[[Vrana]] district (Venetian)"
 title: starešina
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Rade Šiljanović

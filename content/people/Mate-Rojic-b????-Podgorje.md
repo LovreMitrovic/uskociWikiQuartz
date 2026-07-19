@@ -7,6 +7,7 @@ attested_date: "1528–1530"
 attested_place: "[[Podgorje]]"
 title: primićur
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Mate Rojić (Matije Rožića)

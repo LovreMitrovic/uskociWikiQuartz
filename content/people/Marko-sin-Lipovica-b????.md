@@ -7,6 +7,7 @@ attested_date: "1528–1530"
 attested_place: "Vrbljani (kod Ostrovice)"
 title: knez (timarnik)
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Marko, sin Lipovića

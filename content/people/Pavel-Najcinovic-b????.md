@@ -6,6 +6,7 @@ attested_date: "1538+"
 attested_place: "[[Podnovje]]"
 title: kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Pavel Najčinović

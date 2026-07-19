@@ -6,6 +6,7 @@ attested_date: "1553"
 attested_place: "[[Sibenik]] area"
 title: katunar (morlački katun Ružić)
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Jure Heračić

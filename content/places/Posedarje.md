@@ -27,7 +27,7 @@ Coastal village/county on Novigrad more, ancestral seat of the [[Posedarski|Pose
 - [[Stojan-Jankovic-b1635-Zegar|Stojan Janković]] — *harambaša di Possidaria*
 - [[Pavle-Vukcevic-b????-Posedarje|Pavle Vukčević]]
 - [[Frano-Posedarski-1648-Zadar|Frane Posedarski Elder]]
-- [[Žorži-Posedarski-d1679-Zadar|Žorži Posedarski]]
+- [[Zorzi-Posedarski-d1679-Zadar|Žorži Posedarski]]
 - [[Frane-Posedarski-1684|Frane Posedarski Younger]]
 
 ## In Desnica II (1684–1749)

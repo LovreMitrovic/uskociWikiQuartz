@@ -6,6 +6,7 @@ attested_date: "1588"
 attested_place: "[[Trogir]]"
 title: trogirski knez
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Alvise Barbaro

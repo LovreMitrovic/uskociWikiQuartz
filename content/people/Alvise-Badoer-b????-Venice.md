@@ -6,6 +6,7 @@ attested_date: "c. 1538"
 attested_place: "[[Mletacka-Dalmacija]]"
 title: providur Dalmacije
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Alvise Badoer

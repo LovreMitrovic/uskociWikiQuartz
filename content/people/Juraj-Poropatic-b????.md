@@ -6,6 +6,7 @@ attested_date: "after 1573"
 attested_place: "Zadar / [[Mletacka-Istra]]"
 title: kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Juraj Poropatić

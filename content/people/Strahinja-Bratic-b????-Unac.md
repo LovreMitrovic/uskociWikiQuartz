@@ -6,6 +6,7 @@ attested_date: "1528–1530"
 attested_place: "nahija Unac / [[Zrmanja]]"
 title: vojvoda
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Strahinja Bratić

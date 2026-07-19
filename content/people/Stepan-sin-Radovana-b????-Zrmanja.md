@@ -6,6 +6,7 @@ attested_date: "1550"
 attested_place: "[[Zrmanja]] Istrija"
 title: primićur
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Stepan, sin Radovana

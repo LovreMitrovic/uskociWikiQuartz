@@ -6,6 +6,7 @@ surname: Gleđevac
 attested_date: "1528"
 attested_place: "Dasidžmani ([[Karin]])"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Ivan, sin Gleđevca

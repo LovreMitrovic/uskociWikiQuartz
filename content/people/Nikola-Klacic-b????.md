@@ -6,6 +6,7 @@ attested_date: "1572"
 attested_place: "[[Nin]]"
 title: kapetan
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Nikola Klačić

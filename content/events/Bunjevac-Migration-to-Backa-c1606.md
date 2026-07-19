@@ -21,7 +21,7 @@ Ottoman-administered transfers of "buntovni vlaški element" from [[Sandzak-Klis
 - **1554** — Mohač defter, selo Márok (Baranja): rajetin **[[Marton-Bunavac-b????-Marok]]** ("Márton Bunavácz"). Earliest possible written form of "Bunjevac" [[Saric-2008-Bunjevci]] (caveats: possibly a transcription error for *Dunavac*; possibly an etnik attached to a non-Bunjevac).
 - **1561** — same person registered in nearby selo Izsép as "Martin Bunivac".
 - **1581** — knez **[[Vranes-Ivanovic-b????-Kaloca]]** with a knežina near Kaloča.
-- **1582** — Bosnian Franciscan **[[Anto-Matkovic-b????]]** opens a school for "Dalmatince" in the Temišvar diocese.
+- **1582** — Bosnian Franciscan **[[Anto-Matkovic-b????-Temisvar|Anto-Matkovic-b????]]** opens a school for "Dalmatince" in the Temišvar diocese.
 - 1554 + 1561 deftere also register raja designated *"Hirvat"* (regional Croat from former vilajet Hrvati) in selo Sukit and selo Ata (Šarošac 1991).
 
 ## 2. Main wave (1606–1620) — after the Long War

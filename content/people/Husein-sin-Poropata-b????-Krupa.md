@@ -7,6 +7,7 @@ attested_date: "1528"
 attested_place: "[[Krupa]] (nahija Zrmanja)"
 religion: Muslim convert
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Husein, sin Poropata

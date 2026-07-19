@@ -3,7 +3,7 @@ type: event
 name: "Vranska buna (1683–1684)"
 start_date: "1683-10"
 end_date: "1684-05"
-places: ["[[Vrana]]", "[[Pađen]]", "[[Drnis]]", "[[Knin]]", "[[Obrovac]]", "[[Sukosan|Sukošan]]", "[[Klis]]"]
+places: ["[[Vrana]]", "[[Padjene|Pađen]]", "[[Drnis]]", "[[Knin]]", "[[Obrovac]]", "[[Sukosan|Sukošan]]", "[[Klis]]"]
 sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ---
 

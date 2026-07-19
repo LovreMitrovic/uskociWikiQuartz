@@ -6,6 +6,7 @@ surname: Prejić
 attested_date: "1540"
 attested_place: "[[Zacadje]]"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Ivan, sin Prejića (Začađe)

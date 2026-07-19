@@ -6,6 +6,7 @@ attested_date: "1562"
 attested_place: "Režane (novigradski distrikt)"
 title: kmet
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Jakov Poropatić

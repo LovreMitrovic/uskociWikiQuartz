@@ -6,6 +6,7 @@ surname: Najčinović
 attested_date: "1528"
 attested_place: "Kućišta (nahija Zrmanja)"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Biljan, sin Jančića

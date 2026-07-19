@@ -6,6 +6,7 @@ attested_date: "1559"
 attested_place: "[[Mletacka-Dalmacija]]"
 title: providur Sopraintendanture za granicu
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Giovanni Antonio Novelo

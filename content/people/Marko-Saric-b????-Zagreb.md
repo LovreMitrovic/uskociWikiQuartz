@@ -6,6 +6,7 @@ attested_date: "1999–"
 attested_place: "[[Zagreb]]"
 title: povjesničar
 sources: ["[[Saric-2008-Bunjevci]]", "[[Saric-2024-Vlasi-Istre]]"]
+confidence: medium
 ---
 
 # Marko Šarić

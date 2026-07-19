@@ -6,6 +6,7 @@ attested_date: "1551"
 attested_place: "[[Marindol]] (Bela krajina)"
 title: desetnik (uskok)
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Stanoje Prijić

@@ -7,6 +7,7 @@ attested_place: "[[Zagreb]]"
 title: kanon
 religion: "Roman Catholic → Muslim"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Franjo Filipović

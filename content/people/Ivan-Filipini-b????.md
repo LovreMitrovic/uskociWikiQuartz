@@ -5,6 +5,7 @@ surname: Filipini
 attested_date: "1570"
 attested_place: "[[Zbandalj]] (kraj Poreča)"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Ivan Filipini

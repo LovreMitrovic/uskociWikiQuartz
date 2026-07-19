@@ -7,6 +7,7 @@ attested_date: "1540"
 attested_place: "[[Surozani]]"
 religion: Muslim convert
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Hasan, sin Prejića (Surožani)

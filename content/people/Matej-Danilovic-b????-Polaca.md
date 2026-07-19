@@ -6,6 +6,7 @@ title: don (župnik)
 attested_date: "1591"
 attested_place: "[[Polaca]]"
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Don Matej Danilović

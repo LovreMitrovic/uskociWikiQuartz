@@ -6,6 +6,7 @@ attested_date: "1532"
 attested_place: "[[Mletacka-Dalmacija]]"
 title: kapetan mletačke fuste
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Alexandro Bondumier

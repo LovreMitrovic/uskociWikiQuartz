@@ -6,6 +6,7 @@ attested_date: "1560"
 attested_place: "Constantinople"
 title: bailo
 sources: ["[[Saric-2024-Vlasi-Istre]]"]
+confidence: low
 ---
 
 # Marin Cavalli
