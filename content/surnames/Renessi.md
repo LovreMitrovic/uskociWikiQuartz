@@ -4,7 +4,7 @@ canonical: Renessi (Reneši)
 variants: [Renesi]
 attested_period: "1647–1682"
 attested_places:
-  - "[[Zaravecchia]] (Žorži governator)"
+  - "[[Biograd-na-Moru|Zaravecchia]] (Žorži governator)"
   - "[[Zadar]] (Sv. Ilija sub-Greek; Ana of alfier Reneši comare 1677)"
 sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ---

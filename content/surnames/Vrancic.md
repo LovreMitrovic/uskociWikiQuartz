@@ -15,3 +15,7 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ## Bearers
 - **Tadija Vrančić** — see [[Tadija-Vrancic-b????-Sibenik]].
 - **Žorži Mandušić-Vrančić** — father of Tadija (doc. 60).
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Simun-Vrancic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Vrancich*)

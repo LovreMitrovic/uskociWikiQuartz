@@ -72,3 +72,7 @@ Doge Alvise Mocenigo dukal of **1705-08-20** granted hereditary *conte* title to
 ### Notes
 - Doc. 288 ducal confounds "carambassà Gianco Mitrouich capo principale de Morlachi di Obrouazzo" with "sardar Stojan Mitrovich detto Gianco" — these are two distinct persons (Janko = founder; Stojan = Janko's son called Gianco).
 - The 1670 Janković investitura on the house of Jusuf-aga Tunić at Islam continued to be referenced as a Mitrović holding in 1700 with 400 gognali (docs. 329, 330).
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Pavao-Mitrovic-b????-Ljubac]] — Ljubač, 1610 census (as *Mitrouich*)

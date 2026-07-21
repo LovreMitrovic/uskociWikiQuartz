@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Vid
+given_name_variants: [Vido]
+surname: Bagat
+surname_variants: [Bagata]
+birth_place: "[[Gruhe]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Vid Bagat (fl. 1610, Gruhe)
+
+## Summary
+Recorded as *Vido Bagata*, head of household in [[Gruhe]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. His household of 4 comprised 1 man, 3 women. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]

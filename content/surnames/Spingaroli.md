@@ -4,7 +4,7 @@ canonical: Spingaroli
 variants: []
 origin_region: "Zadar (Italian noble)"
 attested_period: "1689–1726"
-attested_places: ["[[Zaravecchia]]", "[[Vrana]]", "[[Pakostane|Pakoštane]]", "[[Biograd-na-Moru]]"]
+attested_places: ["[[Biograd-na-Moru|Zaravecchia]]", "[[Vrana]]", "[[Pakostane|Pakoštane]]", "[[Biograd-na-Moru]]"]
 sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
 ---
 

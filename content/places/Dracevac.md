@@ -11,3 +11,5 @@ sources: ["[[Saric-2024-Vlasi-Istre]]"]
 # Dračevac (kod Jasenica)
 
 Village in nahija near Jasenice. 1590: residence of [[Hasan-aga-Frletic-b????-Dracevac]], Muslim convert and Venetian informant on the Novigrad-more frontier; also the home of the father of uskok [[Andrija-Frletic-b????-Dracevac]] [[Saric-2024-Vlasi-Istre]].
+
+> Not to be confused with [[Dracevac-Zadarski|Dračevac Zadarski]] (Malpaga), a separate village of the Zadar littoral covered by the 1610 census.

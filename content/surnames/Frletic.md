@@ -1,7 +1,11 @@
 ---
 type: surname
 canonical: Frletić
-variants: [Frlete, Firultić, Ferletich]
+variants:
+  - Frlete
+  - Firultić
+  - Ferletich
+  - Ferletić
 attested_period: "1528–17th c."
 attested_places:
   - "[[Tornik]]"
@@ -9,9 +13,12 @@ attested_places:
   - "[[Senj]]"
   - "[[Kukalj]]"
   - "[[Trscani]]"
-  - "Ljubač"
-  - "Žman (Dugi otok)"
-sources: ["[[Saric-2024-Vlasi-Istre]]"]
+  - Ljubač
+  - Žman (Dugi otok)
+  - "[[Razanac|Ražanac]]"
+sources:
+  - "[[Saric-2024-Vlasi-Istre]]"
+  - "[[Dundovic-1610-Zadar-Census]]"
 ---
 
 # Frletić
@@ -23,3 +30,7 @@ Vlach kindred whose ancestors appear as "sons of Firultić" in 1528–30 (Tornik
 - [[Andrija-Frletic-b????-Dracevac]] — uskok kapetan ("Andre kapetan")
 - [[Vuk-Frletic-b????-Dracevac]] — uskok, brother of Andrija
 - [[Hasan-aga-Frletic-b????-Dracevac]] — Muslim, Venetian informant (1590)
+
+## Merged: former «Ferletić» spelling variant
+## Bearers (1610 Zadar census)
+- [[Vucas-Ferletic-b????-Razanac]] — Ražanac, 1610 census (as *Ferletich*)

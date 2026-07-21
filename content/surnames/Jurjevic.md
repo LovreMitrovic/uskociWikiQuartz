@@ -10,3 +10,7 @@ sources: ["[[Saric-2008-Bunjevci]]"]
 # Jurjević
 
 Family in the Vojnići group of the First Krmpote migration to [[Lic|Lič]] (1605) (Pavličević 1989) [[Saric-2008-Bunjevci]].
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Kadia-Jurjevic-b????-Posedarje]] — Posedarje, 1610 census (as *Jurgieuich*)

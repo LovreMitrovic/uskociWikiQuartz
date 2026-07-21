@@ -167,3 +167,23 @@ Resolved 5 of the 6 flagged same-person duplicates (user-approved). Each: conten
 
 - **NOT merged (kept separate, per user):** [[Andelo-Emo-b????-Venice]] (provveditore 1716, doc 379) vs [[Angelo-Emo-b????-Venice]] (Conte of Zadar 1684, doc 33) — same Emo patrician surname but 32 yrs apart and different offices; treated as distinct Emo-family officeholders.
 - **Still open:** place-name duplicates (Biograd-na-Moru⇔Biograd, Novigrad⇔Novigrad-Dalmatia, Krk⇔Krka, Sv-Juraj⇔Sv-Juraj-Senj, Glamoc-Polje⇔Glamocko-Polje, Cuculovaci⇔Cucullovaci) — not yet reconciled. Confidence-drift audit (184 `high` on 4 sources) also still pending.
+
+## [2026-07-21] ingest | Dundović 1610 Zadar census — Pakoštane (pilot)
+- Source page: [[Dundovic-1610-Zadar-Census]] (primary transcription, Museo Correr; raw: raw/transcriptions/dundovic-1610-zadar-census.txt)
+- Policy: full explosion — one Person page per named household head. Keep BOTH Croatized + original Venetian name forms (given_name_variants + surname_variants). No Family pages (source names only heads). Confidence: low.
+- Pakoštane (village 1 of 18): 19 Person pages added (household heads); Place roster added to [[Pakostane]]; 13 new surname pages; [[Punos]] updated (+Marko).
+- New frontmatter field introduced: `given_name_variants` (parallels surname_variants) — pending formalization in CLAUDE.md.
+- Open questions:
+  - Low-confidence normalizations (Veziljević, Zojić, Škilić, Ajazović, Pročić, Bašković, Piližarić) to be reconciled against the forthcoming Jelić 1608 census (scholar-Croatized).
+  - Remaining 17 villages pending (Biograd, Sv. Filip i Jakov, Turanj, Sukošan, Bibinje, Dračevac, Ražanac, Posedarje, Ljubač, Gruhe, Bokanjac, Puntamika, Diklo, Bartulac, Petrčane, Kožino, Punta Ljupča).
+
+## [2026-07-21] ingest | Dundović 1610 Zadar census — COMPLETE (all 18 villages)
+- Source: [[Dundovic-1610-Zadar-Census]] (primary transcription, Museo Correr)
+- Method: full explosion via 18 parallel per-village subagents (one shared spec), then central surname/index merge.
+- Added: ~621 household-head Person pages; ~380 new Surname hubs; 50 existing Surname pages gained 1610 bearers; 6 new Place pages; all 18 village Place pages carry a 1610 roster. No Family pages (source names only heads). Confidence: low throughout.
+- Both name forms kept (given_name_variants + surname_variants); Venetian→Croatian normalization tentative, to be reconciled against the forthcoming Jelić 1608 census.
+- Fixes during merge: split [[Dracevac-Zadarski|Dračevac Zadarski (Malpaga)]] out of [[Dracevac|Dračevac kod Jasenica]] (54 people re-pointed); corrected 4 given-name stragglers (Matthio→Matija, Giacomo→Jakov ×2, Lorenzo→Lovre); annotated 12 byname/descriptor surname pages.
+- Integrity: 0 broken person-links across surnames/ and places/. One surname-less head (Peruzza, Biograd na Moru) left without a hub.
+- OPEN — needs decision:
+  - [[Biograd-na-Moru]] vs [[Biograd-na-Moru|Biograd]] are duplicate place pages for the same town (Zaravecchia) — merge pending user approval (deletion/merge).
+  - Low-confidence surname normalizations await the Jelić 1608 reconciliation pass.

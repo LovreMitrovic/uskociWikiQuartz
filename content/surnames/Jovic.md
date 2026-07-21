@@ -19,3 +19,9 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ## In Desnica II (1684–1749)
 
 - **Iveško Jović (Ivesco Giouich)** — captain of Ražanac; **age 80 in 1699** (b. ~1619); testified in Sfakioto's Grimani-commission protocols about Venetian invasion of Lika before Imperials (doc. 315) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Ante-Jovic-b????-Razanac]] — Ražanac, 1610 census (as *Jouich*)
+- [[Giurich-Jovic-b????-Razanac]] — Ražanac, 1610 census (as *Jouich*)
+- [[Petar-Jovic-b????-Razanac]] — Ražanac, 1610 census (as *Jouich*)

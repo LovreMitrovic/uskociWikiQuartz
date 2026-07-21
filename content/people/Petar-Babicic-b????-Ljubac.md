@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Petar
+given_name_variants: [Piero]
+surname: Babičić
+surname_variants: [Babicich]
+birth_place: "[[Ljubac|Ljubač]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Petar Babičić (fl. 1610, Ljubač)
+
+## Summary
+Recorded as *Piero Babicich*, head of household in [[Ljubac|Ljubač]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. His household of 5 comprised 2 men, 2 women, 1 boy. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]

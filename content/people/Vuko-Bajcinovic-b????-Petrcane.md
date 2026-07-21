@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Vuko
+given_name_variants: [Vuçcho]
+surname: Bajčinović
+surname_variants: [Baijcinouich]
+birth_place: "[[Petrcane|Petrčane]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Vuko Bajčinović (fl. 1610, Petrčane)
+
+## Summary
+Recorded as *Vuçcho Baijcinouich*, head of household in [[Petrcane|Petrčane]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. His household of 5 comprised 2 men, 1 woman, 1 boy, 1 girl. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]

@@ -1,14 +1,22 @@
 ---
 type: surname
 canonical: Rudelić
-variants: [Rudelja, Rudele, Rudelići]
+variants:
+  - Rudelja
+  - Rudele
+  - Rudelići
+  - Rudeljić
+  - Rudeglich
 attested_period: "pre-1528–1686+"
 attested_places:
   - "[[Obrovac]]"
   - "[[Radovin]]"
   - "[[Karlobag]]"
   - "[[Lika]] (Smiljan)"
-sources: ["[[Saric-2024-Vlasi-Istre]]"]
+  - "[[Gruhe]]"
+sources:
+  - "[[Saric-2024-Vlasi-Istre]]"
+  - "[[Dundovic-1610-Zadar-Census]]"
 ---
 
 # Rudelić (Rudelja)
@@ -18,3 +26,7 @@ Pre-Ottoman Vlachs of the wider Zadar hinterland [[Saric-2024-Vlasi-Istre]]. Top
 ## Bearers in this wiki
 - [[Pavel-Rudelja-b????-Obrovac]] — knez, primićur Obrovac dzemat (1528)
 - [[Pavo-Rudelic-b????-Smiljan]] — Smiljan, Lika (1686)
+
+## Merged: former «Rudeljić» spelling variant
+## Bearers (1610 Zadar census)
+- [[Nikola-Rudeljic-b????-Gruhe]] — Gruhe, 1610 census (as *Rudeglich*)

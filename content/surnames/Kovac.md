@@ -19,3 +19,7 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 - **Stipano Covaz** — 1672-11-28 compare at the baptism of Bogjana Novaković at Sv. Ilija; donna Vinka Janković = comare (doc. 203).
 - **Vuko Covaz** — 1673-05-01 of Posedarje, banished bandit pardoned with biarguarantee for the Klis caravan plunder (doc. 204).
 - **harambaša Mihail (Mihay) Miličević rečeni Kovač** — see [[Mihaljevic|Mihaljević]].
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Raosaf-Kovac-b????-Razanac]] — Ražanac, 1610 census (as *Chouaz*)

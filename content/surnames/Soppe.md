@@ -5,7 +5,7 @@ variants: [Soppe, Šope]
 attested_period: "1648–1684"
 attested_places:
   - "[[Zadar]] (gradski plemić)"
-  - "[[Zaravecchia]] (1683 — knez Julio governator)"
+  - "[[Biograd-na-Moru|Zaravecchia]] (1683 — knez Julio governator)"
 sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Desnica-1951-Kotarski-Uskoci-II]]"]
 ---
 

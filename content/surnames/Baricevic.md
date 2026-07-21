@@ -14,3 +14,7 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ## Bearers
 - **Milinko Barićević** — 1663-05-08 sudac of Posedarje (doc. 131).
 - **Sangulin Barićević** — 1684-04-18 named in the Sinobad case among Ilija Mitrović's drugovi from Budin (doc. 396).
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Petar-Baricevic-b????-Posedarje]] — Posedarje, 1610 census (as *Barichieuich*)

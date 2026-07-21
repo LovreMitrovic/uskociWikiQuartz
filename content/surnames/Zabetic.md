@@ -2,9 +2,9 @@
 type: surname
 canonical: Žabetić
 variants: [Zabetich, Žabetić]
-origin_region: "[[Zaravecchia]] (Biograd na Moru)"
+origin_region: "[[Biograd-na-Moru|Zaravecchia]] (Biograd na Moru)"
 attested_period: "1690s–1704"
-attested_places: ["[[Zaravecchia]]"]
+attested_places: ["[[Biograd-na-Moru|Zaravecchia]]"]
 sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
 ---
 

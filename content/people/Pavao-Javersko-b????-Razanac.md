@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Pavao
+given_name_variants: [Paulo]
+surname: Javersko
+surname_variants: [Jauersco]
+birth_place: "[[Razanac|Ražanac]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Pavao Javersko (fl. 1610, Ražanac)
+
+## Summary
+Recorded as *Paulo Jauersco*, head of household in [[Razanac|Ražanac]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. His household of 6 comprised 3 men, 2 women, 1 girl. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]

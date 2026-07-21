@@ -22,3 +22,7 @@ Catholic Vlach surname, Zadar-hinterland origin. Šarić lists it among Zadar-hi
 
 ## Notes
 - The same surname appears among the Šibenik *pravoslavni* Morlaci — *Steffano Sare* harambašša at Sv. Zulijan (doc. 84, 1654) — but *Sare* may be distinct from *Sorić*, hard to pin down.
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Ivan-Soric-b????-Ljubac]] — Ljubač, 1610 census (as *Sorich*)

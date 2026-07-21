@@ -14,3 +14,7 @@ Istrian Vlach starešina [[Rade-Siljanovic-b????]] led peasants to former Vrana 
 
 ## Bearers in this wiki
 - [[Rade-Siljanovic-b????]] — Vlach starešina, settler-leader (1549)
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Jakov-Siljanovic-b????-Gruhe]] — Gruhe, 1610 census (as *Siglianouich*)

@@ -27,3 +27,7 @@ The 1868-launched Subotica *Bunjevački kalendar* of **[[Boza-Sarcevic-b????-Sub
 ## In Desnica II (1684–1749)
 
 - **Ibrahim Sarić (Ibrahim Sarich) da Cliuno (Livno)** — slave; testified about Knin cadi jurisdiction over Strmica, Bošnjake, Komazlić, Golubić, Starčević etc. (doc. 315, 1699) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Maddalena-Saric-b????-Punta-Ljupca]] — Punta Ljupča, 1610 census (as *Sarichia*)

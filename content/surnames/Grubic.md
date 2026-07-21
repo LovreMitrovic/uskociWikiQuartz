@@ -15,3 +15,7 @@ Surname listed by Šarić among Zadar-hinterland anthroponyms with medieval-mode
 
 ## Bearers (Desnica)
 - **Nikola Grubić** — 1684-03-01 named *capitano* of [[Gruhe]] (doc. 381 [[Desnica-1950-Kotarski-Uskoci-I]]).
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Vuko-Grubic-b????-Petrcane]] — Petrčane, 1610 census (as *Grubich*)

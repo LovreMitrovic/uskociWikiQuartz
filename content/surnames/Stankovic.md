@@ -12,3 +12,9 @@ sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
 ## Bearers in Desnica II
 - **Zorzi (Đurađ) Stanković (Stancovich)** — Gorica resident; goods stolen in 1693-11-04 raid; recognized Žegar dialect of raiders (doc. 268) [[Desnica-1951-Kotarski-Uskoci-II]].
 - **Nikanor Stanković (Nichinor Stancouich)** — from Velika; location Šaramprov of Kalinika; protected from Bishop Nikodim Busović's harassment 1698 (doc. 308) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Mihat-Stankovic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Stancouich*)
+- [[Pavao-Stankovic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Stancouich*)
+- [[Juraj-Stankovic-b????-Turanj]] — Turanj, 1610 census (as *Stancouich*)

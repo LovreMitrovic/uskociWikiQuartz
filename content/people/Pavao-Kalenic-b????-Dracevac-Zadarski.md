@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Pavao
+given_name_variants: [Paulo]
+surname: Kalenić
+surname_variants: [Chalenich]
+birth_place: "[[Dracevac-Zadarski|Dračevac Zadarski]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Pavao Kalenić (fl. 1610, Dračevac Zadarski)
+
+## Summary
+Recorded as *Paulo Chalenich*, head of household in [[Dracevac-Zadarski|Dračevac Zadarski]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. His household of 4 comprised 1 man, 1 woman, 2 boys. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]

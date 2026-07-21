@@ -1,8 +1,8 @@
 # Wiki Index
 
-Last updated: 2026-05-02 (Desnica II sweep completed).
+Last updated: 2026-07-21 (Dundović 1610 census ingested).
 
-Counts: **4 sources · 79 events · 348 places · 483 surnames · 372 persons · 2 families** = 1,288 wiki pages.
+Counts: **5 sources · 84 events · 450 places · 849 surnames · 1,042 persons · 2 families** = 2,432 wiki pages.
 
 ---
 
@@ -11,6 +11,7 @@ Counts: **4 sources · 79 events · 348 places · 483 surnames · 372 persons ·
 - [[Saric-2008-Bunjevci]] — Marko Šarić, "Bunjevci u ranom novom vijeku" (2008). Secondary, scholarly synthesis on Catholic Vlach Bunjevac formation.
 - [[Desnica-1950-Kotarski-Uskoci-I]] — Boško Desnica, "Istorija kotarskih uskoka 1646–1684, sveska I" (1950). Primary archival anthology of 399 documents — the canonical documentary base for the Kotarski Uskoci.
 - [[Desnica-1951-Kotarski-Uskoci-II]] — Boško Desnica, "Istorija kotarskih uskoka 1684–1749, sveska II" (1951). Primary archival anthology of 392 documents covering the Morean War, Sinj/Knin conquests, Pertinenze reform, and the long Venetian administration through 1749.
+- [[Dundovic-1610-Zadar-Census]] — Zdenko Dundović (ed.), 1610 Venetian census of the Zadar mainland district (Museo Correr). Primary transcription; names the head of each household in 18 littoral villages. Ingested 2026-07-21 — all 18 villages, ~621 household heads (see census section below).
 
 ## Events
 - [[Cyprus-War-1570-1573]] — Cyprus War; Ottoman capture of Zemunik, Tinj, Vrana
@@ -453,3 +454,19 @@ Counts: **4 sources · 79 events · 348 places · 483 surnames · 372 persons ·
 - [[Vucjak|Vučjak]] — Ilija Smiljanić's death
 - [[Zecevo|Zečevo]] (updated) — twin battles 1648/1666
 - (2026-07-19 hygiene pass: +101 place hub stubs created for previously-unlinked toponyms; see [[log#2026-07-19]])
+
+## Dundović 1610 census additions
+Full-explosion ingest of the 1610 Venetian census of the Zadar mainland district (Museo Correr), completed 2026-07-21. Every named household head is a Person page; per-village head rosters live on each Place page; surname pages list bearers (both Croatized + original Venetian spelling kept). Only heads are named in the source → no Family pages. Confidence `low` throughout (single primary source, name-only; Venetian→Croatian normalization pending reconciliation against the Jelić 1608 census). See [[log#2026-07-21]].
+
+**Totals: ~621 household heads across 18 villages (~3,294 souls); ~380 new surname hubs; 50 existing surname pages gained 1610 bearers.**
+
+### Villages (heads · souls)
+[[Pakostane|Pakoštane]] 19·93 — [[Biograd-na-Moru|Biograd na Moru]] 80·431 — [[Turanj]] 44·276 — [[Sukosan|Sukošan]] 54·328 — [[Bibinje]] 30·180 — [[Dracevac-Zadarski|Dračevac Zadarski]] 54·217 — [[Diklo]] 15·76 — [[Bartulac]] 6·28 — [[Petrcane|Petrčane]] 9·44 — [[Glupavac]] 6·39 — [[Bokanjac]] 35·179 — [[Gruhe]] 72·349 — [[Ljubac|Ljubač]] 70·395 — [[Punta-Ljupca|Punta Ljupča]] 13·59 — [[Razanac|Ražanac]] 43·258 — [[Posedarje]] 41·188 — [[Puntamika]] 7·41 — [[Kozino|Kožino]] 23·113
+
+### New place pages
+[[Turanj]], [[Puntamika]], [[Bartulac]], [[Glupavac]], [[Punta-Ljupca|Punta Ljupča]], [[Dracevac-Zadarski|Dračevac Zadarski]] (split from [[Dracevac|Dračevac kod Jasenica]])
+
+### Notable lineage connections (1610 bearers appended to existing hubs)
+- [[Ljubac|Ljubač]]: **Pavao Mitrović**, **Juica Najčinović**, Surko Poropatić, Ivan Sorić, Ivan Zrinski
+- [[Razanac|Ražanac]]: Pavao Žegar (*da Xegar*), Vučas Ferletić, Ugarković cluster
+- Byname/descriptor surname pages (annotated as non-hereditary): Spalato, Bologna, Morlak, Morlača, Baba, Paroh, Kapelan, Greko, Cingano, da-Istria, da-Sale, Arbešan

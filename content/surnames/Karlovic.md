@@ -20,3 +20,7 @@ Croatian noble lineage, knezovi krbavski. [[Ivan-Karlovic-b????-Krbava]] held es
 ## In Desnica II (1684–1749)
 
 - **Giovanni (Ivan) Karlović** — last possessor of Lika and Krbava before Ottoman conquest; per Giacinto Peri's 1695 report (doc. 281), **died 1531 in Medvedgrad near Zagreb** [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Vuko-Karlovic-b????-Gruhe]] — Gruhe, 1610 census (as *Carlouich*)

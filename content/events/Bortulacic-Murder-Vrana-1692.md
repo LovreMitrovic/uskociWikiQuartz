@@ -10,7 +10,7 @@ sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
 
 # Murder of Šimun Bortulačić at Vrana (16 January 1692)
 
-**[[Simun-Bortulacic-b????-Zadar|Šimun (Simon) Bortulačić]]** — kavalier, one of the four 1684 capi de Morlacchi, governor of Vrana — killed at **[[Vrana]]** on 16 January 1692 by men from **[[Biograd]]** and **[[Pakostane]]**; aged ~31; covered with stones (Desnica II, chunk 3 attestations).
+**[[Simun-Bortulacic-b????-Zadar|Šimun (Simon) Bortulačić]]** — kavalier, one of the four 1684 capi de Morlacchi, governor of Vrana — killed at **[[Vrana]]** on 16 January 1692 by men from **[[Biograd-na-Moru|Biograd]]** and **[[Pakostane]]**; aged ~31; covered with stones (Desnica II, chunk 3 attestations).
 
 ## Investigation and execution
 - Two principal perpetrators captured and condemned 1693–94.

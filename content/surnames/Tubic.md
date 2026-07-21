@@ -2,9 +2,9 @@
 type: surname
 canonical: Tubić
 variants: [Tubich]
-origin_region: "[[Zaravecchia]] area"
+origin_region: "[[Biograd-na-Moru|Zaravecchia]] area"
 attested_period: "1690s"
-attested_places: ["[[Zaravecchia]]"]
+attested_places: ["[[Biograd-na-Moru|Zaravecchia]]"]
 sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
 ---
 

@@ -16,3 +16,7 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 - **Zorzi (Žorži) Pletikosić da Prkos** — 1653-01-16 co-signs proxy (doc. 70).
 - **harambaša Žorži Pletikosić** — 1658-07-11 leads partita that captures the spahija Mustafa Torlaković of Rama at Zadar (doc. 110).
 - **Vido Pleticossa** — 1684-03-01 capitan of [[Malpaga]] (doc. 381).
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Martin-Pletikosic-b????-Posedarje]] — Posedarje, 1610 census (as *Pleticossich*)

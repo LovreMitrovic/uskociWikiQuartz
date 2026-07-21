@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Ante
+given_name_variants: [Antonio]
+surname: Stamati
+surname_variants: [Stamati]
+birth_place: "[[Sukosan|Sukošan]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Ante Stamati (fl. 1610, Sukošan)
+
+## Summary
+Recorded as *Antonio Stamati*, head of household in [[Sukosan|Sukošan]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. His household of 5 comprised 1 man, 1 woman, 1 boy, 2 girls. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]

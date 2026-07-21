@@ -28,3 +28,7 @@ Bunjevac starešina family from [[Medvidja|Medviđa]] [[Saric-2024-Vlasi-Istre]]
 - **Bože Milković (Boze Milcovich)** — **serdar of Lower Kotari** by 1691; previously already governor; brother killed by Ilija Janković's followers 1692; led 2,000 men to Malpaga; reconciled with Zaviša Mitrović 1692 by Dolfin's mediation; partook in Liga 1696; led mission of Filip Jakić & Stankovic to expose Žegar raid 1693 (docs. 224, 236, 243, 247, 268, 286). 1699 supplied 25 sessane and 8 horses for Grimani; testified in Sfakioto's protocols (docs. 314, 316, 319). Bedridden ill Dec 1699 (doc. 323); died ~1700, succeeded by Lazar Smiljanić as serdar of Lower Kotari [[Desnica-1951-Kotarski-Uskoci-II]].
 - **Bože Milković's "barba" (uncle)** — anonymous; destroyed Zvonigrad in past war ("fu ravinato nella guerra passata da mio barba") per Bože's 1699 testimony (doc. 316) [[Desnica-1951-Kotarski-Uskoci-II]].
 - **harambaša Mede Milcović (Mede Milicovich)** — see [[Krmpotic|Krmpotić]] entry; settled Bukovica Krmpote and Parčić, granted Medvidja fields 1693 [[Desnica-1951-Kotarski-Uskoci-II]] (docs. 263, 301).
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Matija-Milkovic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Milcouich*)

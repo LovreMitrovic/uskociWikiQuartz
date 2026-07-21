@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Jurašin
+given_name_variants: [Giurassin]
+surname: Paljarić
+surname_variants: [Pagliarich]
+birth_place: "[[Gruhe]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Jurašin Paljarić (fl. 1610, Gruhe)
+
+## Summary
+Recorded as *Giurassin Pagliarich*, head of household in [[Gruhe]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. His household of 5 comprised 1 man, 1 woman, 1 boy, 2 girls. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]

@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Ivan
+given_name_variants: [Zuane]
+surname: Paroh
+surname_variants: [Parocho]
+birth_place: "[[Gruhe]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Ivan Paroh (fl. 1610, Gruhe)
+
+## Summary
+Recorded as *Zuane Parocho*, head of household in [[Gruhe]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. Recorded with the title *P.* (parish priest). His household of 1 comprised 1 man. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]

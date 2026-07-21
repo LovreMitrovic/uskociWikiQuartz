@@ -1,7 +1,13 @@
 ---
 type: surname
 canonical: Krmpotić
-variants: [Krmpote (group name), Carapotić, Carapotani, Caranpotani]
+variants:
+  - Krmpote (group name)
+  - Carapotić
+  - Carapotani
+  - Caranpotani
+  - Krnpotić
+  - Chernpotich
 etymology: "Disputed. Šimunović: from Latin *campus* via Vlach rotacism *kamp > crmp* + suffix *-ota* (≈ 'those who live in fields'). Skok: from Vlach *crampot* < pre-Slavic *kronp/krup* (≈ 'big people'). Possibly from Albanian *kripë* 'salt' (Vlach pastoral context)."
 attested_period: "1477–"
 origin_region: "[[Hercegovina]] (W., nahija Humska zemlja)"
@@ -14,7 +20,11 @@ attested_places:
   - "[[Krmpote-Senj]] / [[Sv-Jakov]], [[Krivi-Put]], [[Ledenice]], [[Senjska-Draga]]"
   - "[[Vinjerac]], [[Starigrad]], [[Pag]] (1647)"
   - "[[Pazariste]], [[Smiljan]], [[Lovinac]] (post-1690 Lika)"
-sources: ["[[Saric-2008-Bunjevci]]", "[[Saric-2024-Vlasi-Istre]]"]
+  - "[[Gruhe]]"
+sources:
+  - "[[Saric-2008-Bunjevci]]"
+  - "[[Saric-2024-Vlasi-Istre]]"
+  - "[[Dundovic-1610-Zadar-Census]]"
 ---
 
 # Krmpotić (Krmpote / Carapotani)
@@ -50,3 +60,7 @@ Mixed-confession at start of 17th c. (some Orthodox families joined the Lič mig
 
 ### Krmpote disambiguation
 The Bukovica Krmpote settlement of Mede Milcović (near Zelengrad) is a **third** Krmpote distinct from (a) the Senj-area [[Krmpote-Senj]] and (b) the older Bukovica Krmpote at Medvidja (Staro Selo) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+## Merged: former «Krnpotić» spelling variant
+## Bearers (1610 Zadar census)
+- [[Andrija-Krnpotic-b????-Gruhe]] — Gruhe, 1610 census (as *Chernpotich*)

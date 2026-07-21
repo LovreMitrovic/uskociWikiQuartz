@@ -15,3 +15,8 @@ Croatian magnatial house. [[Nikola-Zrinski-b????]] settled 25 Mušković Vlach f
 
 ## Bearers in this wiki
 - [[Nikola-Zrinski-b????]] — magnate (1544)
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Ivan-Zrinski-b????-Ljubac]] — Ljubač, 1610 census (as *Zrinschi*)
+- [[Petar-Zrinski-b????-Posedarje]] — Posedarje, 1610 census (as *Zrinschi*)

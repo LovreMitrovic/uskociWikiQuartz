@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Marko
+given_name_variants: [Marco]
+surname: Vukčagović
+surname_variants: [Vuchchagouich]
+birth_place: "[[Posedarje]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Marko Vukčagović (fl. 1610, Posedarje)
+
+## Summary
+Recorded as *Marco Vuchchagouich*, head of household in [[Posedarje]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. His household of 5 comprised 2 men and 3 women. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]

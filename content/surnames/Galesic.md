@@ -11,3 +11,8 @@ sources: ["[[Saric-2024-Vlasi-Istre]]"]
 # Galešić
 
 Surname listed by Šarić among Zadar-hinterland anthroponyms with medieval-modern continuity [[Saric-2024-Vlasi-Istre]].
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Ivan-Galesic-b????-Posedarje]] — Posedarje, 1610 census (as *Galessich*)
+- [[Simun-Galesic-b????-Posedarje]] — Posedarje, 1610 census (as *Galessich*)

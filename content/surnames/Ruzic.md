@@ -18,3 +18,13 @@ Vlach kindred originating from Šibenik area, members of the medieval "kraljevsk
 ## Bearers in this wiki
 - [[Tomas-Ruzic-b????-Sibenik]] — knez, head of Kličevac dzemat (1528–~1538)
 - [[Jure-Heracic-b????]] — katunar of Ružić katun (1553)
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Ivan-Ruzic-b????-Bokanjac]] — Bokanjac, 1610 census (as *Ruxich*)
+- [[Pavao-Ruzic-b????-Bokanjac]] — Bokanjac, 1610 census (as *Ruxich*)
+- [[Matija-Ruzic-b????-Gruhe]] — Gruhe, 1610 census (as *Ruxich*)
+- [[Pavao-Ruzic-b????-Gruhe]] — Gruhe, 1610 census (as *Ruxich*)
+- [[Simun-Ruzic-b????-Gruhe]] — Gruhe, 1610 census (as *Ruxich*)
+- [[Tomalin-Ruzic-b????-Turanj]] — Turanj, 1610 census (as *Ruxich*)
+- [[Simun-Ruzic-b????-Turanj]] — Turanj, 1610 census (as *Ruxich*)

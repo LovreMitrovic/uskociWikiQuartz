@@ -18,3 +18,7 @@ sources: ["[[Saric-2024-Vlasi-Istre]]"]
 ## In Desnica II (1684–1749)
 
 - **Ilija Jurišić (Illia Gurišić/Giuricich)** — harambaša of Blato (Hercegovina) 1694; led part of the 5000-soul Brochno-Blato-Goranci migration to Venetian state (doc. 274) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Pavao-Jurisic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Jurissich*)

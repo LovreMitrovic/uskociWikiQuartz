@@ -1,0 +1,19 @@
+---
+type: person
+given_name: Andrija
+given_name_variants: [Andrea]
+surname: Kalić
+surname_variants: [Calich]
+birth_place: "[[Ljubac|Ljubač]]"
+occupation: head of household
+sources: ["[[Dundovic-1610-Zadar-Census]]"]
+confidence: low
+---
+
+# Andrija Kalić (fl. 1610, Ljubač)
+
+## Summary
+Recorded as *Andrea Calich*, head of household in [[Ljubac|Ljubač]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. His household of 11 comprised 3 men, 3 women, 4 boys, 1 girl. [[Dundovic-1610-Zadar-Census]]
+
+## Sources
+- [[Dundovic-1610-Zadar-Census]]
