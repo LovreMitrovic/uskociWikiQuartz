@@ -187,3 +187,8 @@ Resolved 5 of the 6 flagged same-person duplicates (user-approved). Each: conten
 - OPEN — needs decision:
   - [[Biograd-na-Moru]] vs [[Biograd-na-Moru|Biograd]] are duplicate place pages for the same town (Zaravecchia) — merge pending user approval (deletion/merge).
   - Low-confidence surname normalizations await the Jelić 1608 reconciliation pass.
+
+## [2026-07-22] note | Timelines for 8 Vlasi Istre persons (Šarić 2024)
+- Added `## Timeline` (with verbatim Croatian source quotes) + `## Sources` to 8 existing Person pages, all drawn from [[Saric-2024-Vlasi-Istre]]:
+  - [[Tomas-Ruzic-b????-Sibenik]], [[Petar-Najcinovic-b????-Dobruca-Vas]], [[Murat-beg-Gajdic-b????-Sibenik]], [[Petar-Prejic-b????]], [[Bogdan-Prejic-b????]], [[Petar-Milovanic-b????-Medvidja]], [[Zakman-Gledjevac-b????-Karin]], [[Andrija-Frletic-b????-Dracevac]]
+- No new pages, no frontmatter changes; enrichment of already-ingested source. Quotes cite original-language passages for provenance.
