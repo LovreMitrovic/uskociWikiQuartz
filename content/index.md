@@ -1,8 +1,8 @@
 # Wiki Index
 
-Last updated: 2026-07-21 (Dundović 1610 census ingested).
+Last updated: 2026-07-23 (Škabrnja 1686–1719 census ingested).
 
-Counts: **5 sources · 84 events · 450 places · 849 surnames · 1,042 persons · 2 families** = 2,432 wiki pages.
+Counts: **6 sources · 84 events · 451 places · 872 surnames · 1,112 persons · 2 families** = 2,527 wiki pages.
 
 ---
 
@@ -12,6 +12,7 @@ Counts: **5 sources · 84 events · 450 places · 849 surnames · 1,042 persons 
 - [[Desnica-1950-Kotarski-Uskoci-I]] — Boško Desnica, "Istorija kotarskih uskoka 1646–1684, sveska I" (1950). Primary archival anthology of 399 documents — the canonical documentary base for the Kotarski Uskoci.
 - [[Desnica-1951-Kotarski-Uskoci-II]] — Boško Desnica, "Istorija kotarskih uskoka 1684–1749, sveska II" (1951). Primary archival anthology of 392 documents covering the Morean War, Sinj/Knin conquests, Pertinenze reform, and the long Venetian administration through 1749.
 - [[Dundovic-1610-Zadar-Census]] — Zdenko Dundović (ed.), 1610 Venetian census of the Zadar mainland district (Museo Correr). Primary transcription; names the head of each household in 18 littoral villages. Ingested 2026-07-21 — all 18 villages, ~621 household heads (see census section below).
+- [[Razov-Milkovic-Skabrnja-Monografija]] — Slavko Ražov i Ante Milković, *Škabrnja – gaj, selo, župa, općina* (monografija, year unknown), p. 37: census of Škabrnja households and livestock 1686–1719. Primary content in transcription. Ingested 2026-07-23 — 39 households (see census section below).
 
 ## Events
 - [[Cyprus-War-1570-1573]] — Cyprus War; Ottoman capture of Zemunik, Tinj, Vrana
@@ -187,6 +188,7 @@ Counts: **5 sources · 84 events · 450 places · 849 surnames · 1,042 persons 
 - [[Pristeg]] — Ravni Kotari village
 - [[Radovin]] — Rudelić concentration in Zadar district
 - [[Sikici]] — S Istria, Šikić colony 1586
+- [[Skabrnja]] — Ravni kotari, sv. Luka parish; 1686–1719 census roster (39 households)
 - [[Surozani]] — Zrmanja → Ostrovica village
 - [[Tinj]] — Ferhat-beg vakuf, Vojnić resettlement
 - [[Tornik]] — Frletić origin in Podgorje
@@ -470,3 +472,22 @@ Full-explosion ingest of the 1610 Venetian census of the Zadar mainland district
 - [[Ljubac|Ljubač]]: **Pavao Mitrović**, **Juica Najčinović**, Surko Poropatić, Ivan Sorić, Ivan Zrinski
 - [[Razanac|Ražanac]]: Pavao Žegar (*da Xegar*), Vučas Ferletić, Ugarković cluster
 - Byname/descriptor surname pages (annotated as non-hereditary): Spalato, Bologna, Morlak, Morlača, Baba, Paroh, Kapelan, Greko, Cingano, da-Istria, da-Sale, Arbešan
+
+## Škabrnja census additions (1686–1719)
+Ingest of the census table "Selo Škabrnja — Popis domaćinstva i broj domaće stoke od 1686. do 1719." from the Ražov/Milković monograph, p. 37 ([[Razov-Milkovic-Skabrnja-Monografija]]), ingested 2026-07-23. Every named head is a Person page (confidence `medium`); every patronymic father is a Person page (confidence `speculative`, surname inferred from son); the full roster lives on [[Skabrnja|Škabrnja]]. Note: `birth_place` frontmatter deliberately omitted for these persons — the census attests residence, not birth (the village was only resettled after the Morean-War reconquest); the `-Skabrnja` filename slug records the place of attestation per the census-ingest convention. See [[log#2026-07-23]].
+
+**Totals: 39 households, 186 souls (24 men-at-arms · 34 boys · 45 women · 45 girls · + heads); livestock 113 horses · 128 cattle · 84 calves · 143 cows · 1,555 sheep. Persons: 70 (39 heads + 31 fathers). Surnames: 23 new hubs, 13 existing hubs gained Škabrnja bearers.**
+
+### New place page
+[[Skabrnja|Škabrnja]] — 39·186; sv. Luka parish (župnik Mihael Raspović); kapetan Ante Vujavić; sudac Ivan Lokinović
+
+### New surname pages
+[[Lokinovic|Lokinović]], [[Calic|Čalić]] (detto Itković), [[Orsada]], [[Susetic|Sušetić]], [[Petricevic|Petričević]], [[Gibalovic|Gibalović]], [[Samobat]], [[Sudarevic|Sudarević]], [[Jankovic|Janković]] (detto Bauer; hub cross-refs the Mitrović clan), [[Gospic|Gospić]] (3 households), [[Drazetina|Dražetina]], [[Suetanic|Suetanić]], [[Sudetic|Sudetić]], [[Duranic|Đuranić]], [[Dubinic|Dubinić]], [[Kranjac]], [[Cikic|Čikić]], [[Karabeg]], [[Krusic|Krušić]], [[Zelenkovic|Zelenković]], [[Jurkovic|Jurković]], [[Radenovic|Radenović]], [[Kornerac]]
+
+### Updated surname hubs (gained Škabrnja bearers)
+[[Raspovic|Raspović]], [[Vujavic|Vujavić]], [[Mitrovic|Mitrović]], [[Markovic|Marković]], [[Bralic|Bralić]], [[Milkovic|Milković]], [[Mandic|Mandić]], [[Vukovic|Vuković]], [[Vranesic|Vranešić]], [[Karanovic|Karanović]], [[Matosic|Matošić]], [[Punos|Punoš]], [[Bugarin]]
+
+### Notable lineage connections
+- [[Mitrovic|Mitrović]]: Jure Mitrović *detto Bugarin* in Škabrnja — no known connection to the Janković-Mitrović clan; flagged on both pages
+- [[Bugarin]]: Jure Bugarin (*Bugarija?*) in Škabrnja + the *detto Bugarin* byname on Jure Mitrović; earlier bearer Petar Bugarin, Sukošan 1610
+- [[Jankovic|Janković]] hub newly created — indexes Škabrnja Martin Janković *detto Bauer*; the famous uskok Jankovići remain on [[Mitrovic|Mitrović]]

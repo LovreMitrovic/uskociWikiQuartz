@@ -2,11 +2,12 @@
 type: surname
 canonical: Punoš
 variants: [Punos]
-attested_period: "1610–1652"
+attested_period: "1610–1719"
 attested_places:
   - "[[Pakostane|Pakoštane]]"
   - "[[Zadar]] / Bukovica (master of Turkish slave Tale Burić)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Dundovic-1610-Zadar-Census]]"]
+  - "[[Skabrnja|Škabrnja]]"
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Dundovic-1610-Zadar-Census]]", "[[Razov-Milkovic-Skabrnja-Monografija]]"]
 ---
 
 # Punoš
@@ -19,3 +20,7 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Dundovic-1610-Zadar-Census]]"
 <!-- census-merged -->
 ## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
 - [[Marko-Punos-b????-Pakostane]] — Pakoštane, 1610 census (as *Punos*)
+
+## Bearers (Škabrnja census 1686–1719) [[Razov-Milkovic-Skabrnja-Monografija]]
+- [[Ivan-Punos-b????-Skabrnja]] — Škabrnja, head of household, 1686–1719
+- [[Mijo-Punos-b????]] — father of Ivan (patronymic "pok. Mije"; deceased by census)

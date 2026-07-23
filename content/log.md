@@ -192,3 +192,18 @@ Resolved 5 of the 6 flagged same-person duplicates (user-approved). Each: conten
 - Added `## Timeline` (with verbatim Croatian source quotes) + `## Sources` to 8 existing Person pages, all drawn from [[Saric-2024-Vlasi-Istre]]:
   - [[Tomas-Ruzic-b????-Sibenik]], [[Petar-Najcinovic-b????-Dobruca-Vas]], [[Murat-beg-Gajdic-b????-Sibenik]], [[Petar-Prejic-b????]], [[Bogdan-Prejic-b????]], [[Petar-Milovanic-b????-Medvidja]], [[Zakman-Gledjevac-b????-Karin]], [[Andrija-Frletic-b????-Dracevac]]
 - No new pages, no frontmatter changes; enrichment of already-ingested source. Quotes cite original-language passages for provenance.
+
+## [2026-07-23] ingest | Škabrnja census 1686–1719 (Ražov/Milković monografija, str. 37)
+- Source page: [[Razov-Milkovic-Skabrnja-Monografija]] — census table "Selo Škabrnja — Popis domaćinstva i broj domaće stoke od 1686. do 1719." transcribed visually from a photo of p. 37 (raw/transcriptions/skabrnja-popis-1686-1719.txt); arithmetic verification passed (all row and column totals match print).
+- Persons added: 70 — 39 household heads (confidence `medium`) + 31 deceased fathers from patronymics (confidence `speculative`, surname inferred from son).
+- New place: [[Skabrnja|Škabrnja]] — first mention in the wiki; full 39-household roster on the place page.
+- New surnames (23): Lokinović, Čalić (detto Itković), Orsada, Sušetić, Petričević, Gibalović, Samobat, Sudarević, Janković (detto Bauer), Gospić, Dražetina, Suetanić, Sudetić, Đuranić, Dubinić, Kranjac, Čikić, Karabeg, Krušić, Zelenković, Jurković, Radenović, Kornerac.
+- Updated surnames (13): Raspović, Vujavić, Mitrović, Marković, Bralić, Milković, Mandić, Vuković, Vranešić, Karanović, Matošić, Punoš, Bugarin.
+- Schema note: `birth_place` frontmatter omitted for all 70 persons — census attests residence, not birth (Škabrnja resettled only after the Morean-War reconquest). Filename slug `-Skabrnja` records place of attestation, per census-ingest convention. Deviates from the Dundović 1610 pages, which put the census village in `birth_place`.
+- Name normalizations (flagged on the Person pages): LAZARO → Lazar (Milković); JADRE → Andrija (Krušić; per the book's own gloss "pok. Andrije (Jadre)"); father nominative forms inferred from genitive patronymics (e.g. "pok. Grge" → Grgo).
+- Open questions:
+  - Publication year and publisher of the monograph unknown (photographed excerpt only) — record when the book is at hand.
+  - Archival source of the census table not visible on p. 37 — check neighboring pages of the monograph.
+  - "od 1686. do 1719." — single enumeration or a compilation across the range? Persons dated `fl. 1686–1719` pending clarification.
+  - Bugarin threads: Jure Mitrović *detto Bugarin* + Jure Bugarin (*Bugarija?*) in Škabrnja vs. Petar Bugarin in Sukošan 1610 — migration/kin connection unverified.
+  - Škabrnja Martin Janković *detto Bauer* presumed unrelated to the Janković-Mitrović uskok clan — verify if later sources allow.

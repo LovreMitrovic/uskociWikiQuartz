@@ -2,12 +2,13 @@
 type: surname
 canonical: Milković
 variants: [Milcovich, Miglcovich]
-attested_period: "1648–1668"
+attested_period: "1648–1719"
 attested_places:
   - "[[Medvidja|Medviđa]] (1554 — Mate Milković, debtor of Šibenik butcher; per [[Saric-2024-Vlasi-Istre]])"
   - "[[Posedarje]] / Bukovica (1648 — Ilija)"
   - "[[Bocagnazzo|Bokanjac]] (1672 — Šimun Milković assigned for settlement)"
-sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]"]
+  - "[[Skabrnja|Škabrnja]]"
+sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Razov-Milkovic-Skabrnja-Monografija]]"]
 ---
 
 # Milković
@@ -32,3 +33,7 @@ Bunjevac starešina family from [[Medvidja|Medviđa]] [[Saric-2024-Vlasi-Istre]]
 <!-- census-merged -->
 ## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
 - [[Matija-Milkovic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Milcouich*)
+
+## Bearers (Škabrnja census 1686–1719) [[Razov-Milkovic-Skabrnja-Monografija]]
+- [[Lazar-Milkovic-b????-Skabrnja]] — Škabrnja, head of household, 1686–1719
+- [[Mile-Milkovic-b????]] — father of Lazar (patronymic "pok. Mile"; deceased by census)
