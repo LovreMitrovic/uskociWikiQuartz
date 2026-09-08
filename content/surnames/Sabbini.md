@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Sabbini
-variants: [Sabbini]
+variants: []
 attested_period: "1685 (retrospective to Candian War)"
 attested_places:
   - "Venetian service"

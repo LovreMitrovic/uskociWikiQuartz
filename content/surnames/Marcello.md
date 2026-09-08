@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Marcello
-variants: [Marcello, Marcelo]
+variants: [Marcelo]
 attested_period: "1684"
 attested_places:
   - "[[Venice]]"

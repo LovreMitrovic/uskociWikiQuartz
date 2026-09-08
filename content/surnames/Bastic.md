@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Bastić
-variants: [Bastich, Bastić]
+variants: [Bastich]
 attested_period: "1686"
 attested_places:
   - "[[Zvornik]] (paša)"

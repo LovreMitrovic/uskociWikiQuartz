@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Šantić
-variants: [Santich, Šantić]
+variants: [Santich]
 attested_period: "1685"
 attested_places:
   - "Venetian Dalmatia (Trogir/Klis area, Radoš consortium)"

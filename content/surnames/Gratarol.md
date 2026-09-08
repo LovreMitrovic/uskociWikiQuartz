@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Gratarol
-variants: [Gratarol, Grataroli]
+variants: [Grataroli]
 attested_period: "1684"
 attested_places:
   - "[[Venice]]"

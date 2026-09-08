@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Mušković
-variants: [Mušković, Muškovići]
+variants: [Muškovići]
 attested_period: "1433–1544+"
 attested_places:
   - "[[Muskovci]] (kod Obrovca)"

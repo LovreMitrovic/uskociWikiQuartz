@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Lantana
-variants: [Lantana]
+variants: []
 attested_period: "1684–1700"
 attested_places:
   - "[[Zadar]] (gradski plemić; *bilježnik*)"

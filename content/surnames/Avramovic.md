@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Avramović
-variants: [Abramovich, Avramović]
+variants: [Abramovich]
 etymology: "Patronymic from *Avram* (Abraham)."
 attested_period: "1685"
 attested_places:

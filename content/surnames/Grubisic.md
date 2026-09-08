@@ -9,7 +9,7 @@ attested_places:
   - "[[Novigrad-Dalmatia|Novigrad]] (1670 — capt. Marko)"
   - "[[Suhovare]] (1680 — Frane, Suhovare lessor)"
   - "[[Sibenik]] (carambassà Andrea Grubišić, 1653)"
-sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Grubišić
@@ -23,3 +23,8 @@ Already in Šarić's continuity-list of Zadar-hinterland anthroponyms. Multiple 
 - **kapetan Marko Grubišić iz Novigrada** — 1670-08-12 named to Mokro Polje guard (doc. 174).
 - **Francesco Grubissich** — 1680-05-03 lessor near Sovare in Suhovare (doc. 265).
 - **Grubissa Sincevich** — 1684-01-24 in possession of jewelry left by Turks with Bernardo Krivelari (doc. 366).
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Ivan-Grubisic-b????-Rastevic]] — Rastević, 1756 census (as *Grubissich*) — landholder, no household enumerated
+- [[Sime-Grubisic-b????-Rastevic]] — Rastević, 1756 census (as *Grubissich*) — household of 10

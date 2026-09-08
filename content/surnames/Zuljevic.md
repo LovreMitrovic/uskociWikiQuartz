@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Žuljević
-variants: [Žuljević, Zugljevich]
+variants: [Zugljevich]
 attested_period: "1685–1686"
 attested_places:
   - "[[Poljice|Poljica]] (provicija polička)"

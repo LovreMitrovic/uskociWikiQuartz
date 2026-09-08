@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Bajčić
-variants: [Baicich, Bajčić]
+variants: [Baicich]
 attested_period: "1684"
 attested_places:
   - "[[Vrana]]"

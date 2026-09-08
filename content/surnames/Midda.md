@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Midda
-variants: [Midda]
+variants: []
 attested_period: "1686"
 attested_places:
   - "[[Zadar]]"

@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Quirini
-variants: [Quirini]
+variants: []
 attested_period: "1686"
 attested_places:
   - "[[Venice]]"

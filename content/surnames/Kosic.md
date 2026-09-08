@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Kosić
-variants: [Cossich, Kosić]
+variants: [Cossich]
 attested_period: "1685"
 attested_places:
   - "[[Starigrad]] (Velebit littoral)"

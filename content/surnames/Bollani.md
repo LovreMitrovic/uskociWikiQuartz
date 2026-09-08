@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Bollani
-variants: [Bollani]
+variants: []
 attested_period: "1686"
 attested_places:
   - "[[Venice]]"

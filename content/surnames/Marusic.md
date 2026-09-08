@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Marušić
-variants: [Marussich, Marušić]
+variants: [Marussich]
 attested_period: "1684–1686"
 attested_places:
   - "[[Sinj]] / [[Split]] area (vojvoda Ivan Marušić)"

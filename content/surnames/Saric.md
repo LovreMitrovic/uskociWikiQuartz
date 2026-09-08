@@ -7,7 +7,7 @@ attested_places:
   - "[[Sibenik]] zaleđe (Cvijan Šarić serdar 1647–1668+)"
   - "[[Zagreb]] (modern; author Marko Šarić)"
   - "Dalmacija (Đeno Sarić, 1842 — recorder of Buna legend)"
-sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Saric-2008-Bunjevci]]", "[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Saric-2008-Bunjevci]]", "[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Šarić
@@ -31,3 +31,10 @@ The 1868-launched Subotica *Bunjevački kalendar* of **[[Boza-Sarcevic-b????-Sub
 <!-- census-merged -->
 ## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
 - [[Maddalena-Saric-b????-Punta-Ljupca]] — Punta Ljupča, 1610 census (as *Sarichia*)
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Josip-Saric-b????-Sv-Filip-i-Jakov]] — Sv. Filip i Jakov, 1756 census (as *Sarich*) — household of 6
+- [[Petar-Saric-b????-Vrana]] — Vrana, 1756 census (as *Sarich*) — household of 12
+- [[Juro-Saric-b????-Zemunik]] — Zemunik, 1756 census (as *Sarich*) — household of 6
+- [[Stanko-Saric-b????-Zemunik]] — Zemunik, 1756 census (as *Sarich*) — household of 17

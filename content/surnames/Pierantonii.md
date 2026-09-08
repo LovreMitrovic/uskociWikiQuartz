@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Pierantonii
-variants: [Pierantoni, Pierantonii]
+variants: [Pierantoni]
 attested_period: "1686"
 attested_places:
   - "[[Zadar]] (gradski plemić)"

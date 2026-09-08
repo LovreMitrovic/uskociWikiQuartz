@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Salomonić
-variants: [Salomonich, Salomonić]
+variants: [Salomonich]
 attested_period: "1685–1686"
 attested_places:
   - "Venetian Dalmatia"

@@ -1,0 +1,15 @@
+---
+type: surname
+canonical: Nikagi
+variants: [Nicagi]
+attested_period: "1756"
+attested_places:
+  - "[[Zemunik]]"
+sources: ["[[Stanojevic-1756-Zadar-Census]]"]
+---
+
+# Nikagi
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Stipan-Nikagi-b????-Zemunik]] — Zemunik, 1756 census (as *Nicagi*) — household of 2

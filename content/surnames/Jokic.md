@@ -1,11 +1,11 @@
 ---
 type: surname
 canonical: Jokić (Jočić)
-variants: [Jochic]
+variants: [Jochic, Giochich]
 attested_period: "1684"
 attested_places:
   - "Lika (origin) → [[Obrovac]] (1684 settlement, 4 houses)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Jokić
@@ -15,3 +15,7 @@ Single attestation: **Mirko Jokić iz Like** — 1684-01-11 settled in Obrovac w
 ## In Desnica II (1684–1749)
 
 - **Mirko Jokić (Mirco Giochich)** — capitano at Dračevac/Obrovac; appointed **capitano of Obrovac inhabitants** by Dolfin Feb 1696 (docs. 284, 290) [[Desnica-1951-Kotarski-Uskoci-II]]. Likely the same man as the 1684 Lika settler.
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Toma-Jokic-b????-Korlat]] — Korlat, 1756 census (as *Giochich*) — household of 10

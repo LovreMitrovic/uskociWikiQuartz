@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Marianović
-variants: [Marianović, Mariano, Marianovich]
+variants: [Mariano, Marianovich]
 attested_period: "1685"
 attested_places:
   - "Venetian service in [[Dalmatia]]"

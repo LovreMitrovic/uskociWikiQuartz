@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: del Borro
-variants: [del Borro, dal Borro, Bori, Borri]
+variants: [dal Borro, Bori, Borri]
 attested_period: "1684–1700"
 attested_places:
   - "[[Italy]] (marchesato del Borro, Tuscany)"

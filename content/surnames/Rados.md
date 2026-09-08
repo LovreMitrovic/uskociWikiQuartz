@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Radoš
-variants: [Rados, Radoš]
+variants: [Rados]
 attested_period: "1684–1686"
 attested_places:
   - "Venetian Dalmatia (Trogir / Klis area)"

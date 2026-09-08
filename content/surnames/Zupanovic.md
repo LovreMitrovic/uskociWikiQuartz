@@ -1,12 +1,12 @@
 ---
 type: surname
 canonical: Županović
-variants: [Župan, Zuppanovich]
+variants: [Župan, Zuppanovich, Zupanovich]
 attested_period: "16th c.–1653"
 attested_places:
   - "[[Tinj]] (župa Županovići)"
   - "[[Vojnic|Vojnić]] (origin)"
-sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Saric-2008-Bunjevci]]", "[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Saric-2008-Bunjevci]]", "[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Županović (Župan)
@@ -20,3 +20,7 @@ Vojnić starešina family — gives name to the "Županovići" subregion around 
 
 - **Jadre Zuppanović (Župan)** — from Gorica; killed by Ilija Janković in 1692 (doc. 268) [[Desnica-1951-Kotarski-Uskoci-II]].
 - **Tomica Župan (Tomiza Zupan)** — Obrovac inhabitant 1696 (doc. 284) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Stipan-Zupanovic-b????-Gorica-Vrana]] — Gorica, 1756 census (as *Zupanovich*) — household of 8

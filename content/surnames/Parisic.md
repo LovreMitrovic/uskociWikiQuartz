@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Parišić
-variants: [Parisich, Parišić]
+variants: [Parisich]
 attested_period: "1684"
 attested_places:
   - "[[Vrana]]"

@@ -1,11 +1,12 @@
 ---
 type: surname
 canonical: Milatović
-variants: []
+variants: [Milatovich, Millatouich]
 attested_period: "1679"
 attested_places:
+  - "[[Sv-Filip-i-Jakov|Sv. Filip i Jakov]]"
   - "[[Budin]]"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]", "[[Dundovic-1610-Zadar-Census]]"]
 ---
 
 # Milatović
@@ -19,6 +20,8 @@ Single attestation: **Martin Milatović** — 1679-05-16, in Valier's prison in 
 
 <!-- census-merged -->
 ## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
+- [[Vuko-Milatovic-b????-Sv-Filip-i-Jakov]] — Sv. Filip i Jakov, 1610 census (as *Millatouich*) — household of 5
+- [[Matthossa-Milatovic-b????-Sv-Filip-i-Jakov]] — Sv. Filip i Jakov, 1610 census (as *Millatouich*) — household of 6
 - [[Juraj-Milatovic-b????-Gruhe]] — Gruhe, 1610 census (as *Milatouich*)
 - [[Bariza-Milatovic-b????-Kozino]] — Kožino, 1610 census (as *Millatouichia*)
 - [[Juraj-Milatovic-b????-Posedarje]] — Posedarje, 1610 census (as *Millatouich*)
@@ -28,3 +31,8 @@ Single attestation: **Martin Milatović** — 1679-05-16, in Valier's prison in 
 - [[Matthessa-Milatovic-b????-Turanj]] — Turanj, 1610 census (as *Milatouich*)
 - [[Radan-Milatovic-b????-Turanj]] — Turanj, 1610 census (as *Milatouich*)
 - [[Simun-Milatovic-b????-Turanj]] — Turanj, 1610 census (as *Milatouich*)
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Jakov-Milatovic-b????-Sv-Filip-i-Jakov]] — Sv. Filip i Jakov, 1756 census (as *Milatovich*) — household of 10
+- [[Mijo-Milatovic-b????-Sv-Filip-i-Jakov]] — Sv. Filip i Jakov, 1756 census (as *Milatovich*) — household of 7

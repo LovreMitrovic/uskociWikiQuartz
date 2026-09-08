@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Califfi
-variants: [Califfo, Califfi]
+variants: [Califfo]
 origin_region: "Zadar (Italian/Venetian noble)"
 attested_period: "1696–1701"
 attested_places: ["[[Zadar]]", "[[Olib]]"]

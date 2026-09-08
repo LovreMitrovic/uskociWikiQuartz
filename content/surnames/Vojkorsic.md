@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Vojkorsić
-variants: [Voicorsich, Vojkorsić, Vojkosić]
+variants: [Voicorsich, Vojkosić]
 attested_period: "1685"
 attested_places:
   - "[[Citluk-Licki|Čitluk]] (Lika)"

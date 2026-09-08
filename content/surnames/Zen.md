@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Zen
-variants: [Zen, Zeno]
+variants: [Zeno]
 attested_period: "1684–1687"
 attested_places:
   - "[[Venice]]"

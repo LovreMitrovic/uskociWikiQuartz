@@ -7,7 +7,7 @@ attested_places:
   - "[[Pakostane|Pakoštane]]"
   - "[[Zadar]] / Bukovica (master of Turkish slave Tale Burić)"
   - "[[Skabrnja|Škabrnja]]"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Dundovic-1610-Zadar-Census]]", "[[Razov-Milkovic-Skabrnja-Monografija]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Dundovic-1610-Zadar-Census]]", "[[Razov-Milkovic-Skabrnja-Monografija]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Punoš
@@ -24,3 +24,16 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Dundovic-1610-Zadar-Census]]"
 ## Bearers (Škabrnja census 1686–1719) [[Razov-Milkovic-Skabrnja-Monografija]]
 - [[Ivan-Punos-b????-Skabrnja]] — Škabrnja, head of household, 1686–1719
 - [[Mijo-Punos-b????]] — father of Ivan (patronymic "pok. Mije"; deceased by census)
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Ivan-Punos-b????-Pakostane]] — Pakoštane, 1756 census (as *Punos*) — household of 9
+- [[Martin-Punos-b????-Pakostane]] — Pakoštane, 1756 census (as *Punos*) — household of 8
+- [[Mate-Punos-b????-Pakostane]] — Pakoštane, 1756 census (as *Punos*) — household of 8
+- [[Mate-Punos-b????-Pakostane-2]] — Pakoštane, 1756 census (as *Punos*) — household of 4
+- [[Ivan-Punos-b????-Biograd-na-Moru]] — Biograd na Moru, 1756 census (as *Punos*) — household of 9
+- [[Mate-Punos-b????-Biograd-na-Moru]] — Biograd na Moru, 1756 census (as *Punos*) — household of 7
+- [[Ivan-Punos-b????-Vrana]] — Vrana, 1756 census (as *Punos*) — household of 9
+- [[Martin-Punos-b????-Vrana]] — Vrana, 1756 census (as *Punos*) — household of 8
+- [[Mate-Punos-b????-Vrana]] — Vrana, 1756 census (as *Punos*) — household of 7
+- [[Mate-Punos-b????-Vrana-2]] — Vrana, 1756 census (as *Punos*) — household of 8

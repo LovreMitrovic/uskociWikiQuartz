@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Barbarigo
-variants: [Barbarigo, Barbadico]
+variants: [Barbadico]
 attested_period: "1685"
 attested_places:
   - "[[Venice]]"

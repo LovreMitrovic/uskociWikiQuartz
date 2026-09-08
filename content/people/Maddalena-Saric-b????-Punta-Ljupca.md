@@ -2,18 +2,22 @@
 type: person
 given_name: Maddalena
 given_name_variants: [Maddalena]
-surname: Sarić
+surname: Šarić
 surname_variants: [Sarichia]
 birth_place: "[[Punta-Ljupca|Punta Ljupča]]"
+birth_place_inferred: true
 occupation: head of household
 sources: ["[[Dundovic-1610-Zadar-Census]]"]
 confidence: low
 ---
 
-# Maddalena Sarić (fl. 1610, Punta Ljupča)
+# Maddalena Šarić (fl. 1610, Punta Ljupča)
 
 ## Summary
 Recorded as *Maddalena Sarichia*, head of household in [[Punta-Ljupca|Punta Ljupča]] in the 1610 Venetian census of the Zadar mainland district [[Dundovic-1610-Zadar-Census]]. Her household of 4 comprised 1 woman, 1 boy, 2 girls. [[Dundovic-1610-Zadar-Census]]
+
+## Notes
+- `birth_place` is **inferred from residence**: the census records the village where the household was enumerated in 1610, not a place of birth, and no birth record is attested. [[Dundovic-1610-Zadar-Census]]
 
 ## Sources
 - [[Dundovic-1610-Zadar-Census]]

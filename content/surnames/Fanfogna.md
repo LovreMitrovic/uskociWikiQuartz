@@ -7,7 +7,7 @@ attested_places:
   - "[[Zadar]] (gradski plemić)"
   - "[[Dracevac]] / Komorce (1671 — possessor)"
   - "[[Visocane|Visočane]] (1680 — Anđeo Fanfonja)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Fanfonja (Fanfogna)
@@ -25,3 +25,7 @@ Zadar patrician land-owning house.
 - **conte Anđelo (Angelo) Fanfogna** — 1698 commission member [[Desnica-1951-Kotarski-Uskoci-II]] (doc. 312).
 - **conte Simon Fanfogna** — nobleman, leased Kotari decima for 7800 reali via proxy Ilija Vrbnjčanin in 1704; targets of Bukovica revolt violence (doc. 352) [[Desnica-1951-Kotarski-Uskoci-II]].
 - **colonnello Fanfogna** — 1707 helped pop Petar Jagodić approach provveditor Da Riva (doc. 389) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Petar-Fanfogna-b????-Rastevic]] — Rastević, 1756 census — landholder, no household enumerated

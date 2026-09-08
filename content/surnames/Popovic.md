@@ -6,7 +6,7 @@ attested_period: "1646–1683"
 attested_places:
   - "[[Miranje]] (1646 — pop Petar Popović, paroh)"
   - "Petropolje villages, [[Sibenik]] zaleđe (1683 — knez Radivoj Popović of Dejanović)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Popović
@@ -20,3 +20,10 @@ Surname appearing across the Tromeđa as both clergy and lay knez.
 ## In Desnica II (1684–1749)
 
 - **Đuro Popović detto Opačić (Jura Popovich Opacich)** — harambaša of [[Mokro-Polje|Mokro Polje]]; received 15 stara of millet from Dolfin to distribute as seed; obliged to return same amount; signed 1693-02-23 in Zadar (doc. 265) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Kuzman-Popovic-b????-Nadin]] — Nadin, 1756 census (as *Popovich*) — household of 3
+- [[Andrija-Popovic-b????-Gornja-Jagodnja]] — Gornja Jagodnja, 1756 census (as *Popovich*) — household of 11
+- [[Vasil-Popovic-b????-Gornja-Jagodnja]] — Gornja Jagodnja, 1756 census (as *Popovich*) — household of 13
+- [[Vasil-Popovic-b????-Donja-Jagodnja]] — Donja Jagodnja, 1756 census (as *Popovich*) — household of 13

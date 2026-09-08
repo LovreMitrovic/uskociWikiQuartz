@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Smiljanić
-variants: [Smiglianich, Smoglianovich, Mihalevich]
+variants: [Smiglianich, Smoglianovich, Mihalevich, Smilianich]
 etymology: "Patronymic, possibly from a *Smiljan*."
 origin_region: "[[Udbina]] (Lika–Korbavija)"
 origin_correction: "**NOT from Smiljan.** Desnica's footnote on doc. 20 of [[Desnica-1950-Kotarski-Uskoci-I]] decisively shows that 'Pietro Smiglianich da Vavina' is a copyist's error for *Undina = Udbina* — and that the family-tradition placing them in Smiljan in Lika is incorrect: 'Smiljanići poreklom iz Udbine, a ne kako se priča i veruje, iz Smiljana u Lici.'"
@@ -11,7 +11,7 @@ attested_places:
   - "Bukovica (post-uskakanje, where they led the Bukovčani)"
   - "[[Zadar]] (Ilija granted a house 1653)"
   - "[[Nadin]] (Smoljan as commandant 1670)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Smiljanić — *poreklom iz Udbine*
@@ -60,3 +60,7 @@ Smiljanić family continues prominently through Morean War and into 18th c.; wid
 - Per supplica footnote in doc. 320: Filip's death was in a Šibenik brawl with Venetian soldiers (drunk), not killed by Turks as Lazaro claimed. Smoljan's claimed death at conquest of Sinj is also doubted by editor.
 - Marija's testament debtors include don Gregorio Begna (4 zecchini); recipients include Caterina Pizzocara, Vincenza Pastrović, padre Scutari (provinciale Dominican), Ellena daughter of dottor Cassio (diamond ring), her *compare* quartier mastro Luca Sbizza.
 - Notary: Andreas de Toris; consigliere/giudice: Biagio Soppe; commissario: Casseretti; conte di Zara: Giovanni Mirelli (doc. 267).
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Petar-Smiljanic-b????-Zemunik]] — Zemunik, 1756 census (as *Smilianich*) — landholder, no household enumerated

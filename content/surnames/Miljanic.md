@@ -6,7 +6,7 @@ attested_period: "1647–1653"
 attested_places:
   - "[[Cucullovaci|Čučulovci]] (origin) → naseljeni u [[Vrsi]]"
   - "[[Gracac]] (origin: Žure & Vido Miljanić)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Miljanić
@@ -30,3 +30,7 @@ Multiple Miljanić bearers in 1696 Obrovac inhabitant list (doc. 284) [[Desnica-
 - **Mattio Miljanić (Mattio Miglianich)** — captain of Krušev (Crussevo); **1704 rebel leader** in Bukovica revolt (doc. 352) [[Desnica-1951-Kotarski-Uskoci-II]].
 
 The Miljanić Obrovac group is one of those families noted by Desnica's footnote as **still living in Kruševo, the village adjacent to Obrovac** (continuity to modern times) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Marko-Miljanic-b????-Gorica-Vrana]] — Gorica, 1756 census (as *Miglianich*) — household of 4

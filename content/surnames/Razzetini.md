@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Razzetini
-variants: [Razzetini, Razzetine]
+variants: [Razzetine]
 attested_period: "1685"
 attested_places:
   - "Venetian service in [[Dalmatia]] (collonel)"

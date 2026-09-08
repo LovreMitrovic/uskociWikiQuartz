@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Žinović
-variants: [Xinovich, Žinović]
+variants: [Xinovich]
 attested_period: "1686"
 attested_places:
   - "[[Sibenik]] / Skradin (capo di territorio)"

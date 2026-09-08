@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Perini
-variants: [Perini]
+variants: []
 attested_period: "1686"
 attested_places:
   - "Venetian galeotta service / Cattaro"

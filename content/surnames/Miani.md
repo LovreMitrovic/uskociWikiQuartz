@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Miani
-variants: [Miani, Anzolo]
+variants: [Anzolo]
 attested_period: "1684"
 attested_places:
   - "[[Venice]]"

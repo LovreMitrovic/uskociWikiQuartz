@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Kumalić
-variants: [Cumalich, Kumalić]
+variants: [Cumalich]
 attested_period: "1687"
 attested_places:
   - "[[Udbina]]"

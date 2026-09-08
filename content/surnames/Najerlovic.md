@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Najerlović
-variants: [Naerlovich, Najerlović]
+variants: [Naerlovich]
 attested_period: "1684"
 attested_places:
   - "[[Vrana]]"

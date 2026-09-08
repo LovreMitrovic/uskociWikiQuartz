@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Gaeta
-variants: [Gaeta]
+variants: []
 attested_period: "1685–1686"
 attested_places:
   - "Venetian service in [[Dalmatia]]"

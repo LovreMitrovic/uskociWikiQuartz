@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Vučić
-variants: [Vucich, Vučić]
+variants: [Vucich]
 attested_period: "1684"
 attested_places:
   - "[[Vrana]]"

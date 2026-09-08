@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Valier
-variants: [Valier, Valiero]
+variants: [Valiero]
 attested_period: "1684–1700"
 attested_places:
   - "[[Venice]]"

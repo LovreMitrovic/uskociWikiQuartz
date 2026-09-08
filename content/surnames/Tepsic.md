@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Tepšić
-variants: [Tepsich, Tepšić]
+variants: [Tepsich]
 attested_period: "1686"
 attested_places:
   - "[[Lika]] (origin)"

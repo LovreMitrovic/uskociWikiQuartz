@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Solimano
-variants: [Solimano]
+variants: []
 etymology: "Italian rendering of *Sulayman*; bearer possibly a convert from Islam."
 attested_period: "1685"
 attested_places:

@@ -1,14 +1,14 @@
 ---
 type: surname
 canonical: Rukavina
-variants: []
+variants: [Rucavina]
 attested_period: "1636–"
 origin_region: "Bunjevac (Hercegovina, by family tradition: Hum, Vladimirovići clan)"
 attested_places:
   - "[[Jasenica]] / [[Morlakija]] (pre-Candian War)"
   - "[[Sv-Mihovil]], [[Sv-Rok]], [[Vratnik]], [[Ricice]], [[Kosinj]] (1691 Lika grants)"
   - "Lika regiment parishes: Budak, Ribnik, Udbina, Perušić, Kompolje, Drežnik-grad, Vaganac"
-sources: ["[[Saric-2008-Bunjevci]]"]
+sources: ["[[Saric-2008-Bunjevci]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Rukavina
@@ -21,3 +21,7 @@ Major Bunjevac lineage of [[Lika]] and [[Podgorje]]. The family preserves an ora
 - **1712** Lika–Krbava popis — Rukavina present in the parishes of Budak, Ribnik, Udbina (Lika regiment); Perušić, Kompolje (Otočac regiment); Drežnik-grad, Vaganac (Ogulin regiment).
 
 Andrija Kačić Miošić's 1756 pjesmarica names Rukavine among "vitezovi hrvatski" alongside [[Starcevic]], [[Balenovic]] and [[Dosen]] — illustrating the surname's military prominence by mid-18th c. [[Saric-2008-Bunjevci]]
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Marko-Rukavina-b????-Sukosan]] — Sukošan, 1756 census (as *Rucavina*) — household of 2

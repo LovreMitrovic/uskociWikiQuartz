@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Camuccio
-variants: [Camuccio, Camucio]
+variants: [Camucio]
 attested_period: "1685–1689"
 attested_places:
   - "Venetian engineer corps in [[Dalmatia]]"

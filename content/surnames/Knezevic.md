@@ -1,13 +1,13 @@
 ---
 type: surname
 canonical: Knežević
-variants: [Chnesevich]
+variants: [Chnesevich, Knesevich, Knezevich]
 attested_period: "1648–1683"
 attested_places:
   - "[[Parcic]] → ispod Poljica (post-uskakanje 1648)"
   - "[[Posedarje]] (1663 — Mirko Knežević, sudac)"
   - "[[Pristeg]] (1683 — knez Ilija Knežević)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Knežević
@@ -24,3 +24,9 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 
 - **Stefan Knežević (Steffano Cnesevich)** of Castel Venier (Vinjerac) — 1694-04-18 ordered to return goods stolen by Filippo, former servant of Orsola Troić (doc. 273) [[Desnica-1951-Kotarski-Uskoci-II]].
 - **Tadia Knežević** — captain of Castel Venier (Vinjerac); witness in Sfakioto's 1700 Grimani-commission protocols (doc. 321) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Ivan-Knezevic-b????-Nadin]] — Nadin, 1756 census (as *Knezevich*) — household of 3
+- [[Misko-Knezevic-b????-Vrana]] — Vrana, 1756 census (as *Knezevich*) — household of 16
+- [[Marko-Knezevic-b????-Zemunik]] — Zemunik, 1756 census (as *Knesevich*) — household of 10

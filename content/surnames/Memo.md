@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Memo
-variants: [Memo]
+variants: []
 attested_period: "1685"
 attested_places:
   - "[[Venice]]"

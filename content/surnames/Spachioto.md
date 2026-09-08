@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Spachioto
-variants: [Spachioto]
+variants: []
 attested_period: "1685"
 attested_places:
   - "[[Zadar]]"

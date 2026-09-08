@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Pop
-variants: [Pop]
+variants: []
 etymology: "Likely from *pop* = priest (Slavic), used as an occupational surname."
 attested_period: "1684"
 attested_places:

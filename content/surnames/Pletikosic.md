@@ -7,7 +7,7 @@ attested_places:
   - "[[Prkos]] (1653 — Zorzi Pleticosich da Percos)"
   - "[[Malpaga]] / [[Dracevac]] (1684 — Vido Pleticossa capitan)"
   - "Bukovica/Knin perimeter (1658-07-11 — Žorži the spy)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Pletikosić
@@ -20,3 +20,7 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 <!-- census-merged -->
 ## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
 - [[Martin-Pletikosic-b????-Posedarje]] — Posedarje, 1610 census (as *Pleticossich*)
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Josip-Pletikosic-b????-Galovac]] — Galovac, 1756 census (as *Pleticosich*) — household of 9

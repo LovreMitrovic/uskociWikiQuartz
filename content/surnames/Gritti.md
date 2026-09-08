@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Gritti
-variants: [Gritti]
+variants: []
 attested_period: "1684"
 attested_places:
   - "[[Venice]]"

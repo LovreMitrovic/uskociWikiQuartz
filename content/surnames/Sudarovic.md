@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Sudarović
-variants: [Sudarovich, Sudarević, Sudarović]
+variants: [Sudarovich, Sudarević]
 attested_period: "1685"
 attested_places:
   - "[[Parcici]] (in [[Lika]] — origin)"

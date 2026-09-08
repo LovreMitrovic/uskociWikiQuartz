@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Municasa
-variants: [Municasa]
+variants: []
 attested_period: "1685"
 attested_places:
   - "Venetian service in [[Dalmatia]]"

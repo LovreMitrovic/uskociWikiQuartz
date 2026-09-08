@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Sinovčić
-variants: [Sinovcich, Sinovčić]
+variants: [Sinovcich]
 attested_period: "1684"
 attested_places:
   - "[[Novigrad-Dalmatia|Novigrad]]"

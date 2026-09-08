@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Grizogono
-variants: [Grisogono, Grizogono]
+variants: [Grisogono]
 attested_period: "1686"
 attested_places:
   - "[[Zadar]] (gradski plemić)"

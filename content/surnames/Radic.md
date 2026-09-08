@@ -7,7 +7,7 @@ attested_places:
   - "[[Sibenik]] (Luka Radić harambaša 1654)"
   - "[[Boraja]] (alfier Petar 1683)"
   - "[[Sibenik]] (Stevan Radić harambaša 1653)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Radić
@@ -20,3 +20,8 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ## In Desnica II (1684–1749)
 
 - **Zuanne (Ivan) Radić** — harambaša of Blato (Hercegovina) 1694; one of 22 harambašas in the 5000-soul Brochno-Blato-Goranci migration (doc. 274) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Boze-Radic-b????-Gornja-Jagodnja]] — Gornja Jagodnja, 1756 census (as *Radich*) — household of 9
+- [[Nikola-Radic-b????-Tinj]] — Tinj, 1756 census (as *Radich*) — household of 14

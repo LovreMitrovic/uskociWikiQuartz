@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Foscarini
-variants: [Foscarini]
+variants: []
 attested_period: "1688"
 attested_places:
   - "[[Venice]]"

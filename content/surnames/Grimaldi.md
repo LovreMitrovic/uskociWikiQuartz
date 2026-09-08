@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Grimaldi
-variants: [Grimaldi, Varisano Grimaldi]
+variants: [Varisano Grimaldi]
 attested_period: "1684"
 attested_places:
   - "[[Venice]]"

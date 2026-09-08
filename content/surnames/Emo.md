@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Emo
-variants: [Emo, Anđelo]
+variants: [Anđelo]
 attested_period: "1684"
 attested_places:
   - "[[Venice]]"

@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Karalija
-variants: [Caralia, Karalija]
+variants: [Caralia]
 attested_period: "1686"
 attested_places:
   - "[[Cliuno|Livno]] / [[Bosna|Bosnia]] (Ottoman *četobaša*)"

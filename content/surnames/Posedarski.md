@@ -8,7 +8,7 @@ attested_places:
   - "[[Rome]] (1519 — chaplain Stjepan)"
   - "[[Nin]] (1672 — col. Frane the Younger as governator)"
   - "[[Zadar]] (Knez Anton Benja-Posedarski's archive — *Posedarski Zbornik*)"
-sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Posedarski (Benja-Posedarski)
@@ -55,3 +55,7 @@ The Posedarski continue as the senior Zadar-noble Morlach commanders into the 18
 
 ### Family note
 - Per Molin's 1691 doc. 235: the new colonnello Francesco is "figlio e nipote respective de medemi" — son of conte Francesco the Elder and nephew of his fratello conte Žorži. Both elder brothers were joint colonnelli. [[Desnica-1951-Kotarski-Uskoci-II]]
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Petar-Posedarski-b????-Korlat]] — Korlat, 1756 census (as *Possidaria*) — landholder, no household enumerated

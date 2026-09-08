@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Vendramin
-variants: [Vendramin]
+variants: []
 attested_period: "1685–1729"
 attested_places:
   - "[[Venice]]"

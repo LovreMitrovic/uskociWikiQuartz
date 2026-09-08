@@ -6,7 +6,7 @@ attested_period: "1683–1684"
 attested_places:
   - "[[Vrana]] (1684 — Frane Mirčetić leads 400 families settled in Vrana)"
   - "[[Zagora]] (post-1683 uskakanje source area)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Desnica-1951-Kotarski-Uskoci-II]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Desnica-1951-Kotarski-Uskoci-II]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Mirčetić
@@ -18,3 +18,12 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Desnica-1951-Kotarski-Uskoci-
 
 ## In Desnica II (1684–1749)
 - [[Frane-Mircetic-b????-Vrana|Frane Mirčetić]] — continues to appear as harambaša of Vrana; signatory of the 1684 Vrana petitions to Mocenigo (docs 35, 36) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Michiel-Mircetic-b????-Pakostane]] — Pakoštane, 1756 census (as *Mircetich*) — household of 11
+- [[Marko-Mircetic-b????-Vrana]] — Vrana, 1756 census (as *Mircetich*) — household of 4
+- [[Marko-Mircetic-b????-Vrana-2]] — Vrana, 1756 census (as *Mircetich*) — household of 4
+- [[Mate-Mircetic-b????-Vrana]] — Vrana, 1756 census (as *Mircetich*) — household of 6
+- [[Michiel-Mircetic-b????-Vrana]] — Vrana, 1756 census (as *Mircetich*) — household of 11
+- [[Stojan-Mircetic-b????-Vrana]] — Vrana, 1756 census (as *Mircetich*) — household of 4

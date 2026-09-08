@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Cona
-variants: [Cona]
+variants: []
 attested_period: "1686"
 attested_places:
   - "[[Sibenik]] / Skradin (territorio di Sebenico)"

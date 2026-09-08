@@ -30,6 +30,10 @@ Zdenko Dundović, "Popis stanovništva kopnenog dijela zadarskog okružja iz 161
 - The census covers only the mainland (kopneni) district, not the islands.
 
 ## Key facts extracted
-- Villages: 18 (Pakoštane, Biograd, Sv. Filip i Jakov, Turanj, Sukošan, Bibinje, Dračevac Zadarski, Ražanac, Posedarje, Ljubač, Gruhe, Bokanjac, Puntamika, Diklo, Bartulac, Petrčane, Kožino, Punta Ljupča).
-- Named household heads: ~350–450 (ingested as individual Person pages).
-- Persons added to wiki from this source: see log entry [[log#2026-07-21]] (ingest in progress, village by village).
+- Villages: 19 (Pakoštane, Biograd, Sv. Filip i Jakov, Turanj, Sukošan, Bibinje, Dračevac Zadarski, Ražanac, Posedarje, Ljubač, Gruhe, Bokanjac, Puntamika, Diklo, Bartulac, Petrčane, Kožino, Punta Ljupča, Glupavac).
+- **[[Sv-Filip-i-Jakov|Sv. Filip i Jakov]] was missed by the 2026-07-21 ingest and backfilled on 2026-09-08** — 16 households, 102 souls by the per-household figures. The printed *Ukupno* row for that village reads 110 (28 men / 36 women / 25 boys / 21 girls) against 102 (27/34/24/17) from the sixteen rows, each of which is internally consistent; the discrepancy is recorded on the Place page.
+- Named household heads: **637** Person pages (621 from the 2026-07-21 ingest + 16 backfilled 2026-09-08).
+- Persons added to wiki from this source: see log entries [[log#2026-07-21]] and [[log#2026-09-08]].
+
+## Schema note
+All 637 Person pages drawn from this source carry `birth_place` set to the census village plus **`birth_place_inferred: true`** and a Notes bullet, per the CLAUDE.md convention *Birth place when only residence is attested*. The census records residence, not birth; the flag was retrofitted on 2026-09-08.

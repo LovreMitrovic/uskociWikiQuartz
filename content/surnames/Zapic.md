@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Žapić
-variants: [Zappich, Žapić]
+variants: [Zappich]
 attested_period: "1684"
 attested_places:
   - "[[Zadar]]"

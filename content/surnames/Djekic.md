@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Đekić
-variants: [Đekić, Giekich, Djekić]
+variants: [Giekich, Djekić]
 attested_period: "1684"
 attested_places:
   - "[[Vrana]]"

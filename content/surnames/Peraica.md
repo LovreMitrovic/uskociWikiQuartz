@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Peraica
-variants: [Peraizza, Peraica]
+variants: [Peraizza]
 attested_period: "1685–1686"
 attested_places:
   - "[[Cetina]] (origin region)"

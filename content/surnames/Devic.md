@@ -8,7 +8,7 @@ attested_places:
   - "[[Bogoselci]] (1663 — Ivan Dević harambaša)"
   - "[[Zadar]] (1664 — Stevan Deović as kreditor)"
   - "Zadar zaleđe (medieval continuity)"
-sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Dević
@@ -26,3 +26,10 @@ Surname listed by Šarić among Zadar-hinterland anthroponyms with medieval-mode
 - [[Ivan-Devic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Deuich*)
 - [[Martin-Devic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Deuich*)
 - [[Pavao-Devic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Deuich*)
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Martin-Devic-b????-Sukosan]] — Sukošan, 1756 census (as *Devich*) — household of 6
+- [[Bare-Devic-b????-Galovac]] — Galovac, 1756 census (as *Devich*) — household of 7
+- [[Frane-Devic-b????-Galovac]] — Galovac, 1756 census (as *Devich*) — household of 12
+- [[Jakov-Devic-b????-Galovac]] — Galovac, 1756 census (as *Devich*) — household of 15

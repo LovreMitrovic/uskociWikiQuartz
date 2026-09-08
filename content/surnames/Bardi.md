@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Bardi
-variants: [Bardi]
+variants: []
 attested_period: "1686"
 attested_places:
   - "[[Zadar]] (alfier)"

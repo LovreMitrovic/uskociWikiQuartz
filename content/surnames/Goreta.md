@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Goreta
-variants: [Goretta, Goreta]
+variants: [Goretta]
 attested_period: "1686"
 attested_places:
   - "[[Sibenik]] / Skradin (capo di territorio)"

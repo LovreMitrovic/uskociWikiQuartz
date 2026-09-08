@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Spolverino
-variants: [Spolverino]
+variants: []
 attested_period: "1686"
 attested_places:
   - "Venetian service in [[Dalmatia]]"

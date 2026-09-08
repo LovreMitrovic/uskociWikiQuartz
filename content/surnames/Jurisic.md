@@ -1,11 +1,11 @@
 ---
 type: surname
 canonical: Jurišić
-variants: []
+variants: [Giurisich, Giurissich]
 attested_period: "1528–1538+"
 attested_places:
   - "Podgrad i Postojna (Habsburg)"
-sources: ["[[Saric-2024-Vlasi-Istre]]"]
+sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Jurišić
@@ -22,3 +22,11 @@ sources: ["[[Saric-2024-Vlasi-Istre]]"]
 <!-- census-merged -->
 ## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
 - [[Pavao-Jurisic-b????-Dracevac-Zadarski]] — Dračevac Zadarski, 1610 census (as *Jurissich*)
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Mate-Jurisic-b????-Sv-Filip-i-Jakov]] — Sv. Filip i Jakov, 1756 census (as *Giurisich*) — household of 12
+- [[Grgo-Jurisic-b????-Vrana]] — Vrana, 1756 census (as *Giurissich*) — household of 5
+- [[Grgo-Jurisic-b????-Vrana-2]] — Vrana, 1756 census (as *Giurissich*) — household of 7
+- [[Juraj-Jurisic-b????-Vrana]] — Vrana, 1756 census (as *Giurissich*) — household of 4
+- [[Martin-Jurisic-b????-Rastane]] — Raštane, 1756 census (as *Giurissich*) — household of 3

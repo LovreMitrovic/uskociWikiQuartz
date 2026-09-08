@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Tanusi
-variants: [Tanusi]
+variants: []
 attested_period: "1684–1685"
 attested_places:
   - "Venetian *Oltremarini* (Albanian / Greek-Venetian) service"

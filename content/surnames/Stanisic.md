@@ -1,11 +1,11 @@
 ---
 type: surname
 canonical: Stanišić
-variants: []
+variants: [Stanisich]
 attested_period: "16th–17th c."
 attested_places:
   - "Zadar zaleđe"
-sources: ["[[Saric-2024-Vlasi-Istre]]"]
+sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Stanišić
@@ -18,3 +18,7 @@ Surname listed by Šarić among Zadar-hinterland anthroponyms with medieval-mode
 - See also separate [[Stojanovic|Stojanović]] entry.
 
 Note: a Nikanor Stanković of Velika appears at Šaramprov of Kalinika 1698, protected from Bishop Busović's harassment (doc. 308) — surname Stanković, possibly distinct from Stanišić [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Mate-Stanisic-b????-Sv-Filip-i-Jakov]] — Sv. Filip i Jakov, 1756 census (as *Stanisich*) — household of 14

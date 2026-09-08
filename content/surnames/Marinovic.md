@@ -1,12 +1,12 @@
 ---
 type: surname
 canonical: Marinović
-variants: [Marinovich, Marinović]
+variants: [Marinovich]
 attested_period: "1685–1700s"
 attested_places:
   - "[[Forte-Opus]] (governator)"
   - "[[Krusevo]] (early 18th c.)"
-sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
+sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Marinović
@@ -20,3 +20,10 @@ sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
 ## 1610 census bearers (Dundović) [[Dundovic-1610-Zadar-Census]]
 - [[Jakov-Marinovic-b????-Ljubac]] — Ljubač, 1610 census (as *Marinouich*)
 - [[Juraj-Marinovic-b????-Sukosan]] — Sukošan, 1610 census (as *Marinouich*)
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Ivan-Marinovic-b????-Sukosan]] — Sukošan, 1756 census (as *Marinovich*) — household of 12
+- [[Josip-Marinovic-b????-Sukosan]] — Sukošan, 1756 census (as *Marinovich*) — household of 6
+- [[Stipan-Marinovic-b????-Sukosan]] — Sukošan, 1756 census (as *Marinovich*) — household of 6
+- [[Sime-Marinovic-b????-Sukosan]] — Sukošan, 1756 census (as *Marinovich*) — household of 7

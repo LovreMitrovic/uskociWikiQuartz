@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Pizzamano
-variants: [Pizzamano]
+variants: []
 attested_period: "1686–1689"
 attested_places:
   - "Venetian service in [[Dalmatia]]"

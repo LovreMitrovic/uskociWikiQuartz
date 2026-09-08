@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Kračić
-variants: [Cracich, Kračić]
+variants: [Cracich]
 attested_period: "1684"
 attested_places:
   - "[[Split]]"

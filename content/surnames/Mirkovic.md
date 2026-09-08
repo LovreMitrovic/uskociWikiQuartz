@@ -7,7 +7,7 @@ attested_places:
   - "[[Kosulovo-Polje|Kožulovo polje]] (origin)"
   - "[[Dracevac]] (1671 — Mattio Mirković, kapetan)"
   - "[[Posedarje]] (1663 — Mirko Mirković, sudac)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Mirković
@@ -23,3 +23,8 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ## In Desnica II (1684–1749)
 
 - **Aurelio Mirković (Aurelio Mircovich)** — difensor of Pago; signer of Pago salt contract 1694 (doc. 279) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Nikola-Mirkovic-b????-Gornja-Jagodnja]] — Gornja Jagodnja, 1756 census (as *Mircovich*) — landholder, no household enumerated
+- [[Nikola-Mirkovic-b????-Donja-Jagodnja]] — Donja Jagodnja, 1756 census (as *Mircovich*) — landholder, no household enumerated

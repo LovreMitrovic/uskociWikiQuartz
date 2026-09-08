@@ -4,10 +4,15 @@ canonical: Mazura
 variants: []
 attested_period: "1696"
 attested_places: ["[[Obrovac]]"]
-sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]"]
+sources: ["[[Desnica-1951-Kotarski-Uskoci-II]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Mazura
 
 ## Bearers in Desnica II
 - **Michiel Mazura (Mihovil Mazura)** — Obrovac inhabitant 1696 (doc. 284) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Ive-Mazura-b????-Tinj]] — Tinj, 1756 census — household of 6
+- [[Sava-Mazura-b????-Tinj]] — Tinj, 1756 census — household of 7

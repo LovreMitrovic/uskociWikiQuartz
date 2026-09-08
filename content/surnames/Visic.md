@@ -1,6 +1,6 @@
 ---
 type: surname
-canonical: Visić
+canonical: Višić
 variants: [Vissich]
 attested_period: "1610"
 attested_places:
@@ -10,8 +10,9 @@ attested_places:
 sources: ["[[Dundovic-1610-Zadar-Census]]"]
 ---
 
-# Visić
+# Višić
 
+*Spelling note: `canonical` normalized 2026-09-08 from *Visić* to **Višić** — the two census ingests had written different forms into Person frontmatter; both now read Višić.*
 <!-- census-merged -->
 ## Bearers (1610 Zadar census)
 - [[Gaspar-Visic-b????-Diklo]] — Diklo, 1610 census (as *Vissich*)

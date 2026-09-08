@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Mocenigo
-variants: [Mocenigo, Moćenigo]
+variants: [Moćenigo]
 attested_period: "1684–1700"
 attested_places:
   - "[[Venice]]"

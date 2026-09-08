@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Pasqualigo
-variants: [Pasqualigo, Paskvaligo]
+variants: [Paskvaligo]
 attested_period: "1684"
 attested_places:
   - "[[Venice]]"

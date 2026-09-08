@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Alberti
-variants: [Alberti]
+variants: []
 attested_period: "1684–1700"
 attested_places:
   - "[[Zadar]] (Zaratino plemić)"

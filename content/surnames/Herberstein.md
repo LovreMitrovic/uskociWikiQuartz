@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Herberstein
-variants: [Herberstein, Herbeštajn]
+variants: [Herbeštajn]
 attested_period: "1685"
 attested_places:
   - "[[Karlovac]] (Habsburg general)"

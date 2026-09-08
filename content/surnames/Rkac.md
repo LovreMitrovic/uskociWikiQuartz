@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Rkać
-variants: [Grego, Rkać]
+variants: [Grego]
 etymology: "From the South Slavic pejorative *rkać* / *rkati* — a derogatory term for Orthodox Christians (= Italian *Grego* in this source's footnote)."
 attested_period: "1685"
 attested_places:

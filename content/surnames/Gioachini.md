@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Gioachini
-variants: [Gioachini, Đoakini]
+variants: [Đoakini]
 attested_period: "1684–1686"
 attested_places:
   - "[[Zadar]]"

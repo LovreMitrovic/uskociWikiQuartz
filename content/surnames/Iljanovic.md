@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Iljanović
-variants: [Illynova, Illyanova, Iljanović, Iljanova]
+variants: [Illynova, Illyanova, Iljanova]
 attested_period: "1686"
 attested_places:
   - "[[Vienna]] (Imperial service)"

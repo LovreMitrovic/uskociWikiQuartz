@@ -1,6 +1,6 @@
 ---
 type: surname
-canonical: Pusić
+canonical: Pušić
 variants: [Pussich, Pussichia]
 attested_period: "1610"
 attested_places:
@@ -9,8 +9,9 @@ attested_places:
 sources: ["[[Dundovic-1610-Zadar-Census]]"]
 ---
 
-# Pusić
+# Pušić
 
+*Spelling note: `canonical` normalized 2026-09-08 from *Pusić* to **Pušić** — the two census ingests had written different forms into Person frontmatter; both now read Pušić.*
 <!-- census-merged -->
 ## Bearers (1610 Zadar census)
 - [[Anica-Pusic-b????-Bartulac]] — Bartulac, 1610 census (as *Pussichia*)

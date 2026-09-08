@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Grimani
-variants: [Grimani]
+variants: []
 attested_period: "1685–1700"
 attested_places:
   - "[[Venice]]"

@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Strmić
-variants: [Starmich, Strmić]
+variants: [Starmich]
 attested_period: "1685"
 attested_places:
   - "Venetian Dalmatia (Trogir/Klis area, Radoš consortium)"

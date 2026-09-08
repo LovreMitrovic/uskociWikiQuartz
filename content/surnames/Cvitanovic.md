@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Cvitanović
-variants: [Zuitanovich, Cvitanovich, Cvitanović]
+variants: [Zuitanovich, Cvitanovich]
 attested_period: "1686–1700"
 attested_places:
   - "[[Sibenik]] territory"

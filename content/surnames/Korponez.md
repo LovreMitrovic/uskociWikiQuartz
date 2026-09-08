@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Korponež
-variants: [Corponese, Korponež]
+variants: [Corponese]
 attested_period: "1686"
 attested_places:
   - "Venetian galeotta service (Cattaro / [[Pastrovici|Paštrovići]])"

@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Tori
-variants: [Tori]
+variants: []
 attested_period: "1686"
 attested_places:
   - "[[Zadar]] (*bilježnik*)"

@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Palikuća
-variants: [Palicuchia, Palikuća]
+variants: [Palicuchia]
 etymology: "From *paliti kuću* (to burn the house) — a typical compound nickname-surname."
 attested_period: "1686"
 attested_places:

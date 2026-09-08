@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Brkljača
-variants: [Berchliazza, Brkljača]
+variants: [Berchliazza]
 attested_period: "1684"
 attested_places:
   - "[[Radovin]]"

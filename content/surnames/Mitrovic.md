@@ -11,7 +11,7 @@ attested_places:
   - "[[Islam]] (1670 — Janković investitura on house of Jusuf-aga Tunić)"
   - "[[Zadar]] (later residence)"
   - "[[Skabrnja|Škabrnja]]"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Razov-Milkovic-Skabrnja-Monografija]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Razov-Milkovic-Skabrnja-Monografija]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Mitrović (later Janković-Mitrović)
@@ -81,3 +81,7 @@ Doge Alvise Mocenigo dukal of **1705-08-20** granted hereditary *conte* title to
 ## Bearers (Škabrnja census 1686–1719) [[Razov-Milkovic-Skabrnja-Monografija]]
 - [[Jure-Mitrovic-b????-Skabrnja]] — Škabrnja, head of household (detto *Bugarin*), 1686–1719
 - [[Ivan-Mitrovic-b????]] — father of Jure (patronymic "pok. Ivana"; deceased by census)
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Lucija-Mitrovic-b????-Donje-Biljane]] — Donje Biljane, 1756 census (as *Mitrovich*) — household of 4

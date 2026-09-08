@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Tartaglia
-variants: [Tartaglia]
+variants: []
 attested_period: "1685"
 attested_places:
   - "[[Trogir]] / Kaštela"

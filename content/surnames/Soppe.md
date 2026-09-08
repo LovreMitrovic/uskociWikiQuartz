@@ -1,12 +1,12 @@
 ---
 type: surname
 canonical: Sope (Soppe)
-variants: [Soppe, Šope]
+variants: [Soppe, Šope, Sope]
 attested_period: "1648–1684"
 attested_places:
   - "[[Zadar]] (gradski plemić)"
   - "[[Biograd-na-Moru|Zaravecchia]] (1683 — knez Julio governator)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Desnica-1951-Kotarski-Uskoci-II]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Desnica-1951-Kotarski-Uskoci-II]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Šope (Soppe)
@@ -25,3 +25,8 @@ Zadar patrician family with multiple branches active over the period.
 - **kavalier Giovan Battista Soppe Fortezza** — appears across the early Morean War correspondence (docs 15, 19, 24, 32) [[Desnica-1951-Kotarski-Uskoci-II]].
 - **Biagio Soppe, dottor** — consigliere of corte di Zara, executor of Marija Smiljanić's 1693 testament (doc. 267) [[Desnica-1951-Kotarski-Uskoci-II]].
 - **Giovanni Battista Soppe Fortezza, magnifico signor governator** — nobile zaratino consigliere 1701; **co-owner of half of Olib island** (the other half sold by conte Giacomo Califfi to Zaviša Mitrović 1701-11-26, doc. 336) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Biasio-Soppe-b????-Vrana]] — Vrana, 1756 census (as *Sope*) — landholder, no household enumerated
+- [[Ivan-Soppe-b????-Pristeg]] — Pristeg, 1756 census — landholder, no household enumerated

@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Lopušić
-variants: [Lopusich, Lopušić]
+variants: [Lopusich]
 attested_period: "1685"
 attested_places:
   - "[[Knin]] (Ottoman frontier)"

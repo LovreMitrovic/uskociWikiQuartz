@@ -8,7 +8,7 @@ attested_places:
   - "[[Posedarje]] / Bukovica (1648 — Ilija)"
   - "[[Bocagnazzo|Bokanjac]] (1672 — Šimun Milković assigned for settlement)"
   - "[[Skabrnja|Škabrnja]]"
-sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Razov-Milkovic-Skabrnja-Monografija]]"]
+sources: ["[[Saric-2024-Vlasi-Istre]]", "[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Razov-Milkovic-Skabrnja-Monografija]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Milković
@@ -37,3 +37,11 @@ Bunjevac starešina family from [[Medvidja|Medviđa]] [[Saric-2024-Vlasi-Istre]]
 ## Bearers (Škabrnja census 1686–1719) [[Razov-Milkovic-Skabrnja-Monografija]]
 - [[Lazar-Milkovic-b????-Skabrnja]] — Škabrnja, head of household, 1686–1719
 - [[Mile-Milkovic-b????]] — father of Lazar (patronymic "pok. Mile"; deceased by census)
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Bare-Milkovic-b????-Turanj]] — Turanj, 1756 census (as *Milcovich*) — household of 10
+- [[Sime-Milkovic-b????-Turanj]] — Turanj, 1756 census (as *Milcovich*) — household of 10
+- [[Filip-Milkovic-b????-Zemunik]] — Zemunik, 1756 census (as *Milcovich*) — household of 7
+- [[Grgo-Milkovic-b????-Zemunik]] — Zemunik, 1756 census (as *Milcovich*) — household of 4
+- [[Jure-Milkovic-b????-Pristeg]] — Pristeg, 1756 census (as *Milcovich*) — household of 6

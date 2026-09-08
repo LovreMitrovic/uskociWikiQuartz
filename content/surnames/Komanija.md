@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Komanija
-variants: [Comania, Komanija]
+variants: [Comania]
 attested_period: "1686"
 attested_places:
   - "Ottoman territory (captured by Sinobad in or near [[Polisnik|Poličnik]])"

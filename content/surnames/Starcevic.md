@@ -1,14 +1,14 @@
 ---
 type: surname
 canonical: Starčević
-variants: []
+variants: [Starcevich]
 attested_period: "1627–"
 origin_region: "Bunjevac, via Lič 1627"
 attested_places:
   - "[[Lic]] (1627 second Krmpote migration)"
   - "[[Veliki-Zitnik]] / [[Pazariste]] (Lika, post-1690)"
   - "[[Klanac]], [[Gospic]] (later)"
-sources: ["[[Saric-2008-Bunjevci]]"]
+sources: ["[[Saric-2008-Bunjevci]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Starčević
@@ -40,3 +40,7 @@ The 1712 popis lists **Starčević as a surname shared between Bunjevci (Catholi
 - [[Filip-Starcevic-b????-Pazariste]] — knez (late 18th c.)
 - [[Sime-Starcevic-b1784-Lika]] — priest, grammarian
 - [[Ante-Starcevic-b1823-Veliki-Zitnik]] — founder of HSP
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Marko-Starcevic-b????-Donja-Jagodnja]] — Donja Jagodnja, 1756 census (as *Starcevich*) — household of 6

@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Oluić
-variants: [Oluich, Oluić]
+variants: [Oluich]
 attested_period: "1686"
 attested_places:
   - "[[Bilisani|Bilišane]] (above [[Obrovac]] — settled c. 1685)"

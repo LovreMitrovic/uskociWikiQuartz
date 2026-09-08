@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Contarini
-variants: [Contarini, Kontarini]
+variants: [Kontarini]
 attested_period: "1684"
 attested_places:
   - "[[Venice]]"

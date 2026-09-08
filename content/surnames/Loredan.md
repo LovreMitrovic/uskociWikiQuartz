@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Loredan
-variants: [Loredan]
+variants: []
 attested_period: "1685–1689"
 attested_places:
   - "[[Venice]]"

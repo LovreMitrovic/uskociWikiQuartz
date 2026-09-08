@@ -2,7 +2,7 @@
 type: person
 given_name: Jure
 surname: Bugarin
-surname_variants: [Bugarija (as printed, with ?)]
+surname_variants: ["Bugarija"]   # printed as "Bugarija?" in the source
 occupation: head of household
 sources: ["[[Razov-Milkovic-Skabrnja-Monografija]]"]
 confidence: medium

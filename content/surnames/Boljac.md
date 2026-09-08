@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Boljač
-variants: [Bogliach, Boljač]
+variants: [Bogliach]
 attested_period: "1684"
 attested_places:
   - "[[Castel-Venier]] (Vinjerac, Posedarje area)"

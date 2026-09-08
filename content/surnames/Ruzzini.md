@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Ruzzini
-variants: [Ruzzini]
+variants: []
 attested_period: "1685"
 attested_places:
   - "[[Venice]]"

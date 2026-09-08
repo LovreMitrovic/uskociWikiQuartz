@@ -1,7 +1,7 @@
 ---
 type: surname
 canonical: Podgorica
-variants: [Podgorica]
+variants: []
 attested_period: "1685–1686"
 attested_places:
   - "[[Zadar]] / Bukovica"

@@ -6,7 +6,7 @@ attested_period: "1652–1684"
 attested_places:
   - "[[Oton]] (1652 — Constadin Stojanović slave)"
   - "[[Pakostane|Pakoštani]] (1684 — Mihovil capitan)"
-sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
+sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]", "[[Stanojevic-1756-Zadar-Census]]"]
 ---
 
 # Stojanović
@@ -18,3 +18,7 @@ sources: ["[[Desnica-1950-Kotarski-Uskoci-I]]"]
 ## In Desnica II (1684–1749)
 
 - **Nikola Stojanović (Nicolo Stoianovich)** — courier; named in 1734 as messenger to forward money to imprisoned pop Petar Jagodić-Kuridža in Venetian Pozzi/Camerotti prisons (doc. 385) [[Desnica-1951-Kotarski-Uskoci-II]].
+
+<!-- census-merged -->
+## 1756 census bearers (Stanojević) [[Stanojevic-1756-Zadar-Census]]
+- [[Mate-Stojanovic-b????-Sukosan]] — Sukošan, 1756 census (as *Stoianovich*) — household of 6
